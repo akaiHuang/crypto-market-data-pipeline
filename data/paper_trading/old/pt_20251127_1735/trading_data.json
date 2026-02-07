@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "start_timestamp": "20251127_173544",
+    "end_timestamp": null,
+    "test_duration_hours": 8.0,
+    "initial_capital": 100.0,
+    "total_decisions": 0,
+    "final_balances": {}
+  },
+  "orders": {
+    "M_AI_WHALE_HUNTER": [
+      {
+        "order_id": "M_AI_WHALE_HUNTER_1764236150781",
+        "strategy": "M_AI_WHALE_HUNTER",
+        "direction": "LONG",
+        "leverage": 45,
+        "size": 0.4,
+        "entry_price": 91763.95,
+        "actual_entry_price": 91782.30279,
+        "position_value": 40.0,
+        "take_profit_pct": 8.0,
+        "stop_loss_pct": 4.0,
+        "entry_reason": "M_AI_WHALE_HUNTER AI Signal: LONG (AI: 100x, TP=8.0%, SL=3.0%)",
+        "entry_time": "2025-11-27T17:35:50.700000",
+        "exit_price": 91800.55,
+        "exit_time": "2025-11-27T17:38:07.788000",
+        "exit_reason": "TRAILING_STOP",
+        "holding_seconds": 137.088,
+        "entry_fee": 0.9,
+        "exit_fee": 0.9,
+        "funding_fee": 0.0008568,
+        "total_fees": 1.8008568,
+        "pnl_usdt": -1.4429993808507713,
+        "roi": -3.6074984521269284,
+        "entry_obi": 0,
+        "entry_vpin": 0,
+        "entry_spread": 0,
+        "is_blocked": false,
+        "blocked_reasons": []
+      }
+    ],
+    "M_DRAGON": []
+  }
+}

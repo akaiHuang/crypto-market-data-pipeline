@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-12-17T22:47:44.411123",
+  "hours_analyzed": 24,
+  "stats": {
+    "atr_pct": 0.06357270548150507,
+    "std_pct": 0.05437815360288713,
+    "volatility_1h": 0.6473611014989943,
+    "volatility_4h": 1.1513824579089016,
+    "volatility_24h": 2.278225818018466,
+    "avg_spread_pct": 0.018346099160665964,
+    "avg_swing_pct": 0.4088854905102138,
+    "avg_pullback_pct": 0.5831651824488281,
+    "max_pullback_pct": 1.3763610223349703,
+    "noise_floor_pct": 0.08191880464217102
+  },
+  "suggestions": {
+    "stop_loss_min": 0.12287820696325653,
+    "stop_loss_max": 0.6997982189385937,
+    "take_profit_min": 0.24533129430612827,
+    "take_profit_max": 0.5756912289544508
+  }
+}

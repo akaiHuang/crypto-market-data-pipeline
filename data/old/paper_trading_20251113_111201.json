@@ -1,0 +1,598 @@
+{
+  "metadata": {
+    "timestamp": "20251113_111201",
+    "initial_capital": 100.0,
+    "decision_interval": 15,
+    "total_decisions": 10,
+    "modes": [
+      "mode_0_baseline",
+      "mode_1_vpin_only",
+      "mode_2_liquidity_only",
+      "mode_3_full_control",
+      "mode_4_trend_following",
+      "mode_5_mean_reversion",
+      "mode_6_dynamic_stop",
+      "mode_7_hybrid",
+      "mode_8_technical_loose",
+      "mode_9_technical_strict",
+      "mode_10_technical_off",
+      "mode_13_adaptive",
+      "mode_14_dynamic_leverage"
+    ],
+    "leverage_config": {
+      "mode_0_baseline": 5,
+      "mode_1_vpin_only": 3,
+      "mode_2_liquidity_only": 3,
+      "mode_3_full_control": 5,
+      "mode_4_trend_following": 4,
+      "mode_5_mean_reversion": 2,
+      "mode_6_dynamic_stop": 3,
+      "mode_7_hybrid": 4,
+      "mode_8_technical_loose": 3,
+      "mode_9_technical_strict": 2,
+      "mode_10_technical_off": 4,
+      "mode_13_adaptive": 3,
+      "mode_14_dynamic_leverage": 20
+    },
+    "end_timestamp": "20251113_111309",
+    "final_balances": {
+      "mode_0_baseline": 98.60720482416623,
+      "mode_1_vpin_only": 100.0,
+      "mode_2_liquidity_only": 100.0,
+      "mode_3_full_control": 100.0,
+      "mode_4_trend_following": 100.0,
+      "mode_5_mean_reversion": 100.0,
+      "mode_6_dynamic_stop": 100.0,
+      "mode_7_hybrid": 100.0,
+      "mode_8_technical_loose": 100.0,
+      "mode_9_technical_strict": 100.0,
+      "mode_10_technical_off": 100.0,
+      "mode_13_adaptive": 100.0,
+      "mode_14_dynamic_leverage": 100.0
+    }
+  },
+  "orders": {
+    "mode_0_baseline": [
+      {
+        "order_id": 0,
+        "mode": "mode_0_baseline",
+        "timestamp": 1763003521950,
+        "entry_time": "2025-11-13T11:12:01.950000",
+        "entry_price": 101637.35,
+        "actual_entry_price": 101617.02253,
+        "market_data": {
+          "obi": -0.7051236540054432,
+          "obi_velocity": 0.0,
+          "signed_volume": -2.777,
+          "volume_imbalance": -0.9107904230895375,
+          "vpin": 0.3,
+          "spread_bps": 0.009838902725353312,
+          "total_depth": 12.594000000000001,
+          "depth_imbalance": -0.6784182944259171,
+          "price": 101637.35,
+          "timestamp": 1763003521886,
+          "obi_5min": -0.7051236540054432,
+          "obi_15min": -0.7051236540054432,
+          "obi_30min": -0.7051236540054432,
+          "obi_1hour": -0.7051236540054432,
+          "obi_4hour": -0.7051236540054432,
+          "obi_8hour": -0.7051236540054432
+        },
+        "direction": "SHORT",
+        "confidence": 0.29037832071542913,
+        "risk_level": "UNKNOWN",
+        "signal": {
+          "direction": "SHORT",
+          "confidence": 0.29037832071542913,
+          "details": {
+            "signal": "NEUTRAL",
+            "confidence": 0.29037832071542913,
+            "long_score": 0.0,
+            "short_score": 0.29037832071542913,
+            "components": {
+              "obi": {
+                "value": -0.7051236540054432,
+                "long_contribution": 0.0,
+                "short_contribution": 0.2820494616021773,
+                "weight": 0.4
+              },
+              "velocity": {
+                "value": 0.0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.2
+              },
+              "volume": {
+                "value": -2.777,
+                "normalized": -0.027762863710839376,
+                "long_contribution": 0.0,
+                "short_contribution": 0.008328859113251812,
+                "weight": 0.3
+              },
+              "microprice": {
+                "value": 0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.1
+              }
+            },
+            "timestamp": 1763003521886
+          },
+          "forced": true
+        },
+        "capital": 100.0,
+        "leverage": 5,
+        "size": 0.3,
+        "position_value": 150.0,
+        "stop_loss_pct": 5.0,
+        "take_profit_pct": 8.0,
+        "exit_price": 101699.95,
+        "exit_time": "2025-11-13T11:12:17.292000",
+        "exit_reason": "REVERSE_SIGNAL",
+        "holding_seconds": 15.342,
+        "entry_fee": 0.075,
+        "exit_fee": 0.075,
+        "funding_fee": 1.9177500000000004e-05,
+        "total_fees": 0.1500191775,
+        "pnl_usdt": -0.30245543881069864,
+        "pnl_pct": -0.20163695920713243,
+        "roi": -0.30245543881069864,
+        "status": "CLOSED",
+        "can_trade": true,
+        "blocked_reasons": []
+      },
+      {
+        "order_id": 1,
+        "mode": "mode_0_baseline",
+        "timestamp": 1763003537292,
+        "entry_time": "2025-11-13T11:12:17.292000",
+        "entry_price": 101699.95,
+        "actual_entry_price": 101720.28998999999,
+        "market_data": {
+          "obi": 0.840784157891251,
+          "obi_velocity": 1.5459078118966942,
+          "signed_volume": 2.796,
+          "volume_imbalance": 0.801605504587156,
+          "vpin": 0.9000185691007939,
+          "spread_bps": 0.009832894868735354,
+          "total_depth": 14.907000000000002,
+          "depth_imbalance": 0.8500033541289327,
+          "price": 101699.95,
+          "timestamp": 1763003537243,
+          "obi_5min": 0.06783025194290393,
+          "obi_15min": 0.06783025194290393,
+          "obi_30min": 0.06783025194290393,
+          "obi_1hour": 0.06783025194290393,
+          "obi_4hour": 0.06783025194290393,
+          "obi_8hour": 0.06783025194290393
+        },
+        "direction": "LONG",
+        "confidence": 0.5446994780343621,
+        "risk_level": "UNKNOWN",
+        "signal": {
+          "direction": "LONG",
+          "confidence": 0.5446994780343621,
+          "details": {
+            "signal": "NEUTRAL",
+            "confidence": 0.5446994780343621,
+            "long_score": 0.5446994780343621,
+            "short_score": 0.0,
+            "components": {
+              "obi": {
+                "value": 0.840784157891251,
+                "long_contribution": 0.33631366315650046,
+                "short_contribution": 0.0,
+                "weight": 0.4
+              },
+              "velocity": {
+                "value": 1.5459078118966942,
+                "long_contribution": 0.2,
+                "short_contribution": 0.0,
+                "weight": 0.2
+              },
+              "volume": {
+                "value": 2.796,
+                "normalized": 0.02795271625953896,
+                "long_contribution": 0.008385814877861688,
+                "short_contribution": 0.0,
+                "weight": 0.3
+              },
+              "microprice": {
+                "value": 0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.1
+              }
+            },
+            "timestamp": 1763003537243
+          },
+          "forced": true
+        },
+        "capital": 99.6975445611893,
+        "leverage": 5,
+        "size": 0.3,
+        "position_value": 149.54631684178395,
+        "stop_loss_pct": 5.0,
+        "take_profit_pct": 8.0,
+        "exit_price": 101659.15,
+        "exit_time": "2025-11-13T11:12:22.601000",
+        "exit_reason": "REVERSE_SIGNAL",
+        "holding_seconds": 5.309,
+        "entry_fee": 0.07477315842089198,
+        "exit_fee": 0.07477315842089198,
+        "funding_fee": 6.616178300941925e-06,
+        "total_fees": 0.1495529330200849,
+        "pnl_usdt": -0.2693305173013852,
+        "pnl_pct": -0.18009839559360713,
+        "roi": -0.27014759339041067,
+        "status": "CLOSED",
+        "can_trade": true,
+        "blocked_reasons": []
+      },
+      {
+        "order_id": 2,
+        "mode": "mode_0_baseline",
+        "timestamp": 1763003542601,
+        "entry_time": "2025-11-13T11:12:22.601000",
+        "entry_price": 101659.15,
+        "actual_entry_price": 101638.81817,
+        "market_data": {
+          "obi": -0.30009137188356616,
+          "obi_velocity": -1.1408755297748172,
+          "signed_volume": -0.19799999999999998,
+          "volume_imbalance": -0.07076483202287347,
+          "vpin": 0.9020551110801657,
+          "spread_bps": 0.009835419015038734,
+          "total_depth": 7.15,
+          "depth_imbalance": -0.3616783216783217,
+          "price": 101659.15,
+          "timestamp": 1763003542551,
+          "obi_5min": -0.0548102893325861,
+          "obi_15min": -0.0548102893325861,
+          "obi_30min": -0.0548102893325861,
+          "obi_1hour": -0.0548102893325861,
+          "obi_4hour": -0.0548102893325861,
+          "obi_8hour": -0.0548102893325861
+        },
+        "direction": "SHORT",
+        "confidence": 0.3206305479771885,
+        "risk_level": "UNKNOWN",
+        "signal": {
+          "direction": "SHORT",
+          "confidence": 0.3206305479771885,
+          "details": {
+            "signal": "NEUTRAL",
+            "confidence": 0.3206305479771885,
+            "long_score": 0.0,
+            "short_score": 0.3206305479771885,
+            "components": {
+              "obi": {
+                "value": -0.30009137188356616,
+                "long_contribution": 0.0,
+                "short_contribution": 0.12003654875342647,
+                "weight": 0.4
+              },
+              "velocity": {
+                "value": -1.1408755297748172,
+                "long_contribution": 0.0,
+                "short_contribution": 0.2,
+                "weight": 0.2
+              },
+              "volume": {
+                "value": -0.19799999999999998,
+                "normalized": -0.0019799974125400575,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0005939992237620173,
+                "weight": 0.3
+              },
+              "microprice": {
+                "value": 0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.1
+              }
+            },
+            "timestamp": 1763003542551
+          },
+          "forced": true
+        },
+        "capital": 99.42821404388792,
+        "leverage": 5,
+        "size": 0.3,
+        "position_value": 149.14232106583188,
+        "stop_loss_pct": 5.0,
+        "take_profit_pct": 8.0,
+        "exit_price": 101631.85,
+        "exit_time": "2025-11-13T11:12:27.907000",
+        "exit_reason": "VPIN_SPIKE",
+        "holding_seconds": 5.306,
+        "entry_fee": 0.07457116053291594,
+        "exit_fee": 0.07457116053291594,
+        "funding_fee": 6.594576296460866e-06,
+        "total_fees": 0.14914891564212834,
+        "pnl_usdt": -0.16875041228615364,
+        "pnl_pct": -0.11314723485607192,
+        "roi": -0.1697208522841079,
+        "status": "CLOSED",
+        "can_trade": true,
+        "blocked_reasons": []
+      },
+      {
+        "order_id": 3,
+        "mode": "mode_0_baseline",
+        "timestamp": 1763003547907,
+        "entry_time": "2025-11-13T11:12:27.907000",
+        "entry_price": 101631.85,
+        "actual_entry_price": 101611.52363000001,
+        "market_data": {
+          "obi": -0.8733926805143422,
+          "obi_velocity": -0.573301308630776,
+          "signed_volume": -2.585,
+          "volume_imbalance": -0.8422939068100358,
+          "vpin": 0.8718197665469348,
+          "spread_bps": 0.009839435176204,
+          "total_depth": 12.187000000000001,
+          "depth_imbalance": -0.6584885533765489,
+          "price": 101631.85,
+          "timestamp": 1763003547810,
+          "obi_5min": -0.25945588712802514,
+          "obi_15min": -0.25945588712802514,
+          "obi_30min": -0.25945588712802514,
+          "obi_1hour": -0.25945588712802514,
+          "obi_4hour": -0.25945588712802514,
+          "obi_8hour": -0.25945588712802514
+        },
+        "direction": "SHORT",
+        "confidence": 0.5571103453121525,
+        "risk_level": "UNKNOWN",
+        "signal": {
+          "direction": "SHORT",
+          "confidence": 0.5571103453121525,
+          "details": {
+            "signal": "NEUTRAL",
+            "confidence": 0.5571103453121525,
+            "long_score": 0.0,
+            "short_score": 0.5571103453121525,
+            "components": {
+              "obi": {
+                "value": -0.8733926805143422,
+                "long_contribution": 0.0,
+                "short_contribution": 0.34935707220573686,
+                "weight": 0.4
+              },
+              "velocity": {
+                "value": -0.573301308630776,
+                "long_contribution": 0.0,
+                "short_contribution": 0.2,
+                "weight": 0.2
+              },
+              "volume": {
+                "value": -2.585,
+                "normalized": -0.0258442436880523,
+                "long_contribution": 0.0,
+                "short_contribution": 0.007753273106415689,
+                "weight": 0.3
+              },
+              "microprice": {
+                "value": 0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.1
+              }
+            },
+            "timestamp": 1763003547810
+          },
+          "forced": true
+        },
+        "capital": 99.25946363160176,
+        "leverage": 5,
+        "size": 0.3,
+        "position_value": 148.88919544740264,
+        "stop_loss_pct": 5.0,
+        "take_profit_pct": 8.0,
+        "exit_price": 101659.65,
+        "exit_time": "2025-11-13T11:12:33.223000",
+        "exit_reason": "REVERSE_SIGNAL",
+        "holding_seconds": 5.316,
+        "entry_fee": 0.07444459772370132,
+        "exit_fee": 0.07444459772370132,
+        "funding_fee": 6.595791358319938e-06,
+        "total_fees": 0.14889579123876096,
+        "pnl_usdt": -0.24920627615786717,
+        "pnl_pct": -0.1673770050331846,
+        "roi": -0.25106550754977686,
+        "status": "CLOSED",
+        "can_trade": true,
+        "blocked_reasons": []
+      },
+      {
+        "order_id": 4,
+        "mode": "mode_0_baseline",
+        "timestamp": 1763003553223,
+        "entry_time": "2025-11-13T11:12:33.223000",
+        "entry_price": 101659.65,
+        "actual_entry_price": 101679.98193,
+        "market_data": {
+          "obi": 0.3062548262548263,
+          "obi_velocity": 1.1796475067691685,
+          "signed_volume": 3.148,
+          "volume_imbalance": 0.5427586206896553,
+          "vpin": 0.8610344867682664,
+          "spread_bps": 0.009837886388277652,
+          "total_depth": 13.276,
+          "depth_imbalance": 0.9954805664356735,
+          "price": 101658.55,
+          "timestamp": 1763003553175,
+          "obi_5min": -0.14631374445145484,
+          "obi_15min": -0.14631374445145484,
+          "obi_30min": -0.14631374445145484,
+          "obi_1hour": -0.14631374445145484,
+          "obi_4hour": -0.14631374445145484,
+          "obi_8hour": -0.14631374445145484
+        },
+        "direction": "LONG",
+        "confidence": 0.33194281210026794,
+        "risk_level": "UNKNOWN",
+        "signal": {
+          "direction": "LONG",
+          "confidence": 0.33194281210026794,
+          "details": {
+            "signal": "NEUTRAL",
+            "confidence": 0.33194281210026794,
+            "long_score": 0.33194281210026794,
+            "short_score": 0.0,
+            "components": {
+              "obi": {
+                "value": 0.3062548262548263,
+                "long_contribution": 0.12250193050193053,
+                "short_contribution": 0.0,
+                "weight": 0.4
+              },
+              "velocity": {
+                "value": 1.1796475067691685,
+                "long_contribution": 0.2,
+                "short_contribution": 0.0,
+                "weight": 0.2
+              },
+              "volume": {
+                "value": 3.148,
+                "normalized": 0.031469605327791375,
+                "long_contribution": 0.009440881598337413,
+                "short_contribution": 0.0,
+                "weight": 0.3
+              },
+              "microprice": {
+                "value": 0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.1
+              }
+            },
+            "timestamp": 1763003553175
+          },
+          "forced": true
+        },
+        "capital": 99.0102573554439,
+        "leverage": 5,
+        "size": 0.3,
+        "position_value": 148.51538603316584,
+        "stop_loss_pct": 5.0,
+        "take_profit_pct": 8.0,
+        "exit_price": 101668.15,
+        "exit_time": "2025-11-13T11:12:54.373000",
+        "exit_reason": "REVERSE_SIGNAL",
+        "holding_seconds": 21.15,
+        "entry_fee": 0.07425769301658292,
+        "exit_fee": 0.07425769301658292,
+        "funding_fee": 2.617583678834548e-05,
+        "total_fees": 0.14854156186995418,
+        "pnl_usdt": -0.195523086351939,
+        "pnl_pct": -0.13165173762419172,
+        "roi": -0.1974776064362876,
+        "status": "CLOSED",
+        "can_trade": true,
+        "blocked_reasons": []
+      },
+      {
+        "order_id": 5,
+        "mode": "mode_0_baseline",
+        "timestamp": 1763003574373,
+        "entry_time": "2025-11-13T11:12:54.373000",
+        "entry_price": 101668.15,
+        "actual_entry_price": 101647.81637,
+        "market_data": {
+          "obi": -0.3416723011043498,
+          "obi_velocity": -1.202501432023205,
+          "signed_volume": -4.1850000000000005,
+          "volume_imbalance": -0.47422096317280465,
+          "vpin": 0.8504119147729223,
+          "spread_bps": 0.009835922065196312,
+          "total_depth": 8.737,
+          "depth_imbalance": -0.3377589561634428,
+          "price": 101668.15,
+          "timestamp": 1763003574373,
+          "obi_5min": 0.025065159369101937,
+          "obi_15min": 0.025065159369101937,
+          "obi_30min": 0.025065159369101937,
+          "obi_1hour": 0.025065159369101937,
+          "obi_4hour": 0.025065159369101937,
+          "obi_8hour": 0.025065159369101937
+        },
+        "direction": "SHORT",
+        "confidence": 0.34921659586990256,
+        "risk_level": "UNKNOWN",
+        "signal": {
+          "direction": "SHORT",
+          "confidence": 0.34921659586990256,
+          "details": {
+            "signal": "NEUTRAL",
+            "confidence": 0.34921659586990256,
+            "long_score": 0.0,
+            "short_score": 0.34921659586990256,
+            "components": {
+              "obi": {
+                "value": -0.3416723011043498,
+                "long_contribution": 0.0,
+                "short_contribution": 0.13666892044173992,
+                "weight": 0.4
+              },
+              "velocity": {
+                "value": -1.202501432023205,
+                "long_contribution": 0.0,
+                "short_contribution": 0.2,
+                "weight": 0.2
+              },
+              "volume": {
+                "value": -4.1850000000000005,
+                "normalized": -0.04182558476054225,
+                "long_contribution": 0.0,
+                "short_contribution": 0.012547675428162675,
+                "weight": 0.3
+              },
+              "microprice": {
+                "value": 0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.1
+              }
+            },
+            "timestamp": 1763003574373
+          },
+          "forced": true
+        },
+        "capital": 98.81473426909196,
+        "leverage": 5,
+        "size": 0.3,
+        "position_value": 148.22210140363794,
+        "stop_loss_pct": 5.0,
+        "take_profit_pct": 8.0,
+        "exit_price": 101668.15,
+        "exit_time": "2025-11-13T11:12:59.751000",
+        "exit_reason": "REVERSE_SIGNAL",
+        "holding_seconds": 5.378,
+        "entry_fee": 0.07411105070181898,
+        "exit_fee": 0.07411105070181898,
+        "funding_fee": 6.6428205112397075e-06,
+        "total_fees": 0.1482287442241492,
+        "pnl_usdt": -0.20752944492572636,
+        "pnl_pct": -0.14001248326697438,
+        "roi": -0.21001872490046158,
+        "status": "CLOSED",
+        "can_trade": true,
+        "blocked_reasons": []
+      }
+    ],
+    "mode_1_vpin_only": [],
+    "mode_2_liquidity_only": [],
+    "mode_3_full_control": [],
+    "mode_4_trend_following": [],
+    "mode_5_mean_reversion": [],
+    "mode_6_dynamic_stop": [],
+    "mode_7_hybrid": [],
+    "mode_8_technical_loose": [],
+    "mode_9_technical_strict": [],
+    "mode_10_technical_off": [],
+    "mode_13_adaptive": [],
+    "mode_14_dynamic_leverage": []
+  }
+}

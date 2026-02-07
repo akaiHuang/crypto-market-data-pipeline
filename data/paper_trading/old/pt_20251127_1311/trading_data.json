@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "start_timestamp": "20251127_131158",
+    "end_timestamp": null,
+    "test_duration_hours": 8.0,
+    "initial_capital": 100.0,
+    "total_decisions": 0,
+    "final_balances": {}
+  },
+  "orders": {
+    "M_AI_WHALE_HUNTER": [
+      {
+        "order_id": "M_AI_WHALE_HUNTER_1764220797501",
+        "strategy": "M_AI_WHALE_HUNTER",
+        "direction": "LONG",
+        "leverage": 60,
+        "size": 0.5,
+        "entry_price": 91200.05,
+        "actual_entry_price": 91218.29001,
+        "position_value": 50.0,
+        "take_profit_pct": 13.0,
+        "stop_loss_pct": 6.5,
+        "entry_reason": "M_AI_WHALE_HUNTER Add Position: ADD_LONG",
+        "entry_time": "2025-11-27T13:19:57.406000",
+        "exit_price": 91381.55,
+        "exit_time": "2025-11-27T13:23:26.344000",
+        "exit_reason": "VPIN_LOCK_PROFIT",
+        "holding_seconds": 208.938,
+        "entry_fee": 1.5,
+        "exit_fee": 1.5,
+        "funding_fee": 0.0021764375,
+        "total_fees": 3.0021764375,
+        "pnl_usdt": 2.3671411625813494,
+        "roi": 4.734282325162699,
+        "entry_obi": 0,
+        "entry_vpin": 0,
+        "entry_spread": 0,
+        "is_blocked": false,
+        "blocked_reasons": []
+      },
+      {
+        "order_id": "M_AI_WHALE_HUNTER_1764220802722",
+        "strategy": "M_AI_WHALE_HUNTER",
+        "direction": "LONG",
+        "leverage": 60,
+        "size": 0.5,
+        "entry_price": 91206.45,
+        "actual_entry_price": 91224.69128999999,
+        "position_value": 50.0,
+        "take_profit_pct": 13.0,
+        "stop_loss_pct": 6.5,
+        "entry_reason": "M_AI_WHALE_HUNTER Add Position: ADD_LONG",
+        "entry_time": "2025-11-27T13:20:02.698000",
+        "exit_price": 91390.75,
+        "exit_time": "2025-11-27T13:23:32.329000",
+        "exit_reason": "VPIN_LOCK_PROFIT",
+        "holding_seconds": 209.631,
+        "entry_fee": 1.5,
+        "exit_fee": 1.5,
+        "funding_fee": 0.00218365625,
+        "total_fees": 3.00218365625,
+        "pnl_usdt": 2.4587954159219447,
+        "roi": 4.9175908318438895,
+        "entry_obi": 0,
+        "entry_vpin": 0,
+        "entry_spread": 0,
+        "is_blocked": false,
+        "blocked_reasons": []
+      }
+    ],
+    "M_DRAGON": []
+  }
+}

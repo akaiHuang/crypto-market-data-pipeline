@@ -1,0 +1,136 @@
+{
+  "symbol": "BTCUSDT",
+  "decisions": [
+    {
+      "timestamp": 1762792119768.807,
+      "datetime": "2025-11-11T00:28:39.768807",
+      "price": 105124.88500000001,
+      "decision": {
+        "timestamp": 1762792119768.807,
+        "symbol": "BTCUSDT",
+        "signal": {
+          "direction": "NEUTRAL",
+          "confidence": 0.3997033233342663,
+          "details": {
+            "signal": "NEUTRAL",
+            "confidence": 0.3997033233342663,
+            "long_score": 0.3997033233342663,
+            "short_score": 0.0,
+            "components": {
+              "obi": {
+                "value": 0.9991563714520999,
+                "long_contribution": 0.39966254858084,
+                "short_contribution": 0.0,
+                "weight": 0.4
+              },
+              "velocity": {
+                "value": 0.0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.2
+              },
+              "volume": {
+                "value": 0.01359,
+                "normalized": 0.00013589999916336292,
+                "long_contribution": 4.0769999749008875e-05,
+                "short_contribution": 0.0,
+                "weight": 0.3
+              },
+              "microprice": {
+                "value": 4.7536772784163956e-08,
+                "long_contribution": 4.753677278416396e-09,
+                "short_contribution": 0.0,
+                "weight": 0.1
+              }
+            },
+            "timestamp": 1762792119768.807
+          }
+        },
+        "regime": {
+          "is_safe": false,
+          "risk_level": "CRITICAL",
+          "blocked_reasons": [
+            "\u6975\u5ea6\u5931\u8861 (+1.00) - \u55ae\u908a\u5e02\u5834"
+          ],
+          "details": {
+            "is_safe": false,
+            "risk_level": "CRITICAL",
+            "blocked_reasons": [
+              "\u6975\u5ea6\u5931\u8861 (+1.00) - \u55ae\u908a\u5e02\u5834"
+            ],
+            "risk_factors": [
+              [
+                "depth_imbalance",
+                "CRITICAL",
+                0.9994187614282461
+              ]
+            ],
+            "checks": {
+              "vpin": {
+                "value": 0.3,
+                "threshold": 0.5,
+                "risk": "SAFE"
+              },
+              "spread": {
+                "value": 0.0009512495537818005,
+                "threshold": 10.0,
+                "risk": "SAFE"
+              },
+              "depth": {
+                "value": 10.49483,
+                "threshold": 5.0,
+                "risk": "SAFE"
+              },
+              "depth_imbalance": {
+                "value": 0.9994187614282461,
+                "threshold": 0.7,
+                "risk": "CRITICAL"
+              }
+            },
+            "timestamp": 1762792119768.807
+          }
+        },
+        "execution": {
+          "signal": "NEUTRAL",
+          "confidence": 0.3997033233342663,
+          "risk_level": "CRITICAL",
+          "is_safe": false,
+          "execution_style": "NO_TRADE",
+          "position_size": 0.0,
+          "leverage": 1,
+          "entry_method": "NONE",
+          "stop_loss_pct": 0.0,
+          "take_profit_pct": 0.0,
+          "reason": [
+            "\u4fe1\u865f\u4e0d\u660e\u78ba",
+            "\u5e02\u5834\u98a8\u96aa\u904e\u9ad8 (CRITICAL)"
+          ],
+          "timestamp": 1762792119779.393,
+          "market_data": {
+            "obi": 0.9991563714520999,
+            "obi_velocity": 0.0,
+            "signed_volume": 0.01359,
+            "microprice_pressure": 4.7536772784163956e-08,
+            "vpin": 0.3,
+            "spread_bps": 0.0009512495537818005,
+            "total_depth": 10.49483,
+            "depth_imbalance": 0.9994187614282461,
+            "price": 105124.88500000001,
+            "timestamp": 1762792119768.807
+          }
+        },
+        "action": "NO_TRADE",
+        "can_trade": false
+      }
+    }
+  ],
+  "closed_positions": [],
+  "statistics": {
+    "total_decisions": 1,
+    "trade_signals": 0,
+    "trades_executed": 0,
+    "blocked_by_regime": 0,
+    "win_rate": 0,
+    "total_pnl": 0
+  }
+}

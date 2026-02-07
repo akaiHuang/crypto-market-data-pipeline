@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "start_timestamp": "20251130_014436",
+    "end_timestamp": null,
+    "test_duration_hours": 8.0,
+    "initial_capital": 100.0,
+    "total_decisions": 0,
+    "final_balances": {}
+  },
+  "orders": {
+    "M0_ULTRA_SAFE": [],
+    "M1_SAFE_PRIME": [],
+    "M2_NORMAL_PRIME": [],
+    "M_FISH_MARKET_MAKER": [],
+    "M6_SIGNAL_SANDBOX": [
+      {
+        "order_id": "M6_SIGNAL_SANDBOX_1764438277285",
+        "strategy": "M6_SIGNAL_SANDBOX",
+        "direction": "LONG",
+        "leverage": 30,
+        "size": 0.5,
+        "entry_price": 90550.05,
+        "actual_entry_price": 90529.65312298607,
+        "position_value": 50.0,
+        "take_profit_pct": 2.226,
+        "stop_loss_pct": 1.2,
+        "entry_reason": "[INVERTED] Hybrid SHORT: FZ=-4.47, Signal=1.79, OBI=-0.8946 (Original: SHORT) | Edge -0.07% | Micro 0.36",
+        "entry_time": "2025-11-30T01:45:07.370143",
+        "exit_price": 90535.7900390298,
+        "exit_time": "2025-11-30T01:46:57.784000",
+        "exit_reason": "TRAILING_STOP (TWAP)",
+        "holding_seconds": 110.413857,
+        "entry_fee": -0.15,
+        "exit_fee": -0.15,
+        "funding_fee": 0.000575072171875,
+        "total_fees": -0.29942492782812496,
+        "pnl_usdt": 0.4011084508290556,
+        "roi": 0.8022169016581112,
+        "entry_obi": -0.8946343191074906,
+        "entry_vpin": 0.3,
+        "entry_spread": 0.01104346985887227,
+        "is_blocked": false,
+        "blocked_reasons": []
+      }
+    ],
+    "M7_BREAKOUT_SNIPER": [],
+    "M8_VOLUME_SNIPER": [],
+    "M9_VOLATILITY_SNIPER": [],
+    "M_WHALE_WATCHER": [],
+    "M_LP_WHALE_BURST": [],
+    "MUP_DIRECTIONAL_LONG": [],
+    "MDOWN_DIRECTIONAL_SHORT": [],
+    "M_AI_WHALE_HUNTER": [],
+    "M_INVERSE_WOLF": [],
+    "M_DRAGON": [],
+    "M_DRAGON2": [],
+    "M_SHRIMP": [],
+    "M_BIRD": []
+  }
+}

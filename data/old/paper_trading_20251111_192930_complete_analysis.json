@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "test_start": "2025-11-11 16:35:00",
+    "test_end": "2025-11-11 19:29:38",
+    "duration_minutes": 174.63,
+    "total_decisions": 1520,
+    "data_source": "terminal_output_manual_extract"
+  },
+  "final_balances": {
+    "mode_0_no_risk": {
+      "realized_balance": 38.75,
+      "unrealized_pnl": -0.04,
+      "total_equity": 38.71,
+      "roi_percent": -61.29,
+      "leverage": 5,
+      "current_position": "SHORT @ 105250.80",
+      "position_holding_time_seconds": 8
+    },
+    "mode_1_vpin_only": {
+      "realized_balance": 100.00,
+      "unrealized_pnl": 0.00,
+      "total_equity": 100.00,
+      "roi_percent": 0.00,
+      "leverage": 3,
+      "current_position": "NONE",
+      "trades_count": 0,
+      "status": "完全觀望，VPIN風控成功"
+    },
+    "mode_2_liquidity_only": {
+      "realized_balance": 98.22,
+      "unrealized_pnl": 0.28,
+      "total_equity": 98.50,
+      "roi_percent": -1.50,
+      "leverage": 3,
+      "current_position": "LONG @ 105170.98",
+      "position_holding_time_seconds": 634,
+      "status": "有交易但整體虧損"
+    },
+    "mode_3_full_risk": {
+      "realized_balance": 100.00,
+      "unrealized_pnl": 0.00,
+      "total_equity": 100.00,
+      "roi_percent": 0.00,
+      "leverage": 5,
+      "current_position": "NONE",
+      "trades_count": 0,
+      "status": "完全觀望，完整風控成功"
+    }
+  },
+  "mode_0_trades_from_terminal": [
+    {
+      "trade_id": "extracted_1",
+      "timestamp": "19:28:16",
+      "decision_number": 1509,
+      "entry_price": 105256.49,
+      "exit_price": 105267.85,
+      "direction": "SHORT",
+      "holding_seconds": 31.3,
+      "pnl_usdt": -0.08,
+      "pnl_percent": -0.20,
+      "exit_reason": "REVERSE_SIGNAL",
+      "balance_after": 39.07,
+      "note": "反向平倉，OBI從負轉正"
+    },
+    {
+      "trade_id": "extracted_2",
+      "timestamp": "19:28:47",
+      "decision_number": 1511,
+      "entry_price": 105288.90,
+      "exit_price": 105267.85,
+      "direction": "LONG",
+      "holding_seconds": 5.2,
+      "pnl_usdt": -0.08,
+      "pnl_percent": -0.21,
+      "exit_reason": "REVERSE_SIGNAL",
+      "balance_after": 38.99,
+      "note": "極短持倉，手續費虧損"
+    },
+    {
+      "trade_id": "extracted_3",
+      "timestamp": "19:28:53",
+      "decision_number": 1512,
+      "entry_price": 105246.80,
+      "exit_price": 105267.85,
+      "direction": "SHORT",
+      "holding_seconds": 10.7,
+      "pnl_usdt": -0.08,
+      "pnl_percent": -0.21,
+      "exit_reason": "REVERSE_SIGNAL",
+      "balance_after": 38.91,
+      "note": "反向平倉，連續虧損"
+    },
+    {
+      "trade_id": "extracted_4",
+      "timestamp": "19:29:03",
+      "decision_number": 1514,
+      "entry_price": 105287.40,
+      "exit_price": 105266.35,
+      "direction": "LONG",
+      "holding_seconds": 10.7,
+      "pnl_usdt": -0.08,
+      "pnl_percent": -0.21,
+      "exit_reason": "REVERSE_SIGNAL",
+      "balance_after": 38.83,
+      "note": "OBI極度失衡觸發，仍虧損"
+    },
+    {
+      "trade_id": "extracted_5",
+      "timestamp": "19:29:30",
+      "decision_number": 1519,
+      "entry_price": 105287.40,
+      "exit_price": 105271.85,
+      "direction": "LONG",
+      "holding_seconds": 26.6,
+      "pnl_usdt": -0.08,
+      "pnl_percent": -0.20,
+      "exit_reason": "REVERSE_SIGNAL",
+      "balance_after": 38.75,
+      "note": "最後平倉記錄，餘額降至38.75"
+    },
+    {
+      "trade_id": "extracted_6",
+      "timestamp": "19:29:30",
+      "decision_number": 1520,
+      "entry_price": 105250.80,
+      "exit_price": null,
+      "direction": "SHORT",
+      "holding_seconds": 8,
+      "pnl_usdt": -0.04,
+      "pnl_percent": -0.10,
+      "exit_reason": "STILL_OPEN",
+      "balance_after": null,
+      "note": "測試結束時仍持倉，未實現虧損"
+    }
+  ],
+  "market_conditions": {
+    "last_price": 105277.65,
+    "vpin_range": "0.863 - 0.929",
+    "vpin_status": "持續高毒性 (>0.85)",
+    "obi_volatility": "極度波動 (-0.95 ~ +0.86)",
+    "spread_status": "良好 (0.01 bps)",
+    "depth_status": "中等 (6-18 BTC)"
+  },
+  "statistics_summary": {
+    "mode_0": {
+      "total_closed_trades": 5,
+      "win_rate": 0.0,
+      "total_loss": -61.25,
+      "average_holding_seconds": 16.9,
+      "average_loss_per_trade": -0.08,
+      "trades_per_hour": 1.72,
+      "fatal_issues": [
+        "極短持倉時間 (5-31秒)",
+        "手續費完全吃掉利潤",
+        "頻繁反向交易",
+        "在高VPIN市場持續交易"
+      ]
+    },
+    "mode_1": {
+      "trades": 0,
+      "roi": 0.0,
+      "protection": "VPIN風控100%阻擋"
+    },
+    "mode_2": {
+      "estimated_trades": "數筆",
+      "roi": -1.50,
+      "current_position_holding": "634秒 (10.5分鐘)",
+      "protection": "流動性風控未阻擋VPIN高毒性時段"
+    },
+    "mode_3": {
+      "trades": 0,
+      "roi": 0.0,
+      "protection": "完整風控100%阻擋"
+    }
+  },
+  "key_findings": {
+    "1_mode0_disaster": {
+      "title": "Mode 0 災難性虧損",
+      "loss_percent": -61.29,
+      "loss_amount": 61.29,
+      "trades_in_last_minute": 3,
+      "average_loss_per_trade": 0.08,
+      "root_causes": [
+        "無風控強制交易所有信號",
+        "持倉時間過短 (平均17秒)",
+        "手續費佔比過高 (每筆$0.058)",
+        "反向信號頻繁觸發",
+        "在VPIN 0.88-0.93高毒性市場持續交易"
+      ]
+    },
+    "2_risk_control_effectiveness": {
+      "title": "風控有效性證明",
+      "mode1_vs_mode0": {
+        "mode1_roi": 0.0,
+        "mode0_roi": -61.29,
+        "difference": 61.29,
+        "conclusion": "VPIN風控救回全部本金"
+      },
+      "mode3_vs_mode0": {
+        "mode3_roi": 0.0,
+        "mode0_roi": -61.29,
+        "difference": 61.29,
+        "conclusion": "完整風控救回全部本金"
+      },
+      "mode2_performance": {
+        "roi": -1.50,
+        "vs_mode0": 59.79,
+        "conclusion": "流動性風控有效但不足，需加VPIN"
+      }
+    },
+    "3_fee_impact": {
+      "title": "手續費影響分析",
+      "position_value": 58.0,
+      "fee_per_trade": 0.058,
+      "fee_percentage": 0.1,
+      "required_price_movement": "0.1%才能打平",
+      "actual_holding_time": "17秒平均",
+      "actual_price_movement": "0.01-0.02% (不足)",
+      "conclusion": "持倉時間不足以累積利潤覆蓋手續費"
+    },
+    "4_market_unsuitability": {
+      "title": "市場不適合高頻交易",
+      "vpin_level": "0.88-0.93 (極高)",
+      "meaning": "知情交易者活躍，閃崩風險高",
+      "recommendation": "應等待VPIN < 0.7時段",
+      "mode1_mode3_decision": "正確阻擋所有交易"
+    }
+  },
+  "recommendations": {
+    "immediate": [
+      "立即停止使用Mode 0進行任何測試",
+      "Mode 2需要加入VPIN風控",
+      "等待VPIN < 0.7的低毒性時段再測試"
+    ],
+    "parameter_adjustments": [
+      "最小持倉時間: 60秒 (當前: 無限制)",
+      "信心度閾值: > 0.7 (當前: 無限制)",
+      "Mode 0槓桿: 降至2-3x (當前: 5x)",
+      "倉位比例: 降至20% (當前: 30%)"
+    ],
+    "strategy_improvements": [
+      "整合VPIN到所有模式",
+      "動態調整槓桿 (高VPIN時降低)",
+      "增加冷卻時間 (平倉後等30秒)",
+      "改用Maker訂單降低手續費 (0.02% vs 0.05%)"
+    ]
+  },
+  "comparison_with_16_24_test": {
+    "test_16_24": {
+      "duration": "約3分鐘",
+      "mode0_trades": 4,
+      "mode0_loss": -0.78,
+      "vpin_range": "0.85-0.88"
+    },
+    "test_19_29": {
+      "duration": "約3小時",
+      "mode0_trades": "數百筆(估計)",
+      "mode0_loss": -61.29,
+      "vpin_range": "0.86-0.93"
+    },
+    "extrapolation": {
+      "loss_rate_per_hour": 20.43,
+      "if_continue_to_5_hours": "預計歸零",
+      "warning": "絕對不可用於真實交易"
+    }
+  }
+}

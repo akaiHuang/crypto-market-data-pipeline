@@ -1,0 +1,40 @@
+{
+  "test_info": {
+    "start_time": "2025-11-16T02:04:31.429067",
+    "end_time": "2025-11-16T05:04:31.995636",
+    "duration_hours": 3.000157381111111,
+    "initial_capital": 100.0
+  },
+  "modes": {
+    "M0_ULTRA_SAFE": {
+      "final_balance": 100.0,
+      "pnl": 0.0,
+      "orders": []
+    },
+    "M1_SAFE": {
+      "final_balance": 100.0,
+      "pnl": 0.0,
+      "orders": []
+    },
+    "M2_NORMAL": {
+      "final_balance": 100.0,
+      "pnl": 0.0,
+      "orders": []
+    },
+    "M3_AGGRESSIVE": {
+      "final_balance": 100.0,
+      "pnl": 0.0,
+      "orders": []
+    },
+    "M4_VERY_AGGRESSIVE": {
+      "final_balance": 100.0,
+      "pnl": 0.0,
+      "orders": []
+    },
+    "M5_ULTRA_AGGRESSIVE": {
+      "final_balance": 100.0,
+      "pnl": 0.0,
+      "orders": []
+    }
+  }
+}

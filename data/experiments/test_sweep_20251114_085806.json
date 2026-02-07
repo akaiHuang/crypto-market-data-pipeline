@@ -1,0 +1,952 @@
+{
+  "experiment_name": "test_sweep",
+  "timestamp": "2025-11-14T08:58:06.978111",
+  "total_experiments": 45,
+  "results": [
+    {
+      "parameters": {
+        "holding_time_seconds": 30,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.3,
+        "profit_factor": 0.3988952800294228,
+        "sharpe_ratio": -6.7520318095287175,
+        "sortino_ratio": -20.787615072193514,
+        "max_drawdown": 1953.6397798690305,
+        "total_pnl": -1839.0356917942554,
+        "avg_win": 81.35938524414183,
+        "avg_loss": -87.41218487018237,
+        "tp_exits": 0,
+        "sl_exits": 28,
+        "time_exits": 22
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 30,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.34,
+        "profit_factor": 0.34417199512523905,
+        "sharpe_ratio": -7.181872520346266,
+        "sortino_ratio": -11.911906565542548,
+        "max_drawdown": 2784.686503279241,
+        "total_pnl": -2670.082415204466,
+        "avg_win": 82.42544809624258,
+        "avg_loss": -123.3731828133512,
+        "tp_exits": 0,
+        "sl_exits": 11,
+        "time_exits": 39
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 30,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.34,
+        "profit_factor": 0.38770370240236407,
+        "sharpe_ratio": -5.901130495287408,
+        "sortino_ratio": -8.220989454834456,
+        "max_drawdown": 2459.483309588788,
+        "total_pnl": -2212.9516394487,
+        "avg_win": 82.42544809624258,
+        "avg_loss": -109.52073506317649,
+        "tp_exits": 0,
+        "sl_exits": 2,
+        "time_exits": 48
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 30,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.3,
+        "profit_factor": 0.3988952800294228,
+        "sharpe_ratio": -6.7520318095287175,
+        "sortino_ratio": -20.787615072193514,
+        "max_drawdown": 1953.6397798690305,
+        "total_pnl": -1839.0356917942554,
+        "avg_win": 81.35938524414183,
+        "avg_loss": -87.41218487018237,
+        "tp_exits": 0,
+        "sl_exits": 28,
+        "time_exits": 22
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 30,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.34,
+        "profit_factor": 0.34417199512523905,
+        "sharpe_ratio": -7.181872520346266,
+        "sortino_ratio": -11.911906565542548,
+        "max_drawdown": 2784.686503279241,
+        "total_pnl": -2670.082415204466,
+        "avg_win": 82.42544809624258,
+        "avg_loss": -123.3731828133512,
+        "tp_exits": 0,
+        "sl_exits": 11,
+        "time_exits": 39
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 30,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.34,
+        "profit_factor": 0.38770370240236407,
+        "sharpe_ratio": -5.901130495287408,
+        "sortino_ratio": -8.220989454834456,
+        "max_drawdown": 2459.483309588788,
+        "total_pnl": -2212.9516394487,
+        "avg_win": 82.42544809624258,
+        "avg_loss": -109.52073506317649,
+        "tp_exits": 0,
+        "sl_exits": 2,
+        "time_exits": 48
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 30,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.3,
+        "profit_factor": 0.3988952800294228,
+        "sharpe_ratio": -6.7520318095287175,
+        "sortino_ratio": -20.787615072193514,
+        "max_drawdown": 1953.6397798690305,
+        "total_pnl": -1839.0356917942554,
+        "avg_win": 81.35938524414183,
+        "avg_loss": -87.41218487018237,
+        "tp_exits": 0,
+        "sl_exits": 28,
+        "time_exits": 22
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 30,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.34,
+        "profit_factor": 0.34417199512523905,
+        "sharpe_ratio": -7.181872520346266,
+        "sortino_ratio": -11.911906565542548,
+        "max_drawdown": 2784.686503279241,
+        "total_pnl": -2670.082415204466,
+        "avg_win": 82.42544809624258,
+        "avg_loss": -123.3731828133512,
+        "tp_exits": 0,
+        "sl_exits": 11,
+        "time_exits": 39
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 30,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.34,
+        "profit_factor": 0.38770370240236407,
+        "sharpe_ratio": -5.901130495287408,
+        "sortino_ratio": -8.220989454834456,
+        "max_drawdown": 2459.483309588788,
+        "total_pnl": -2212.9516394487,
+        "avg_win": 82.42544809624258,
+        "avg_loss": -109.52073506317649,
+        "tp_exits": 0,
+        "sl_exits": 2,
+        "time_exits": 48
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 60,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.18,
+        "profit_factor": 0.25243752294842287,
+        "sharpe_ratio": -11.14760525219568,
+        "sortino_ratio": -95.25864343055478,
+        "max_drawdown": 2997.6492004061874,
+        "total_pnl": -2997.6492004061874,
+        "avg_win": 112.47207677520379,
+        "avg_loss": -97.80238759470784,
+        "tp_exits": 0,
+        "sl_exits": 39,
+        "time_exits": 11
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 60,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.36,
+        "profit_factor": 0.39743243696866615,
+        "sharpe_ratio": -6.337722980515088,
+        "sortino_ratio": -11.059204767665486,
+        "max_drawdown": 2552.961556336406,
+        "total_pnl": -2542.167115866192,
+        "avg_win": 93.15134969702679,
+        "avg_loss": -131.84035657539607,
+        "tp_exits": 0,
+        "sl_exits": 14,
+        "time_exits": 36
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 60,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.48,
+        "profit_factor": 0.5955818065805597,
+        "sharpe_ratio": -3.1867477397943857,
+        "sortino_ratio": -4.277893770155274,
+        "max_drawdown": 1495.2529244559992,
+        "total_pnl": -1279.8850806884584,
+        "avg_win": 78.53630649488635,
+        "avg_loss": -121.72140140637427,
+        "tp_exits": 0,
+        "sl_exits": 3,
+        "time_exits": 47
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 60,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.18,
+        "profit_factor": 0.25243752294842287,
+        "sharpe_ratio": -11.14760525219568,
+        "sortino_ratio": -95.25864343055478,
+        "max_drawdown": 2997.6492004061874,
+        "total_pnl": -2997.6492004061874,
+        "avg_win": 112.47207677520379,
+        "avg_loss": -97.80238759470784,
+        "tp_exits": 0,
+        "sl_exits": 39,
+        "time_exits": 11
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 60,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.36,
+        "profit_factor": 0.39743243696866615,
+        "sharpe_ratio": -6.337722980515088,
+        "sortino_ratio": -11.059204767665486,
+        "max_drawdown": 2552.961556336406,
+        "total_pnl": -2542.167115866192,
+        "avg_win": 93.15134969702679,
+        "avg_loss": -131.84035657539607,
+        "tp_exits": 0,
+        "sl_exits": 14,
+        "time_exits": 36
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 60,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.48,
+        "profit_factor": 0.5955818065805597,
+        "sharpe_ratio": -3.1867477397943857,
+        "sortino_ratio": -4.277893770155274,
+        "max_drawdown": 1495.2529244559992,
+        "total_pnl": -1279.8850806884584,
+        "avg_win": 78.53630649488635,
+        "avg_loss": -121.72140140637427,
+        "tp_exits": 0,
+        "sl_exits": 3,
+        "time_exits": 47
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 60,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.18,
+        "profit_factor": 0.25243752294842287,
+        "sharpe_ratio": -11.14760525219568,
+        "sortino_ratio": -95.25864343055478,
+        "max_drawdown": 2997.6492004061874,
+        "total_pnl": -2997.6492004061874,
+        "avg_win": 112.47207677520379,
+        "avg_loss": -97.80238759470784,
+        "tp_exits": 0,
+        "sl_exits": 39,
+        "time_exits": 11
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 60,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.36,
+        "profit_factor": 0.39743243696866615,
+        "sharpe_ratio": -6.337722980515088,
+        "sortino_ratio": -11.059204767665486,
+        "max_drawdown": 2552.961556336406,
+        "total_pnl": -2542.167115866192,
+        "avg_win": 93.15134969702679,
+        "avg_loss": -131.84035657539607,
+        "tp_exits": 0,
+        "sl_exits": 14,
+        "time_exits": 36
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 60,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.48,
+        "profit_factor": 0.5955818065805597,
+        "sharpe_ratio": -3.1867477397943857,
+        "sortino_ratio": -4.277893770155274,
+        "max_drawdown": 1495.2529244559992,
+        "total_pnl": -1279.8850806884584,
+        "avg_win": 78.53630649488635,
+        "avg_loss": -121.72140140637427,
+        "tp_exits": 0,
+        "sl_exits": 3,
+        "time_exits": 47
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 180,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.08,
+        "profit_factor": 0.1388774615314294,
+        "sharpe_ratio": -16.799368915392545,
+        "sortino_ratio": -233.2240650493491,
+        "max_drawdown": 3929.714000953172,
+        "total_pnl": -3929.714000953172,
+        "avg_win": 158.44106982946323,
+        "avg_loss": -99.20604957110925,
+        "tp_exits": 1,
+        "sl_exits": 45,
+        "time_exits": 4
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 180,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.22,
+        "profit_factor": 0.1959051004796006,
+        "sharpe_ratio": -11.53647269286099,
+        "sortino_ratio": -19.716260776367626,
+        "max_drawdown": 4606.413581318353,
+        "total_pnl": -4606.413581318353,
+        "avg_win": 102.02548752041979,
+        "avg_loss": -146.88958830879412,
+        "tp_exits": 1,
+        "sl_exits": 25,
+        "time_exits": 24
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 180,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.34,
+        "profit_factor": 0.4509162320055907,
+        "sharpe_ratio": -4.773866104770348,
+        "sortino_ratio": -6.877778928992747,
+        "max_drawdown": 2028.3694999701402,
+        "total_pnl": -1998.386078779149,
+        "avg_win": 96.53565290570687,
+        "avg_loss": -110.28764176291412,
+        "tp_exits": 2,
+        "sl_exits": 4,
+        "time_exits": 44
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 180,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.06,
+        "profit_factor": 0.07154265830591472,
+        "sharpe_ratio": -26.99049958182717,
+        "sortino_ratio": -259.68131526505437,
+        "max_drawdown": 4329.878929406987,
+        "total_pnl": -4329.878929406987,
+        "avg_win": 111.21352765916284,
+        "avg_loss": -99.22381941243565,
+        "tp_exits": 0,
+        "sl_exits": 46,
+        "time_exits": 4
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 180,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.2,
+        "profit_factor": 0.14250755040712926,
+        "sharpe_ratio": -13.77392451772551,
+        "sortino_ratio": -20.9125506667231,
+        "max_drawdown": 4947.058115818072,
+        "total_pnl": -4947.058115818072,
+        "avg_win": 82.21566663842532,
+        "avg_loss": -144.23036955505813,
+        "tp_exits": 0,
+        "sl_exits": 25,
+        "time_exits": 25
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 180,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.3,
+        "profit_factor": 0.269649556440248,
+        "sharpe_ratio": -7.802696548447103,
+        "sortino_ratio": -9.824073744294138,
+        "max_drawdown": 2849.5796764391707,
+        "total_pnl": -2819.5962552481797,
+        "avg_win": 69.40073643391564,
+        "avg_loss": -110.30306576448326,
+        "tp_exits": 0,
+        "sl_exits": 4,
+        "time_exits": 46
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 180,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.06,
+        "profit_factor": 0.07154265830591472,
+        "sharpe_ratio": -26.99049958182717,
+        "sortino_ratio": -259.68131526505437,
+        "max_drawdown": 4329.878929406987,
+        "total_pnl": -4329.878929406987,
+        "avg_win": 111.21352765916284,
+        "avg_loss": -99.22381941243565,
+        "tp_exits": 0,
+        "sl_exits": 46,
+        "time_exits": 4
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 180,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.2,
+        "profit_factor": 0.14250755040712926,
+        "sharpe_ratio": -13.77392451772551,
+        "sortino_ratio": -20.9125506667231,
+        "max_drawdown": 4947.058115818072,
+        "total_pnl": -4947.058115818072,
+        "avg_win": 82.21566663842532,
+        "avg_loss": -144.23036955505813,
+        "tp_exits": 0,
+        "sl_exits": 25,
+        "time_exits": 25
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 180,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.3,
+        "profit_factor": 0.269649556440248,
+        "sharpe_ratio": -7.802696548447103,
+        "sortino_ratio": -9.824073744294138,
+        "max_drawdown": 2849.5796764391707,
+        "total_pnl": -2819.5962552481797,
+        "avg_win": 69.40073643391564,
+        "avg_loss": -110.30306576448326,
+        "tp_exits": 0,
+        "sl_exits": 4,
+        "time_exits": 46
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 300,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.04,
+        "profit_factor": 0.07736347997342889,
+        "sharpe_ratio": -22.65975070660824,
+        "sortino_ratio": -114.7941924655114,
+        "max_drawdown": 4351.115794969417,
+        "total_pnl": -4351.115794969417,
+        "avg_win": 182.4214912154639,
+        "avg_loss": -98.24914119584052,
+        "tp_exits": 1,
+        "sl_exits": 47,
+        "time_exits": 2
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 300,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.26,
+        "profit_factor": 0.2245460767680688,
+        "sharpe_ratio": -11.391320301310632,
+        "sortino_ratio": -26.83172118283851,
+        "max_drawdown": 5018.739717227654,
+        "total_pnl": -5004.175350279678,
+        "avg_win": 111.46503096699038,
+        "avg_loss": -174.4113716986636,
+        "tp_exits": 1,
+        "sl_exits": 30,
+        "time_exits": 19
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 300,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.4,
+        "profit_factor": 0.5922136290809815,
+        "sharpe_ratio": -3.316444666758531,
+        "sortino_ratio": -4.88137834441513,
+        "max_drawdown": 1691.4341440304124,
+        "total_pnl": -1683.9896592171863,
+        "avg_win": 122.27991155912169,
+        "avg_loss": -137.65292967998732,
+        "tp_exits": 2,
+        "sl_exits": 7,
+        "time_exits": 41
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 300,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.02,
+        "profit_factor": 0.013438389942423861,
+        "sharpe_ratio": -58.70922241470622,
+        "sortino_ratio": -126.61908175679537,
+        "max_drawdown": 4751.280723423231,
+        "total_pnl": -4751.280723423231,
+        "avg_win": 64.7192860905634,
+        "avg_loss": -98.28571447987336,
+        "tp_exits": 0,
+        "sl_exits": 48,
+        "time_exits": 2
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 300,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.26,
+        "profit_factor": 0.2162244695485205,
+        "sharpe_ratio": -11.758663538645784,
+        "sortino_ratio": -27.119555673898542,
+        "max_drawdown": 5072.440885633914,
+        "total_pnl": -5057.876518685938,
+        "avg_win": 107.33417185881655,
+        "avg_loss": -174.4113716986636,
+        "tp_exits": 0,
+        "sl_exits": 30,
+        "time_exits": 20
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 300,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.38,
+        "profit_factor": 0.4972105681446673,
+        "sharpe_ratio": -4.422380347109818,
+        "sortino_ratio": -6.203763851307559,
+        "max_drawdown": 2122.842275416988,
+        "total_pnl": -2115.3977906037617,
+        "avg_win": 110.10135295938188,
+        "avg_loss": -135.72011280103283,
+        "tp_exits": 0,
+        "sl_exits": 7,
+        "time_exits": 43
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 300,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.02,
+        "profit_factor": 0.013438389942423861,
+        "sharpe_ratio": -58.70922241470622,
+        "sortino_ratio": -126.61908175679537,
+        "max_drawdown": 4751.280723423231,
+        "total_pnl": -4751.280723423231,
+        "avg_win": 64.7192860905634,
+        "avg_loss": -98.28571447987336,
+        "tp_exits": 0,
+        "sl_exits": 48,
+        "time_exits": 2
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 300,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.26,
+        "profit_factor": 0.2162244695485205,
+        "sharpe_ratio": -11.758663538645784,
+        "sortino_ratio": -27.119555673898542,
+        "max_drawdown": 5072.440885633914,
+        "total_pnl": -5057.876518685938,
+        "avg_win": 107.33417185881655,
+        "avg_loss": -174.4113716986636,
+        "tp_exits": 0,
+        "sl_exits": 30,
+        "time_exits": 20
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 300,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.38,
+        "profit_factor": 0.4972105681446673,
+        "sharpe_ratio": -4.422380347109818,
+        "sortino_ratio": -6.203763851307559,
+        "max_drawdown": 2122.842275416988,
+        "total_pnl": -2115.3977906037617,
+        "avg_win": 110.10135295938188,
+        "avg_loss": -135.72011280103283,
+        "tp_exits": 0,
+        "sl_exits": 7,
+        "time_exits": 43
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 600,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.02,
+        "profit_factor": 0.0612486102226009,
+        "sharpe_ratio": -26.07954863763577,
+        "sortino_ratio": -187615931450413.78,
+        "max_drawdown": 4599.966203652468,
+        "total_pnl": -4599.966203652468,
+        "avg_win": 300.1236963403644,
+        "avg_loss": -100.00183469373127,
+        "tp_exits": 1,
+        "sl_exits": 49,
+        "time_exits": 0
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 600,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.18,
+        "profit_factor": 0.1551087672066816,
+        "sharpe_ratio": -15.390206761732957,
+        "sortino_ratio": -54.71440410949071,
+        "max_drawdown": 6629.1399167005,
+        "total_pnl": -6629.1399167005,
+        "avg_win": 135.22289157998523,
+        "avg_loss": -191.3694131931797,
+        "tp_exits": 2,
+        "sl_exits": 39,
+        "time_exits": 9
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 600,
+        "take_profit_pct": 0.003,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.44,
+        "profit_factor": 0.48452738482663604,
+        "sharpe_ratio": -4.5433336951029055,
+        "sortino_ratio": -6.87290345946065,
+        "max_drawdown": 2403.3708507107804,
+        "total_pnl": -2403.3708507107804,
+        "avg_win": 102.68590581513921,
+        "avg_loss": -166.51645638013724,
+        "tp_exits": 3,
+        "sl_exits": 9,
+        "time_exits": 38
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 600,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.0,
+        "profit_factor": 0.0,
+        "sharpe_ratio": -205989600061139.5,
+        "sortino_ratio": -205989600061139.5,
+        "max_drawdown": 5000.131132106282,
+        "total_pnl": -5000.131132106282,
+        "avg_win": 0,
+        "avg_loss": -100.00262264212564,
+        "tp_exits": 0,
+        "sl_exits": 50,
+        "time_exits": 0
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 600,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.14,
+        "profit_factor": 0.07661774296267695,
+        "sharpe_ratio": -22.112865185504916,
+        "sortino_ratio": -50.06248321373896,
+        "max_drawdown": 7432.416025396378,
+        "total_pnl": -7432.416025396378,
+        "avg_win": 88.10078944407827,
+        "avg_loss": -187.18887329081224,
+        "tp_exits": 0,
+        "sl_exits": 40,
+        "time_exits": 10
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 600,
+        "take_profit_pct": 0.005,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.38,
+        "profit_factor": 0.26828731887565005,
+        "sharpe_ratio": -8.07598029895438,
+        "sortino_ratio": -10.709355498750385,
+        "max_drawdown": 3705.968734274211,
+        "total_pnl": -3705.968734274211,
+        "avg_win": 71.5167406986224,
+        "avg_loss": -163.38021959832375,
+        "tp_exits": 0,
+        "sl_exits": 9,
+        "time_exits": 41
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 600,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.001
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.0,
+        "profit_factor": 0.0,
+        "sharpe_ratio": -205989600061139.5,
+        "sortino_ratio": -205989600061139.5,
+        "max_drawdown": 5000.131132106282,
+        "total_pnl": -5000.131132106282,
+        "avg_win": 0,
+        "avg_loss": -100.00262264212564,
+        "tp_exits": 0,
+        "sl_exits": 50,
+        "time_exits": 0
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 600,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.002
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.14,
+        "profit_factor": 0.07661774296267695,
+        "sharpe_ratio": -22.112865185504916,
+        "sortino_ratio": -50.06248321373896,
+        "max_drawdown": 7432.416025396378,
+        "total_pnl": -7432.416025396378,
+        "avg_win": 88.10078944407827,
+        "avg_loss": -187.18887329081224,
+        "tp_exits": 0,
+        "sl_exits": 40,
+        "time_exits": 10
+      }
+    },
+    {
+      "parameters": {
+        "holding_time_seconds": 600,
+        "take_profit_pct": 0.008,
+        "stop_loss_pct": 0.003
+      },
+      "metrics": {
+        "total_trades": 50,
+        "win_rate": 0.38,
+        "profit_factor": 0.26828731887565005,
+        "sharpe_ratio": -8.07598029895438,
+        "sortino_ratio": -10.709355498750385,
+        "max_drawdown": 3705.968734274211,
+        "total_pnl": -3705.968734274211,
+        "avg_win": 71.5167406986224,
+        "avg_loss": -163.38021959832375,
+        "tp_exits": 0,
+        "sl_exits": 9,
+        "time_exits": 41
+      }
+    }
+  ]
+}

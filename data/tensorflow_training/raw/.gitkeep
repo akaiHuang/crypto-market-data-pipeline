@@ -1,0 +1,4 @@
+# Large Data Files
+
+These directories contain large market data files (>50MB each).
+They are excluded from git. See README for data pipeline setup.

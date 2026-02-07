@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "timestamp": "20251113_110953",
+    "initial_capital": 100.0,
+    "decision_interval": 15,
+    "total_decisions": 3,
+    "modes": [
+      "mode_0_baseline",
+      "mode_1_vpin_only",
+      "mode_2_liquidity_only",
+      "mode_3_full_control",
+      "mode_4_trend_following",
+      "mode_5_mean_reversion",
+      "mode_6_dynamic_stop",
+      "mode_7_hybrid",
+      "mode_8_technical_loose",
+      "mode_9_technical_strict",
+      "mode_10_technical_off",
+      "mode_13_adaptive",
+      "mode_14_dynamic_leverage"
+    ],
+    "leverage_config": {
+      "mode_0_baseline": 5,
+      "mode_1_vpin_only": 3,
+      "mode_2_liquidity_only": 3,
+      "mode_3_full_control": 5,
+      "mode_4_trend_following": 4,
+      "mode_5_mean_reversion": 2,
+      "mode_6_dynamic_stop": 3,
+      "mode_7_hybrid": 4,
+      "mode_8_technical_loose": 3,
+      "mode_9_technical_strict": 2,
+      "mode_10_technical_off": 4,
+      "mode_13_adaptive": 3,
+      "mode_14_dynamic_leverage": 20
+    },
+    "end_timestamp": "20251113_111024",
+    "final_balances": {
+      "mode_0_baseline": 99.87881577479133,
+      "mode_1_vpin_only": 100.0,
+      "mode_2_liquidity_only": 100.0,
+      "mode_3_full_control": 100.0,
+      "mode_4_trend_following": 100.0,
+      "mode_5_mean_reversion": 100.0,
+      "mode_6_dynamic_stop": 100.0,
+      "mode_7_hybrid": 100.0,
+      "mode_8_technical_loose": 100.0,
+      "mode_9_technical_strict": 100.0,
+      "mode_10_technical_off": 100.0,
+      "mode_13_adaptive": 100.0,
+      "mode_14_dynamic_leverage": 100.0
+    }
+  },
+  "orders": {
+    "mode_0_baseline": [
+      {
+        "order_id": 0,
+        "mode": "mode_0_baseline",
+        "timestamp": 1763003394285,
+        "entry_time": "2025-11-13T11:09:54.285000",
+        "entry_price": 101845.05,
+        "actual_entry_price": 101824.68099000001,
+        "market_data": {
+          "obi": -0.941747572815534,
+          "obi_velocity": 0.0,
+          "signed_volume": 0.001,
+          "volume_imbalance": 0.2,
+          "vpin": 0.3,
+          "spread_bps": 0.009818567597771465,
+          "total_depth": 10.514999999999999,
+          "depth_imbalance": -0.9549215406562054,
+          "price": 101845.05,
+          "timestamp": 1763003394237,
+          "obi_5min": -0.941747572815534,
+          "obi_15min": -0.941747572815534,
+          "obi_30min": -0.941747572815534,
+          "obi_1hour": -0.941747572815534,
+          "obi_4hour": -0.941747572815534,
+          "obi_8hour": -0.941747572815534
+        },
+        "direction": "SHORT",
+        "confidence": 0.3766990291262136,
+        "risk_level": "UNKNOWN",
+        "signal": {
+          "direction": "SHORT",
+          "confidence": 0.3766990291262136,
+          "details": {
+            "signal": "NEUTRAL",
+            "confidence": 0.3766990291262136,
+            "long_score": 2.9999999999000002e-06,
+            "short_score": 0.3766990291262136,
+            "components": {
+              "obi": {
+                "value": -0.941747572815534,
+                "long_contribution": 0.0,
+                "short_contribution": 0.3766990291262136,
+                "weight": 0.4
+              },
+              "velocity": {
+                "value": 0.0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.2
+              },
+              "volume": {
+                "value": 0.001,
+                "normalized": 9.999999999666668e-06,
+                "long_contribution": 2.9999999999000002e-06,
+                "short_contribution": 0.0,
+                "weight": 0.3
+              },
+              "microprice": {
+                "value": 0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.1
+              }
+            },
+            "timestamp": 1763003394237
+          },
+          "forced": true
+        },
+        "capital": 100.0,
+        "leverage": 5,
+        "size": 0.3,
+        "position_value": 150.0,
+        "stop_loss_pct": 5.0,
+        "take_profit_pct": 8.0,
+        "exit_price": 101784.75,
+        "exit_time": "2025-11-13T11:10:09.597000",
+        "exit_reason": "VPIN_SPIKE",
+        "holding_seconds": 15.312,
+        "entry_fee": 0.075,
+        "exit_fee": 0.075,
+        "funding_fee": 1.914e-05,
+        "total_fees": 0.15001914,
+        "pnl_usdt": -0.12118422520866991,
+        "pnl_pct": -0.0807894834724466,
+        "roi": -0.12118422520866991,
+        "status": "CLOSED",
+        "can_trade": true,
+        "blocked_reasons": []
+      }
+    ],
+    "mode_1_vpin_only": [],
+    "mode_2_liquidity_only": [],
+    "mode_3_full_control": [],
+    "mode_4_trend_following": [],
+    "mode_5_mean_reversion": [],
+    "mode_6_dynamic_stop": [],
+    "mode_7_hybrid": [],
+    "mode_8_technical_loose": [],
+    "mode_9_technical_strict": [],
+    "mode_10_technical_off": [],
+    "mode_13_adaptive": [],
+    "mode_14_dynamic_leverage": []
+  }
+}

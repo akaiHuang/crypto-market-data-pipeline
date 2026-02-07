@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-01-01T12:43:03.986801",
+  "period_hours": 24,
+  "total_trades": 125,
+  "win_rate": 1.6,
+  "total_pnl_pct": -18.97874772931942,
+  "best_direction": "SHORT",
+  "recommended_config": {
+    "allowed_directions": [
+      "SHORT"
+    ],
+    "six_dim_min_score_to_trade": 6,
+    "recommended_hold_time_sec": 1,
+    "contextual_mode": true,
+    "min_confidence": 0.3,
+    "generated_at": "2026-01-01T12:43:03.986785",
+    "based_on_trades": 125
+  },
+  "analysis_summary": "\n回測分析結果 (24h)\n========================\n總交易: 125 筆\n總 PnL: -18.98%\n\nLONG 表現:\n  - 交易數: 62\n  - 勝率: 1.6%\n  - PnL: -9.21%\n\nSHORT 表現:\n  - 交易數: 63\n  - 勝率: 1.6%\n  - PnL: -9.76%\n\n推薦方向: SHORT\n"
+}

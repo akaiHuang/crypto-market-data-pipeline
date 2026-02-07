@@ -1,0 +1,4 @@
+timestamp,event_type,current_dir,potential_dir,net_qty,total_qty,dominance,obi,price,prediction_prob,is_high_impact,ma_20,rsi_14,stoch_k,stoch_d,boll_upper,boll_lower,price_change_since_last_flip
+2025-11-20T17:15:21.893617,PREDICTION,,SHORT,-3.4170,7.6550,0.4464,-0.6394,91993.75,0.50,True,91993.75,12.70,0.00,0.00,91993.75,91993.75,0.0000
+2025-11-20T17:15:21.898462,PREDICTION,,SHORT,-4.5340,8.7720,0.5169,-0.6394,91993.75,0.50,True,91993.75,12.70,0.00,0.00,91993.75,91993.75,0.0000
+2025-11-20T17:15:23.262508,WARNING,,SHORT,-6.7040,10.9420,0.6127,0.1640,91993.75,0.30,False,91993.75,50.00,50.00,50.00,91993.75,91993.75,0.0000

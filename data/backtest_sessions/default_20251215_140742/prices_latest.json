@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-12-15T14:07:45.197653",
+    "price": 89642.0,
+    "bid": 0.0,
+    "ask": 0.0,
+    "spread": 0,
+    "obi": 0.12398392017905902,
+    "volume_1m": 0,
+    "buy_volume": 0.0,
+    "sell_volume": 0.0,
+    "funding_rate": 0.0,
+    "open_interest": 0.0,
+    "price_change_1m": 0.0,
+    "price_change_5m": 0.0
+  },
+  {
+    "timestamp": "2025-12-15T14:07:54.925780",
+    "price": 89621.0,
+    "bid": 0.0,
+    "ask": 0.0,
+    "spread": 0,
+    "obi": 0.19852558757279715,
+    "volume_1m": 0,
+    "buy_volume": 0.0,
+    "sell_volume": 0.0,
+    "funding_rate": 0.0,
+    "open_interest": 0.0,
+    "price_change_1m": 0.06811076373380974,
+    "price_change_5m": 0.06811076373380974
+  },
+  {
+    "timestamp": "2025-12-15T14:08:04.752994",
+    "price": 89623.0,
+    "bid": 0.0,
+    "ask": 0.0,
+    "spread": 0,
+    "obi": 0.6021372266060607,
+    "volume_1m": 0,
+    "buy_volume": 0.0,
+    "sell_volume": 0.0,
+    "funding_rate": 0.0,
+    "open_interest": 0.0,
+    "price_change_1m": 0.07369608182498297,
+    "price_change_5m": 0.07369608182498297
+  }
+]

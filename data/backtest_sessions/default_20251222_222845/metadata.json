@@ -1,0 +1,17 @@
+{
+  "session_id": "default_20251222_222845",
+  "start_time": "2025-12-22T22:28:45.172640",
+  "end_time": "2025-12-22T22:31:45.211442",
+  "version": "1.0",
+  "card_used": null,
+  "mode": null,
+  "total_trades": 0,
+  "winning_trades": 0,
+  "losing_trades": 0,
+  "total_pnl_pct": 0.0,
+  "total_pnl_usdt": 0.0,
+  "price_range": {
+    "min": 89840.0,
+    "max": 90088.0
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "timestamp": "20251114_163452",
+    "initial_capital": 100.0,
+    "decision_interval": 15,
+    "total_decisions": 10,
+    "modes": [
+      "mode_0_baseline",
+      "mode_1_vpin_only",
+      "mode_2_liquidity_only",
+      "mode_3_full_control",
+      "mode_4_trend_following",
+      "mode_5_mean_reversion",
+      "mode_6_dynamic_stop",
+      "mode_7_hybrid",
+      "mode_8_technical_loose",
+      "mode_9_technical_strict",
+      "mode_10_technical_off",
+      "mode_13_adaptive",
+      "mode_14_dynamic_leverage",
+      "mode_15_enhanced"
+    ],
+    "leverage_config": {
+      "mode_0_baseline": 5,
+      "mode_1_vpin_only": 3,
+      "mode_2_liquidity_only": 3,
+      "mode_3_full_control": 5,
+      "mode_4_trend_following": 4,
+      "mode_5_mean_reversion": 2,
+      "mode_6_dynamic_stop": 3,
+      "mode_7_hybrid": 4,
+      "mode_8_technical_loose": 3,
+      "mode_9_technical_strict": 2,
+      "mode_10_technical_off": 4,
+      "mode_13_adaptive": 3,
+      "mode_14_dynamic_leverage": 20,
+      "mode_15_enhanced": 20
+    },
+    "end_timestamp": "20251114_163602",
+    "final_balances": {
+      "mode_0_baseline": 100.0,
+      "mode_1_vpin_only": 100.0,
+      "mode_2_liquidity_only": 100.0,
+      "mode_3_full_control": 100.0,
+      "mode_4_trend_following": 100.0,
+      "mode_5_mean_reversion": 100.0,
+      "mode_6_dynamic_stop": 100.0,
+      "mode_7_hybrid": 100.0,
+      "mode_8_technical_loose": 100.0,
+      "mode_9_technical_strict": 100.0,
+      "mode_10_technical_off": 100.0,
+      "mode_13_adaptive": 100.0,
+      "mode_14_dynamic_leverage": 100.0,
+      "mode_15_enhanced": 100.0
+    }
+  },
+  "orders": {
+    "mode_0_baseline": [],
+    "mode_1_vpin_only": [],
+    "mode_2_liquidity_only": [],
+    "mode_3_full_control": [],
+    "mode_4_trend_following": [],
+    "mode_5_mean_reversion": [],
+    "mode_6_dynamic_stop": [],
+    "mode_7_hybrid": [],
+    "mode_8_technical_loose": [],
+    "mode_9_technical_strict": [],
+    "mode_10_technical_off": [],
+    "mode_13_adaptive": [],
+    "mode_14_dynamic_leverage": [],
+    "mode_15_enhanced": []
+  }
+}

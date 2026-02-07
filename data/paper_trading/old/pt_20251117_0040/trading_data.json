@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "start_timestamp": "20251117_004008",
+    "end_timestamp": null,
+    "test_duration_hours": 8.0,
+    "initial_capital": 100.0,
+    "total_decisions": 0,
+    "final_balances": {}
+  },
+  "orders": {
+    "M0_ULTRA_SAFE": [],
+    "M1_SAFE": [],
+    "M2_NORMAL": [],
+    "M3_AGGRESSIVE": [],
+    "M4_VERY_AGGRESSIVE": [],
+    "M5_ULTRA_AGGRESSIVE": [],
+    "M6_SIGNAL_SANDBOX": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "start_timestamp": "20251120_054925",
+    "end_timestamp": null,
+    "test_duration_hours": 8.0,
+    "initial_capital": 100.0,
+    "total_decisions": 0,
+    "final_balances": {}
+  },
+  "orders": {
+    "M0_ULTRA_SAFE": [],
+    "M1_SAFE_PRIME": [],
+    "M2_NORMAL_PRIME": [],
+    "M5_ULTRA_AGGRESSIVE_PRIME": [],
+    "M6_SIGNAL_SANDBOX": [
+      {
+        "order_id": "M6_SIGNAL_SANDBOX_1763588970998",
+        "strategy": "M6_SIGNAL_SANDBOX",
+        "direction": "SHORT",
+        "leverage": 8,
+        "size": 0.6,
+        "entry_price": 90426.15,
+        "actual_entry_price": 90444.23522999999,
+        "position_value": 60.0,
+        "take_profit_pct": 2.208,
+        "stop_loss_pct": 1.2,
+        "entry_reason": null,
+        "entry_time": "2025-11-20T05:49:30.989000",
+        "exit_price": 90586.85,
+        "exit_time": "2025-11-20T05:52:46.411000",
+        "exit_reason": "STOP_LOSS",
+        "holding_seconds": 195.422,
+        "entry_fee": 0.24,
+        "exit_fee": 0.24,
+        "funding_fee": 0.0003257033333333333,
+        "total_fees": 0.4803257033333333,
+        "pnl_usdt": -1.2372019091625444,
+        "roi": -2.0620031819375737,
+        "entry_obi": -0.9856108678166055,
+        "entry_vpin": 0.3,
+        "entry_spread": 0.077408581848422,
+        "is_blocked": false,
+        "blocked_reasons": []
+      }
+    ],
+    "M7_BREAKOUT_SNIPER": [],
+    "M8_VOLUME_SNIPER": [],
+    "M9_VOLATILITY_SNIPER": [],
+    "M_WHALE_WATCHER": [],
+    "M_LP_WHALE_BURST": [],
+    "MUP_DIRECTIONAL_LONG": [],
+    "MDOWN_DIRECTIONAL_SHORT": []
+  }
+}

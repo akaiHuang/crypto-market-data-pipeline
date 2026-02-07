@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "session_id": "test_card_20250115",
+    "start_time": "2025-12-11T00:32:25.081180",
+    "end_time": "2025-12-11T00:32:25.081281",
+    "version": "1.0",
+    "card_used": null,
+    "mode": null,
+    "total_trades": 1,
+    "winning_trades": 1,
+    "losing_trades": 0,
+    "total_pnl_pct": 1.5,
+    "total_pnl_usdt": 15.0,
+    "price_range": {
+      "min": 95000.0,
+      "max": 95010.0
+    }
+  },
+  "prices": [
+    {
+      "timestamp": "2025-12-11T00:32:25.081242",
+      "price": 95000.0,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread": 0,
+      "obi": 0.3,
+      "volume_1m": 100.5,
+      "buy_volume": 0.0,
+      "sell_volume": 0.0,
+      "funding_rate": 0.0,
+      "open_interest": 0.0,
+      "price_change_1m": 0.0,
+      "price_change_5m": 0.0
+    },
+    {
+      "timestamp": "2025-12-11T00:32:25.081249",
+      "price": 95010.0,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread": 0,
+      "obi": 0.35,
+      "volume_1m": 120.0,
+      "buy_volume": 0.0,
+      "sell_volume": 0.0,
+      "funding_rate": 0.0,
+      "open_interest": 0.0,
+      "price_change_1m": 0.0,
+      "price_change_5m": 0.0
+    }
+  ],
+  "signals": [
+    {
+      "timestamp": "2025-12-11T00:32:25.081255",
+      "signal_type": "LONG_READY",
+      "direction": "LONG",
+      "reason": "L:5.0s S:2.0s",
+      "price": 95000.0,
+      "six_dim_long_score": 3,
+      "six_dim_short_score": 1,
+      "fast_dir": "LONG",
+      "medium_dir": "",
+      "slow_dir": "",
+      "obi_dir": "",
+      "momentum_dir": "",
+      "volume_dir": "",
+      "rsi_1m": 55,
+      "rsi_5m": 52,
+      "rsi_15m": 0,
+      "obi": 0.3,
+      "regime": "NORMAL",
+      "strategy": "",
+      "long_align_sec": 5.0,
+      "short_align_sec": 2.0
+    }
+  ],
+  "trades": [
+    {
+      "trade_id": "WT_TEST_001",
+      "timestamp": "2025-12-11T00:32:25.081272",
+      "direction": "LONG",
+      "strategy": "WHALE_FOLLOW",
+      "entry_price": 95000.0,
+      "entry_time": "2025-01-15T10:00:00",
+      "leverage": 50,
+      "position_size_usdt": 0,
+      "position_size_btc": 0,
+      "entry_obi": 0,
+      "entry_six_dim_long": 0,
+      "entry_six_dim_short": 0,
+      "entry_probability": 0,
+      "entry_confidence": 0,
+      "exit_price": 95500.0,
+      "exit_time": "2025-01-15T10:05:00",
+      "exit_reason": "TAKE_PROFIT",
+      "pnl_pct": 1.5,
+      "pnl_usdt": 0,
+      "net_pnl_usdt": 15.0,
+      "fee_usdt": 0,
+      "hold_seconds": 300,
+      "max_profit_pct": 0,
+      "max_drawdown_pct": 0,
+      "max_price": 0,
+      "min_price": 0
+    }
+  ],
+  "terminal_logs": [],
+  "system_states": []
+}

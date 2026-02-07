@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "start_timestamp": "20251130_123022",
+    "end_timestamp": "20251130_123036",
+    "test_duration_hours": 8.0,
+    "initial_capital": 100.0,
+    "total_decisions": 0,
+    "final_balances": {
+      "M_FISH_MARKET_MAKER": 100.0,
+      "MUP_DIRECTIONAL_LONG": 100.0,
+      "MDOWN_DIRECTIONAL_SHORT": 100.0,
+      "M_AI_WHALE_HUNTER": 100.0,
+      "M_INVERSE_WOLF": 100.0
+    }
+  },
+  "orders": {
+    "M_FISH_MARKET_MAKER": [],
+    "MUP_DIRECTIONAL_LONG": [],
+    "MDOWN_DIRECTIONAL_SHORT": [],
+    "M_AI_WHALE_HUNTER": [],
+    "M_INVERSE_WOLF": [],
+    "M_DRAGON": []
+  }
+}

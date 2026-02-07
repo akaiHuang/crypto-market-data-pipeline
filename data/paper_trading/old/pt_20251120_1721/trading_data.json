@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "start_timestamp": "20251120_172131",
+    "end_timestamp": "20251120_172206",
+    "test_duration_hours": 0.01,
+    "initial_capital": 100.0,
+    "total_decisions": 0,
+    "final_balances": {
+      "M0_ULTRA_SAFE": 100.0,
+      "M1_SAFE_PRIME": 100.0,
+      "M2_NORMAL_PRIME": 100.0,
+      "M5_ULTRA_AGGRESSIVE_PRIME": 100.0,
+      "M6_SIGNAL_SANDBOX": 100.0,
+      "M7_BREAKOUT_SNIPER": 100.0,
+      "M8_VOLUME_SNIPER": 100.0,
+      "M9_VOLATILITY_SNIPER": 100.0,
+      "M_WHALE_WATCHER": 100.0,
+      "M_LP_WHALE_BURST": 100.0,
+      "MUP_DIRECTIONAL_LONG": 100.0,
+      "MDOWN_DIRECTIONAL_SHORT": 100.0
+    }
+  },
+  "orders": {
+    "M0_ULTRA_SAFE": [],
+    "M1_SAFE_PRIME": [],
+    "M2_NORMAL_PRIME": [],
+    "M5_ULTRA_AGGRESSIVE_PRIME": [],
+    "M6_SIGNAL_SANDBOX": [],
+    "M7_BREAKOUT_SNIPER": [],
+    "M8_VOLUME_SNIPER": [],
+    "M9_VOLATILITY_SNIPER": [],
+    "M_WHALE_WATCHER": [],
+    "M_LP_WHALE_BURST": [],
+    "MUP_DIRECTIONAL_LONG": [],
+    "MDOWN_DIRECTIONAL_SHORT": []
+  }
+}

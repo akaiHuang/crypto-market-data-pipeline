@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "timestamp": "20251112_111724",
+    "initial_capital": 100.0,
+    "decision_interval": 15,
+    "total_decisions": 3,
+    "modes": [
+      "mode_0_baseline",
+      "mode_1_vpin_only",
+      "mode_2_liquidity_only",
+      "mode_3_full_control",
+      "mode_4_trend_following",
+      "mode_5_mean_reversion",
+      "mode_6_dynamic_stop",
+      "mode_7_hybrid",
+      "mode_8_technical_loose",
+      "mode_9_technical_strict",
+      "mode_10_technical_off",
+      "mode_13_adaptive"
+    ],
+    "leverage_config": {
+      "mode_0_baseline": 5,
+      "mode_1_vpin_only": 3,
+      "mode_2_liquidity_only": 3,
+      "mode_3_full_control": 5,
+      "mode_4_trend_following": 4,
+      "mode_5_mean_reversion": 2,
+      "mode_6_dynamic_stop": 3,
+      "mode_7_hybrid": 4,
+      "mode_8_technical_loose": 3,
+      "mode_9_technical_strict": 2,
+      "mode_10_technical_off": 4,
+      "mode_13_adaptive": 3
+    }
+  },
+  "orders": {
+    "mode_0_baseline": [
+      {
+        "order_id": 0,
+        "mode": "mode_0_baseline",
+        "timestamp": 1762917444873,
+        "entry_time": "2025-11-12T11:17:24.873000",
+        "entry_price": 103174.05,
+        "actual_entry_price": 103153.41519,
+        "market_data": {
+          "obi": -0.896872096624342,
+          "obi_velocity": 0.0,
+          "signed_volume": 0.0,
+          "volume_imbalance": 0.0,
+          "vpin": 0.3,
+          "spread_bps": 0.009692359658830953,
+          "total_depth": 17.798000000000002,
+          "depth_imbalance": -0.8908866164737611,
+          "price": 103174.05,
+          "timestamp": 1762917444873,
+          "obi_5min": -0.896872096624342,
+          "obi_15min": -0.896872096624342,
+          "obi_30min": -0.896872096624342,
+          "obi_1hour": -0.896872096624342,
+          "obi_4hour": -0.896872096624342,
+          "obi_8hour": -0.896872096624342
+        },
+        "direction": "SHORT",
+        "confidence": 0.35874883864973683,
+        "risk_level": "UNKNOWN",
+        "signal": {
+          "direction": "SHORT",
+          "confidence": 0.35874883864973683,
+          "details": {
+            "signal": "NEUTRAL",
+            "confidence": 0.35874883864973683,
+            "long_score": 0.0,
+            "short_score": 0.35874883864973683,
+            "components": {
+              "obi": {
+                "value": -0.896872096624342,
+                "long_contribution": 0.0,
+                "short_contribution": 0.35874883864973683,
+                "weight": 0.4
+              },
+              "velocity": {
+                "value": 0.0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.2
+              },
+              "volume": {
+                "value": 0.0,
+                "normalized": 0.0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.3
+              },
+              "microprice": {
+                "value": 0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.1
+              }
+            },
+            "timestamp": 1762917444873
+          },
+          "forced": true
+        },
+        "capital": 100.0,
+        "leverage": 5,
+        "size": 0.3,
+        "position_value": 150.0,
+        "stop_loss_pct": 5.0,
+        "take_profit_pct": 8.0,
+        "exit_price": 103155.45,
+        "exit_time": "2025-11-12T11:17:45.642000",
+        "exit_reason": "REVERSE_SIGNAL",
+        "holding_seconds": 20.769,
+        "entry_fee": 0.075,
+        "exit_fee": 0.075,
+        "funding_fee": 2.596125e-05,
+        "total_fees": 0.15002596125,
+        "pnl_usdt": -0.18298546136675908,
+        "pnl_pct": -0.12199030757783938,
+        "roi": -0.18298546136675908,
+        "status": "CLOSED",
+        "can_trade": true,
+        "blocked_reasons": []
+      }
+    ],
+    "mode_1_vpin_only": [],
+    "mode_2_liquidity_only": [],
+    "mode_3_full_control": [],
+    "mode_4_trend_following": [],
+    "mode_5_mean_reversion": [],
+    "mode_6_dynamic_stop": [],
+    "mode_7_hybrid": [],
+    "mode_8_technical_loose": [],
+    "mode_9_technical_strict": [],
+    "mode_10_technical_off": [],
+    "mode_13_adaptive": []
+  }
+}

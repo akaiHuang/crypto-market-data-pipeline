@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "start_timestamp": "20251127_173402",
+    "end_timestamp": "20251127_173408",
+    "test_duration_hours": 8.0,
+    "initial_capital": 100.0,
+    "total_decisions": 0,
+    "final_balances": {
+      "M_AI_WHALE_HUNTER": 100.0,
+      "M_DRAGON": 100.0
+    }
+  },
+  "orders": {
+    "M_AI_WHALE_HUNTER": [],
+    "M_DRAGON": []
+  }
+}

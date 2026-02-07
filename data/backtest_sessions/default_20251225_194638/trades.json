@@ -1,0 +1,30 @@
+[
+  {
+    "trade_id": "WT_20251225_195440_0001",
+    "timestamp": "2025-12-25T20:02:01.216771",
+    "direction": "LONG",
+    "strategy": "RANDOM_BALANCED",
+    "entry_price": 87521.18181818182,
+    "entry_time": "2025-12-25T19:54:40.927534",
+    "leverage": 10.0,
+    "position_size_usdt": 96.2733,
+    "position_size_btc": 0.0011,
+    "entry_obi": 0.36024941741318,
+    "entry_six_dim_long": 9,
+    "entry_six_dim_short": 0,
+    "entry_probability": 0.5,
+    "entry_confidence": 0.5,
+    "exit_price": 87517.0,
+    "exit_time": "2025-12-25T20:01:59.930425",
+    "exit_reason": "CLOSED_LOCK_PROFIT",
+    "pnl_pct": -0.04778064115394217,
+    "pnl_usdt": -0.004600000000005821,
+    "net_pnl_usdt": -0.004600000000005821,
+    "fee_usdt": 0.0,
+    "hold_seconds": 439.00288,
+    "max_profit_pct": 0,
+    "max_drawdown_pct": 0,
+    "max_price": 0,
+    "min_price": 0
+  }
+]

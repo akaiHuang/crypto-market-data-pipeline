@@ -1,0 +1,11 @@
+{
+  "trades": [],
+  "total_trades": 0,
+  "last_updated": "2025-12-10T23:59:42.618819",
+  "config": {
+    "leverage": 50,
+    "position_size_usdt": 100.0,
+    "target_profit_pct": 0.4,
+    "stop_loss_pct": 0.2
+  }
+}

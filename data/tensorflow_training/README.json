@@ -1,0 +1,110 @@
+{
+  "description": "TensorFlow 交易模型訓練資料結構說明",
+  "version": "1.0.0",
+  "last_updated": "2025-11-28",
+  
+  "directory_structure": {
+    "raw/": "原始 WebSocket 數據 (1秒/tick 級別)",
+    "processed/": "處理後的特徵數據",
+    "features/": "提取的特徵向量 (numpy 格式)",
+    "labels/": "標籤數據 (交易結果)"
+  },
+  
+  "data_files": {
+    "market_snapshots_{date}.jsonl": {
+      "location": "raw/",
+      "format": "JSON Lines (每行一筆)",
+      "frequency": "每秒記錄",
+      "fields": {
+        "timestamp": "ISO 8601 時間戳",
+        "price": "當前價格",
+        "bid": "最佳買價",
+        "ask": "最佳賣價",
+        "spread": "買賣價差",
+        "obi": "訂單簿不平衡 (-1 to 1)",
+        "trade_imbalance_1s": "1秒交易不平衡",
+        "bid_depth": "買方深度 (前5檔)",
+        "ask_depth": "賣方深度 (前5檔)",
+        "big_trade_count": "大單數量 (>10K USDT)",
+        "big_buy_volume": "大單買入量",
+        "big_sell_volume": "大單賣出量",
+        "price_change_1m": "1分鐘價格變化%",
+        "price_change_5m": "5分鐘價格變化%"
+      }
+    },
+    
+    "trade_records_{date}.json": {
+      "location": "raw/",
+      "format": "JSON",
+      "description": "完整交易記錄",
+      "fields": {
+        "trade_id": "交易ID",
+        "entry_time": "進場時間",
+        "exit_time": "出場時間",
+        "direction": "方向 LONG/SHORT",
+        "entry_price": "進場價格",
+        "exit_price": "出場價格",
+        "pnl_pct": "盈虧% (槓桿後)",
+        "net_pnl_usdt": "淨盈虧 USDT",
+        "strategy": "使用策略",
+        "entry_features": "進場時的市場特徵",
+        "exit_reason": "出場原因"
+      }
+    },
+    
+    "features_{date}.npy": {
+      "location": "features/",
+      "format": "NumPy array",
+      "shape": "[n_samples, n_features]",
+      "features_list": [
+        "price_normalized",
+        "obi",
+        "trade_imbalance_1s",
+        "bid_depth_normalized",
+        "ask_depth_normalized",
+        "spread_pct",
+        "big_trade_count_1m",
+        "big_buy_ratio",
+        "big_sell_ratio",
+        "price_change_1m",
+        "price_change_5m",
+        "volatility_5m",
+        "funding_rate",
+        "oi_change_pct",
+        "hour_of_day",
+        "day_of_week"
+      ]
+    },
+    
+    "labels_{date}.npy": {
+      "location": "labels/",
+      "format": "NumPy array",
+      "description": "監督式學習標籤",
+      "label_types": {
+        "direction": "0=不交易, 1=做多, 2=做空",
+        "profit_5m": "5分鐘後盈虧%",
+        "profit_15m": "15分鐘後盈虧%",
+        "max_profit": "最大浮盈%",
+        "max_drawdown": "最大回撤%"
+      }
+    }
+  },
+  
+  "tensorflow_model_inputs": {
+    "sequence_length": 60,
+    "description": "使用過去 60 秒數據預測",
+    "input_shape": "[batch_size, 60, n_features]",
+    "output": {
+      "direction_prob": "[3] - 不交易/做多/做空機率",
+      "expected_profit": "[1] - 預期盈虧%",
+      "confidence": "[1] - 信心度"
+    }
+  },
+  
+  "data_collection_settings": {
+    "save_interval_sec": 1,
+    "batch_save_size": 100,
+    "max_file_size_mb": 100,
+    "retention_days": 90
+  }
+}

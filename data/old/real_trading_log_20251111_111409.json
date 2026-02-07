@@ -1,0 +1,565 @@
+{
+  "symbol": "BTCUSDT",
+  "decisions": [
+    {
+      "timestamp": 1762830781025.957,
+      "datetime": "2025-11-11T11:13:01.025957",
+      "price": 106820.035,
+      "decision": {
+        "timestamp": 1762830781025.957,
+        "symbol": "BTCUSDT",
+        "signal": {
+          "direction": "NEUTRAL",
+          "confidence": 0.38112785100614216,
+          "details": {
+            "signal": "NEUTRAL",
+            "confidence": 0.38112785100614216,
+            "long_score": 0.38112785100614216,
+            "short_score": 6.479999998992235e-06,
+            "components": {
+              "obi": {
+                "value": 0.9528196160252133,
+                "long_contribution": 0.38112784641008535,
+                "short_contribution": 0.0,
+                "weight": 0.4
+              },
+              "velocity": {
+                "value": 0.0,
+                "long_contribution": 0.0,
+                "short_contribution": 0.0,
+                "weight": 0.2
+              },
+              "volume": {
+                "value": -0.0021600000000000018,
+                "normalized": -2.1599999996640782e-05,
+                "long_contribution": 0.0,
+                "short_contribution": 6.479999998992235e-06,
+                "weight": 0.3
+              },
+              "microprice": {
+                "value": 4.596056804637545e-08,
+                "long_contribution": 4.596056804637545e-09,
+                "short_contribution": 0.0,
+                "weight": 0.1
+              }
+            },
+            "timestamp": 1762830781025.957
+          }
+        },
+        "regime": {
+          "is_safe": false,
+          "risk_level": "CRITICAL",
+          "blocked_reasons": [
+            "\u6975\u5ea6\u5931\u8861 (+0.95) - \u55ae\u908a\u5e02\u5834"
+          ],
+          "details": {
+            "is_safe": false,
+            "risk_level": "CRITICAL",
+            "blocked_reasons": [
+              "\u6975\u5ea6\u5931\u8861 (+0.95) - \u55ae\u908a\u5e02\u5834"
+            ],
+            "risk_factors": [
+              [
+                "depth",
+                "WARNING",
+                5.30238
+              ],
+              [
+                "depth_imbalance",
+                "CRITICAL",
+                0.9487437716647996
+              ]
+            ],
+            "checks": {
+              "vpin": {
+                "value": 0.3,
+                "threshold": 0.5,
+                "risk": "SAFE"
+              },
+              "spread": {
+                "value": 0.0009361539710000385,
+                "threshold": 10.0,
+                "risk": "SAFE"
+              },
+              "depth": {
+                "value": 5.30238,
+                "threshold": 5.0,
+                "risk": "WARNING"
+              },
+              "depth_imbalance": {
+                "value": 0.9487437716647996,
+                "threshold": 0.7,
+                "risk": "CRITICAL"
+              }
+            },
+            "timestamp": 1762830781025.957
+          }
+        },
+        "execution": {
+          "signal": "NEUTRAL",
+          "confidence": 0.38112785100614216,
+          "risk_level": "CRITICAL",
+          "is_safe": false,
+          "execution_style": "NO_TRADE",
+          "position_size": 0.0,
+          "leverage": 1,
+          "entry_method": "NONE",
+          "stop_loss_pct": 0.0,
+          "take_profit_pct": 0.0,
+          "reason": [
+            "\u4fe1\u865f\u4e0d\u660e\u78ba",
+            "\u5e02\u5834\u98a8\u96aa\u904e\u9ad8 (CRITICAL)"
+          ],
+          "timestamp": 1762830781049.241,
+          "market_data": {
+            "obi": 0.9528196160252133,
+            "obi_velocity": 0.0,
+            "signed_volume": -0.0021600000000000018,
+            "microprice_pressure": 4.596056804637545e-08,
+            "vpin": 0.3,
+            "spread_bps": 0.0009361539710000385,
+            "total_depth": 5.30238,
+            "depth_imbalance": 0.9487437716647996,
+            "price": 106820.035,
+            "timestamp": 1762830781025.957
+          }
+        },
+        "action": "NO_TRADE",
+        "can_trade": false
+      },
+      "market_data": {
+        "obi": 0.9528196160252133,
+        "obi_velocity": 0.0,
+        "signed_volume": -0.0021600000000000018,
+        "microprice_pressure": 4.596056804637545e-08,
+        "vpin": 0.3,
+        "spread_bps": 0.0009361539710000385,
+        "total_depth": 5.30238,
+        "depth_imbalance": 0.9487437716647996,
+        "price": 106820.035,
+        "timestamp": 1762830781025.957
+      }
+    },
+    {
+      "timestamp": 1762830796026.466,
+      "datetime": "2025-11-11T11:13:16.026466",
+      "price": 106812.315,
+      "decision": {
+        "timestamp": 1762830796026.466,
+        "symbol": "BTCUSDT",
+        "signal": {
+          "direction": "NEUTRAL",
+          "confidence": 0.3485582496867972,
+          "details": {
+            "signal": "NEUTRAL",
+            "confidence": 0.3485582496867972,
+            "long_score": 0.0,
+            "short_score": 0.3485582496867972,
+            "components": {
+              "obi": {
+                "value": -0.37029552168927105,
+                "long_contribution": 0.0,
+                "short_contribution": 0.14811820867570843,
+                "weight": 0.4
+              },
+              "velocity": {
+                "value": -1.3231151377144843,
+                "long_contribution": 0.0,
+                "short_contribution": 0.2,
+                "weight": 0.2
+              },
+              "volume": {
+                "value": -0.14668,
+                "normalized": -0.0014667989480597434,
+                "long_contribution": 0.0,
+                "short_contribution": 0.000440039684417923,
+                "weight": 0.3
+              },
+              "microprice": {
+                "value": -1.3266708830054122e-08,
+                "long_contribution": 0.0,
+                "short_contribution": 1.3266708830054124e-09,
+                "weight": 0.1
+              }
+            },
+            "timestamp": 1762830796026.466
+          }
+        },
+        "regime": {
+          "is_safe": false,
+          "risk_level": "CRITICAL",
+          "blocked_reasons": [
+            "\u6975\u9ad8 VPIN (0.992 > 0.7) - Flash Crash \u98a8\u96aa"
+          ],
+          "details": {
+            "is_safe": false,
+            "risk_level": "CRITICAL",
+            "blocked_reasons": [
+              "\u6975\u9ad8 VPIN (0.992 > 0.7) - Flash Crash \u98a8\u96aa"
+            ],
+            "risk_factors": [
+              [
+                "vpin",
+                "CRITICAL",
+                0.9920608249884276
+              ],
+              [
+                "depth",
+                "WARNING",
+                6.01337
+              ]
+            ],
+            "checks": {
+              "vpin": {
+                "value": 0.9920608249884276,
+                "threshold": 0.5,
+                "risk": "CRITICAL"
+              },
+              "spread": {
+                "value": 0.0009362216341171171,
+                "threshold": 10.0,
+                "risk": "SAFE"
+              },
+              "depth": {
+                "value": 6.01337,
+                "threshold": 5.0,
+                "risk": "WARNING"
+              },
+              "depth_imbalance": {
+                "value": -0.29883576097928455,
+                "threshold": 0.7,
+                "risk": "SAFE"
+              }
+            },
+            "timestamp": 1762830796026.466
+          }
+        },
+        "execution": {
+          "signal": "NEUTRAL",
+          "confidence": 0.3485582496867972,
+          "risk_level": "CRITICAL",
+          "is_safe": false,
+          "execution_style": "NO_TRADE",
+          "position_size": 0.0,
+          "leverage": 1,
+          "entry_method": "NONE",
+          "stop_loss_pct": 0.0,
+          "take_profit_pct": 0.0,
+          "reason": [
+            "\u4fe1\u865f\u4e0d\u660e\u78ba",
+            "\u5e02\u5834\u98a8\u96aa\u904e\u9ad8 (CRITICAL)"
+          ],
+          "timestamp": 1762830796100.071,
+          "market_data": {
+            "obi": -0.37029552168927105,
+            "obi_velocity": -1.3231151377144843,
+            "signed_volume": -0.14668,
+            "microprice_pressure": -1.3266708830054122e-08,
+            "vpin": 0.9920608249884276,
+            "spread_bps": 0.0009362216341171171,
+            "total_depth": 6.01337,
+            "depth_imbalance": -0.29883576097928455,
+            "price": 106812.315,
+            "timestamp": 1762830796026.466
+          }
+        },
+        "action": "NO_TRADE",
+        "can_trade": false
+      },
+      "market_data": {
+        "obi": -0.37029552168927105,
+        "obi_velocity": -1.3231151377144843,
+        "signed_volume": -0.14668,
+        "microprice_pressure": -1.3266708830054122e-08,
+        "vpin": 0.9920608249884276,
+        "spread_bps": 0.0009362216341171171,
+        "total_depth": 6.01337,
+        "depth_imbalance": -0.29883576097928455,
+        "price": 106812.315,
+        "timestamp": 1762830796026.466
+      }
+    },
+    {
+      "timestamp": 1762830811126.74,
+      "datetime": "2025-11-11T11:13:31.126740",
+      "price": 106835.815,
+      "decision": {
+        "timestamp": 1762830811126.74,
+        "symbol": "BTCUSDT",
+        "signal": {
+          "direction": "NEUTRAL",
+          "confidence": 0.31909572652457746,
+          "details": {
+            "signal": "NEUTRAL",
+            "confidence": 0.31909572652457746,
+            "long_score": 0.31909572652457746,
+            "short_score": 0.00046088963740009866,
+            "components": {
+              "obi": {
+                "value": 0.1786435890501517,
+                "long_contribution": 0.11909572603343449,
+                "short_contribution": 0.0,
+                "weight": 0.4
+              },
+              "velocity": {
+                "value": 0.5489391107394228,
+                "long_contribution": 0.2,
+                "short_contribution": 0.0,
+                "weight": 0.2
+              },
+              "volume": {
+                "value": -0.15363000000000002,
+                "normalized": -0.0015362987913336622,
+                "long_contribution": 0.0,
+                "short_contribution": 0.00046088963740009866,
+                "weight": 0.3
+              },
+              "microprice": {
+                "value": 4.911429586897838e-09,
+                "long_contribution": 4.911429586897838e-10,
+                "short_contribution": 0.0,
+                "weight": 0.1
+              }
+            },
+            "timestamp": 1762830811126.74
+          }
+        },
+        "regime": {
+          "is_safe": false,
+          "risk_level": "CRITICAL",
+          "blocked_reasons": [
+            "\u6975\u9ad8 VPIN (0.981 > 0.7) - Flash Crash \u98a8\u96aa"
+          ],
+          "details": {
+            "is_safe": false,
+            "risk_level": "CRITICAL",
+            "blocked_reasons": [
+              "\u6975\u9ad8 VPIN (0.981 > 0.7) - Flash Crash \u98a8\u96aa"
+            ],
+            "risk_factors": [
+              [
+                "vpin",
+                "CRITICAL",
+                0.9806158552316433
+              ]
+            ],
+            "checks": {
+              "vpin": {
+                "value": 0.9806158552316433,
+                "threshold": 0.5,
+                "risk": "CRITICAL"
+              },
+              "spread": {
+                "value": 0.0009360156993526212,
+                "threshold": 10.0,
+                "risk": "SAFE"
+              },
+              "depth": {
+                "value": 7.83853,
+                "threshold": 5.0,
+                "risk": "SAFE"
+              },
+              "depth_imbalance": {
+                "value": 0.14140278853305402,
+                "threshold": 0.7,
+                "risk": "SAFE"
+              }
+            },
+            "timestamp": 1762830811126.74
+          }
+        },
+        "execution": {
+          "signal": "NEUTRAL",
+          "confidence": 0.31909572652457746,
+          "risk_level": "CRITICAL",
+          "is_safe": false,
+          "execution_style": "NO_TRADE",
+          "position_size": 0.0,
+          "leverage": 1,
+          "entry_method": "NONE",
+          "stop_loss_pct": 0.0,
+          "take_profit_pct": 0.0,
+          "reason": [
+            "\u4fe1\u865f\u4e0d\u660e\u78ba",
+            "\u5e02\u5834\u98a8\u96aa\u904e\u9ad8 (CRITICAL)"
+          ],
+          "timestamp": 1762830811127.5972,
+          "market_data": {
+            "obi": 0.1786435890501517,
+            "obi_velocity": 0.5489391107394228,
+            "signed_volume": -0.15363000000000002,
+            "microprice_pressure": 4.911429586897838e-09,
+            "vpin": 0.9806158552316433,
+            "spread_bps": 0.0009360156993526212,
+            "total_depth": 7.83853,
+            "depth_imbalance": 0.14140278853305402,
+            "price": 106835.815,
+            "timestamp": 1762830811126.74
+          }
+        },
+        "action": "NO_TRADE",
+        "can_trade": false
+      },
+      "market_data": {
+        "obi": 0.1786435890501517,
+        "obi_velocity": 0.5489391107394228,
+        "signed_volume": -0.15363000000000002,
+        "microprice_pressure": 4.911429586897838e-09,
+        "vpin": 0.9806158552316433,
+        "spread_bps": 0.0009360156993526212,
+        "total_depth": 7.83853,
+        "depth_imbalance": 0.14140278853305402,
+        "price": 106835.815,
+        "timestamp": 1762830811126.74
+      }
+    },
+    {
+      "timestamp": 1762830826132.537,
+      "datetime": "2025-11-11T11:13:46.132537",
+      "price": 106884.08499999999,
+      "decision": {
+        "timestamp": 1762830826132.537,
+        "symbol": "BTCUSDT",
+        "signal": {
+          "direction": "NEUTRAL",
+          "confidence": 0.39123680565733593,
+          "details": {
+            "signal": "NEUTRAL",
+            "confidence": 0.39123680565733593,
+            "long_score": 0.39123680565733593,
+            "short_score": 0.0,
+            "components": {
+              "obi": {
+                "value": 0.2763596873134986,
+                "long_contribution": 0.1842397915423324,
+                "short_contribution": 0.0,
+                "weight": 0.4
+              },
+              "velocity": {
+                "value": 0.09771609826334687,
+                "long_contribution": 0.19543219652669375,
+                "short_contribution": 0.0,
+                "weight": 0.2
+              },
+              "volume": {
+                "value": 3.85685,
+                "normalized": 0.038549387448893434,
+                "long_contribution": 0.01156481623466803,
+                "short_contribution": 0.0,
+                "weight": 0.3
+              },
+              "microprice": {
+                "value": 1.3536417703199532e-08,
+                "long_contribution": 1.3536417703199532e-09,
+                "short_contribution": 0.0,
+                "weight": 0.1
+              }
+            },
+            "timestamp": 1762830826132.537
+          }
+        },
+        "regime": {
+          "is_safe": false,
+          "risk_level": "CRITICAL",
+          "blocked_reasons": [
+            "\u6975\u9ad8 VPIN (0.983 > 0.7) - Flash Crash \u98a8\u96aa"
+          ],
+          "details": {
+            "is_safe": false,
+            "risk_level": "CRITICAL",
+            "blocked_reasons": [
+              "\u6975\u9ad8 VPIN (0.983 > 0.7) - Flash Crash \u98a8\u96aa"
+            ],
+            "risk_factors": [
+              [
+                "vpin",
+                "CRITICAL",
+                0.9829572831895047
+              ],
+              [
+                "depth",
+                "WARNING",
+                6.74291
+              ]
+            ],
+            "checks": {
+              "vpin": {
+                "value": 0.9829572831895047,
+                "threshold": 0.5,
+                "risk": "CRITICAL"
+              },
+              "spread": {
+                "value": 0.0009355929832548327,
+                "threshold": 10.0,
+                "risk": "SAFE"
+              },
+              "depth": {
+                "value": 6.74291,
+                "threshold": 5.0,
+                "risk": "WARNING"
+              },
+              "depth_imbalance": {
+                "value": 0.29310342270622025,
+                "threshold": 0.7,
+                "risk": "SAFE"
+              }
+            },
+            "timestamp": 1762830826132.537
+          }
+        },
+        "execution": {
+          "signal": "NEUTRAL",
+          "confidence": 0.39123680565733593,
+          "risk_level": "CRITICAL",
+          "is_safe": false,
+          "execution_style": "NO_TRADE",
+          "position_size": 0.0,
+          "leverage": 1,
+          "entry_method": "NONE",
+          "stop_loss_pct": 0.0,
+          "take_profit_pct": 0.0,
+          "reason": [
+            "\u4fe1\u865f\u4e0d\u660e\u78ba",
+            "\u5e02\u5834\u98a8\u96aa\u904e\u9ad8 (CRITICAL)"
+          ],
+          "timestamp": 1762830826132.99,
+          "market_data": {
+            "obi": 0.2763596873134986,
+            "obi_velocity": 0.09771609826334687,
+            "signed_volume": 3.85685,
+            "microprice_pressure": 1.3536417703199532e-08,
+            "vpin": 0.9829572831895047,
+            "spread_bps": 0.0009355929832548327,
+            "total_depth": 6.74291,
+            "depth_imbalance": 0.29310342270622025,
+            "price": 106884.08499999999,
+            "timestamp": 1762830826132.537
+          }
+        },
+        "action": "NO_TRADE",
+        "can_trade": false
+      },
+      "market_data": {
+        "obi": 0.2763596873134986,
+        "obi_velocity": 0.09771609826334687,
+        "signed_volume": 3.85685,
+        "microprice_pressure": 1.3536417703199532e-08,
+        "vpin": 0.9829572831895047,
+        "spread_bps": 0.0009355929832548327,
+        "total_depth": 6.74291,
+        "depth_imbalance": 0.29310342270622025,
+        "price": 106884.08499999999,
+        "timestamp": 1762830826132.537
+      }
+    }
+  ],
+  "closed_positions": [],
+  "statistics": {
+    "total_decisions": 4,
+    "trade_signals": 0,
+    "trades_executed": 0,
+    "blocked_by_regime": 0,
+    "win_rate": 0,
+    "total_pnl": 0
+  }
+}

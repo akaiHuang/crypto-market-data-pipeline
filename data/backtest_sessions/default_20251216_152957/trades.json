@@ -1,0 +1,30 @@
+[
+  {
+    "trade_id": "SYNC_20251216_153357",
+    "timestamp": "2025-12-16T15:37:24.862384",
+    "direction": "SHORT",
+    "strategy": "DYDX_SYNC",
+    "entry_price": 86219.0,
+    "entry_time": "2025-12-16T15:33:57.907090",
+    "leverage": 75,
+    "position_size_usdt": 172.43800000000002,
+    "position_size_btc": 0.002,
+    "entry_obi": 0.002032982048421166,
+    "entry_six_dim_long": 0,
+    "entry_six_dim_short": 0,
+    "entry_probability": 0.8,
+    "entry_confidence": 0.8,
+    "exit_price": 86043.27762,
+    "exit_time": "2025-12-16T15:37:24.830605",
+    "exit_reason": "CLOSED_TP",
+    "pnl_pct": 15.285700947587529,
+    "pnl_usdt": 0.3514447600000131,
+    "net_pnl_usdt": 0.3514447600000131,
+    "fee_usdt": 0.0,
+    "hold_seconds": 206.923511,
+    "max_profit_pct": 0,
+    "max_drawdown_pct": 0,
+    "max_price": 0,
+    "min_price": 0
+  }
+]

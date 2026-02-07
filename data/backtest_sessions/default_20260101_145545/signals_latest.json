@@ -1,0 +1,25 @@
+[
+  {
+    "timestamp": "2026-01-01T14:56:06.242638",
+    "signal_type": "LONG_LEADING",
+    "direction": "LONG",
+    "reason": "L:15.2s S:0.0s",
+    "price": 87487.0,
+    "six_dim_long_score": 6,
+    "six_dim_short_score": 0,
+    "fast_dir": "LONG",
+    "medium_dir": "LONG",
+    "slow_dir": "NEUTRAL",
+    "obi_dir": "LONG",
+    "momentum_dir": "LONG",
+    "volume_dir": "LONG",
+    "rsi_1m": 50,
+    "rsi_5m": 50,
+    "rsi_15m": 50,
+    "obi": 0.2378789050164253,
+    "regime": "NORMAL",
+    "strategy": "",
+    "long_align_sec": 15.2,
+    "short_align_sec": 0
+  }
+]

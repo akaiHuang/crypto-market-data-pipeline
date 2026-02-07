@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "timestamp": "20251111_195116",
+    "initial_capital": 100.0,
+    "decision_interval": 15,
+    "total_decisions": 6,
+    "modes": [
+      "mode_0_no_risk",
+      "mode_1_vpin_only",
+      "mode_2_liquidity_only",
+      "mode_3_full_risk"
+    ],
+    "leverage_config": {
+      "mode_0_no_risk": 5,
+      "mode_1_vpin_only": 3,
+      "mode_2_liquidity_only": 3,
+      "mode_3_full_risk": 5
+    },
+    "end_timestamp": "20251111_195224",
+    "final_balances": {
+      "mode_0_no_risk": 100.0,
+      "mode_1_vpin_only": 100.0,
+      "mode_2_liquidity_only": 100.0,
+      "mode_3_full_risk": 100.0
+    }
+  },
+  "orders": {
+    "mode_0_no_risk": [],
+    "mode_1_vpin_only": [],
+    "mode_2_liquidity_only": [],
+    "mode_3_full_risk": []
+  }
+}

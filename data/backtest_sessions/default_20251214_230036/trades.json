@@ -1,0 +1,30 @@
+[
+  {
+    "trade_id": "WT_20251215_093726_0040",
+    "timestamp": "2025-12-15T09:38:36.317772",
+    "direction": "LONG",
+    "strategy": "SIX_DIM",
+    "entry_price": 89032.48839317642,
+    "entry_time": "2025-12-15T09:37:26.904022",
+    "leverage": 28,
+    "position_size_usdt": 178.08334234,
+    "position_size_btc": 0.002,
+    "entry_obi": 0.15197394535513697,
+    "entry_six_dim_long": 0,
+    "entry_six_dim_short": 0,
+    "entry_probability": 0,
+    "entry_confidence": 0,
+    "exit_price": 89250.5,
+    "exit_time": "2025-12-15T09:38:36.294489",
+    "exit_reason": "CLOSED_TP",
+    "pnl_pct": 6.85628931778581,
+    "pnl_usdt": 12.209909177613357,
+    "net_pnl_usdt": 12.209909177613357,
+    "fee_usdt": 0.0,
+    "hold_seconds": 69.390465,
+    "max_profit_pct": 0,
+    "max_drawdown_pct": 0,
+    "max_price": 0,
+    "min_price": 0
+  }
+]

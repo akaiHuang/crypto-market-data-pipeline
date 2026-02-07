@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "timestamp": "20251111_125421",
+    "initial_capital": 100.0,
+    "decision_interval": 15,
+    "total_decisions": 2,
+    "modes": [
+      "mode_0_no_risk",
+      "mode_1_vpin_only",
+      "mode_2_liquidity_only",
+      "mode_3_full_risk"
+    ]
+  },
+  "orders": {
+    "mode_0_no_risk": [],
+    "mode_1_vpin_only": [],
+    "mode_2_liquidity_only": [],
+    "mode_3_full_risk": []
+  }
+}

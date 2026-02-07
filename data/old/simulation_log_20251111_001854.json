@@ -1,0 +1,10 @@
+{
+  "decisions": [],
+  "closed_positions": [],
+  "statistics": {
+    "total_decisions": 0,
+    "trade_signals": 0,
+    "trades_executed": 0,
+    "blocked_by_regime": 0
+  }
+}

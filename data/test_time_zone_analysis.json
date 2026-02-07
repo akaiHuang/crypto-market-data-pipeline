@@ -1,0 +1,1291 @@
+{
+  "hourly_trades": {
+    "6": [
+      {
+        "entry_time": "2025-11-14T06:51:00",
+        "exit_time": "2025-11-14T06:28:00",
+        "hour": 6,
+        "profit": 16.69536500409154,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T06:01:00",
+        "exit_time": "2025-11-14T06:02:00",
+        "hour": 6,
+        "profit": 9.272607415662014,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T06:51:00",
+        "exit_time": "2025-11-14T06:40:00",
+        "hour": 6,
+        "profit": -7.640824155606449,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T06:35:00",
+        "exit_time": "2025-11-14T06:32:00",
+        "hour": 6,
+        "profit": -10.79728419171316,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "20": [
+      {
+        "entry_time": "2025-11-14T20:38:00",
+        "exit_time": "2025-11-14T20:57:00",
+        "hour": 20,
+        "profit": 5.871254182522992,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T20:01:00",
+        "exit_time": "2025-11-14T20:23:00",
+        "hour": 20,
+        "profit": -5.548069328139314,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T20:32:00",
+        "exit_time": "2025-11-14T20:11:00",
+        "hour": 20,
+        "profit": -3.084795662636609,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T20:05:00",
+        "exit_time": "2025-11-14T20:27:00",
+        "hour": 20,
+        "profit": -5.2388407066324305,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "23": [
+      {
+        "entry_time": "2025-11-14T23:52:00",
+        "exit_time": "2025-11-14T23:35:00",
+        "hour": 23,
+        "profit": 14.763327094232793,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T23:25:00",
+        "exit_time": "2025-11-14T23:24:00",
+        "hour": 23,
+        "profit": 13.140441247373728,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T23:11:00",
+        "exit_time": "2025-11-14T23:49:00",
+        "hour": 23,
+        "profit": -4.542004238806922,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "16": [
+      {
+        "entry_time": "2025-11-14T16:26:00",
+        "exit_time": "2025-11-14T16:58:00",
+        "hour": 16,
+        "profit": 5.699984948204231,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T16:58:00",
+        "exit_time": "2025-11-14T16:48:00",
+        "hour": 16,
+        "profit": -7.932444159818775,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T16:32:00",
+        "exit_time": "2025-11-14T16:47:00",
+        "hour": 16,
+        "profit": 10.515737045891504,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T16:43:00",
+        "exit_time": "2025-11-14T16:27:00",
+        "hour": 16,
+        "profit": 9.19340512695138,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T16:45:00",
+        "exit_time": "2025-11-14T16:52:00",
+        "hour": 16,
+        "profit": 19.704973755740685,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "15": [
+      {
+        "entry_time": "2025-11-14T15:14:00",
+        "exit_time": "2025-11-14T15:46:00",
+        "hour": 15,
+        "profit": 10.73692986900744,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T15:25:00",
+        "exit_time": "2025-11-14T15:47:00",
+        "hour": 15,
+        "profit": 12.944758675340097,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T15:19:00",
+        "exit_time": "2025-11-14T15:55:00",
+        "hour": 15,
+        "profit": 17.73835115741267,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T15:18:00",
+        "exit_time": "2025-11-14T15:03:00",
+        "hour": 15,
+        "profit": 14.682084438607518,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T15:50:00",
+        "exit_time": "2025-11-14T15:36:00",
+        "hour": 15,
+        "profit": 10.128195000746024,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "19": [
+      {
+        "entry_time": "2025-11-14T19:56:00",
+        "exit_time": "2025-11-14T19:02:00",
+        "hour": 19,
+        "profit": -11.163690463053356,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T19:48:00",
+        "exit_time": "2025-11-14T19:48:00",
+        "hour": 19,
+        "profit": 8.703140942579019,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T19:10:00",
+        "exit_time": "2025-11-14T19:48:00",
+        "hour": 19,
+        "profit": 18.478312827906187,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T19:34:00",
+        "exit_time": "2025-11-14T19:47:00",
+        "hour": 19,
+        "profit": 14.952526536620837,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T19:20:00",
+        "exit_time": "2025-11-14T19:31:00",
+        "hour": 19,
+        "profit": -6.803064061875332,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T19:00:00",
+        "exit_time": "2025-11-14T19:07:00",
+        "hour": 19,
+        "profit": -12.549512033233214,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "8": [
+      {
+        "entry_time": "2025-11-14T08:38:00",
+        "exit_time": "2025-11-14T08:17:00",
+        "hour": 8,
+        "profit": -14.587584396894712,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T08:28:00",
+        "exit_time": "2025-11-14T08:14:00",
+        "hour": 8,
+        "profit": 5.234546101117909,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T08:23:00",
+        "exit_time": "2025-11-14T08:00:00",
+        "hour": 8,
+        "profit": 5.082831756854036,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T08:07:00",
+        "exit_time": "2025-11-14T08:11:00",
+        "hour": 8,
+        "profit": 5.953375254290354,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T08:14:00",
+        "exit_time": "2025-11-14T08:14:00",
+        "hour": 8,
+        "profit": 11.590047527986552,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T08:36:00",
+        "exit_time": "2025-11-14T08:32:00",
+        "hour": 8,
+        "profit": 10.064227571054419,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T08:35:00",
+        "exit_time": "2025-11-14T08:32:00",
+        "hour": 8,
+        "profit": 12.40840572775152,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T08:11:00",
+        "exit_time": "2025-11-14T08:52:00",
+        "hour": 8,
+        "profit": 18.728205914397208,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "17": [
+      {
+        "entry_time": "2025-11-14T17:57:00",
+        "exit_time": "2025-11-14T17:08:00",
+        "hour": 17,
+        "profit": 8.463407384332235,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T17:25:00",
+        "exit_time": "2025-11-14T17:43:00",
+        "hour": 17,
+        "profit": -13.737928205131785,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T17:39:00",
+        "exit_time": "2025-11-14T17:00:00",
+        "hour": 17,
+        "profit": -11.822593430889265,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T17:22:00",
+        "exit_time": "2025-11-14T17:30:00",
+        "hour": 17,
+        "profit": -6.095299532581867,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T17:45:00",
+        "exit_time": "2025-11-14T17:17:00",
+        "hour": 17,
+        "profit": 11.72636214479371,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T17:24:00",
+        "exit_time": "2025-11-14T17:41:00",
+        "hour": 17,
+        "profit": -11.352357560099676,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "14": [
+      {
+        "entry_time": "2025-11-14T14:59:00",
+        "exit_time": "2025-11-14T14:06:00",
+        "hour": 14,
+        "profit": 17.497923676042465,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T14:58:00",
+        "exit_time": "2025-11-14T14:53:00",
+        "hour": 14,
+        "profit": 13.371530030260118,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T14:33:00",
+        "exit_time": "2025-11-14T14:31:00",
+        "hour": 14,
+        "profit": 15.718938840500934,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "2": [
+      {
+        "entry_time": "2025-11-14T02:13:00",
+        "exit_time": "2025-11-14T02:16:00",
+        "hour": 2,
+        "profit": 14.93783426530973,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T02:00:00",
+        "exit_time": "2025-11-14T02:34:00",
+        "hour": 2,
+        "profit": 15.698671808344924,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T02:19:00",
+        "exit_time": "2025-11-14T02:23:00",
+        "hour": 2,
+        "profit": 18.316551481414397,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T02:54:00",
+        "exit_time": "2025-11-14T02:39:00",
+        "hour": 2,
+        "profit": -14.710224953550416,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "1": [
+      {
+        "entry_time": "2025-11-14T01:05:00",
+        "exit_time": "2025-11-14T01:53:00",
+        "hour": 1,
+        "profit": -5.218253466306324,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T01:52:00",
+        "exit_time": "2025-11-14T01:43:00",
+        "hour": 1,
+        "profit": 13.29339633606992,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T01:00:00",
+        "exit_time": "2025-11-14T01:47:00",
+        "hour": 1,
+        "profit": -9.699521443285171,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T01:48:00",
+        "exit_time": "2025-11-14T01:27:00",
+        "hour": 1,
+        "profit": -14.282762897099492,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "13": [
+      {
+        "entry_time": "2025-11-14T13:30:00",
+        "exit_time": "2025-11-14T13:47:00",
+        "hour": 13,
+        "profit": 13.55665961608099,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T13:01:00",
+        "exit_time": "2025-11-14T13:50:00",
+        "hour": 13,
+        "profit": 10.048313223330897,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "7": [
+      {
+        "entry_time": "2025-11-14T07:20:00",
+        "exit_time": "2025-11-14T07:15:00",
+        "hour": 7,
+        "profit": -9.476305588668957,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T07:45:00",
+        "exit_time": "2025-11-14T07:23:00",
+        "hour": 7,
+        "profit": 15.067152752360759,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T07:32:00",
+        "exit_time": "2025-11-14T07:08:00",
+        "hour": 7,
+        "profit": -7.313893814637062,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T07:52:00",
+        "exit_time": "2025-11-14T07:59:00",
+        "hour": 7,
+        "profit": 14.343357137285004,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T07:44:00",
+        "exit_time": "2025-11-14T07:52:00",
+        "hour": 7,
+        "profit": -9.2003550891188,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T07:09:00",
+        "exit_time": "2025-11-14T07:42:00",
+        "hour": 7,
+        "profit": 6.040419513127482,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T07:28:00",
+        "exit_time": "2025-11-14T07:25:00",
+        "hour": 7,
+        "profit": -7.08749483357088,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "10": [
+      {
+        "entry_time": "2025-11-14T10:50:00",
+        "exit_time": "2025-11-14T10:16:00",
+        "hour": 10,
+        "profit": -12.482106486374468,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T10:28:00",
+        "exit_time": "2025-11-14T10:35:00",
+        "hour": 10,
+        "profit": -10.186385597862433,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T10:57:00",
+        "exit_time": "2025-11-14T10:54:00",
+        "hour": 10,
+        "profit": -6.8160416996623665,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T10:47:00",
+        "exit_time": "2025-11-14T10:15:00",
+        "hour": 10,
+        "profit": -6.84936077966083,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "4": [
+      {
+        "entry_time": "2025-11-14T04:41:00",
+        "exit_time": "2025-11-14T04:38:00",
+        "hour": 4,
+        "profit": -13.97951610652537,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T04:21:00",
+        "exit_time": "2025-11-14T04:28:00",
+        "hour": 4,
+        "profit": 8.715964842517362,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T04:46:00",
+        "exit_time": "2025-11-14T04:48:00",
+        "hour": 4,
+        "profit": 19.69265792932263,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T04:11:00",
+        "exit_time": "2025-11-14T04:15:00",
+        "hour": 4,
+        "profit": 12.374238126752486,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T04:44:00",
+        "exit_time": "2025-11-14T04:03:00",
+        "hour": 4,
+        "profit": -14.326699254729085,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "22": [
+      {
+        "entry_time": "2025-11-14T22:23:00",
+        "exit_time": "2025-11-14T22:36:00",
+        "hour": 22,
+        "profit": -10.650689656262557,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T22:36:00",
+        "exit_time": "2025-11-14T22:31:00",
+        "hour": 22,
+        "profit": -5.8747426880036695,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T22:03:00",
+        "exit_time": "2025-11-14T22:54:00",
+        "hour": 22,
+        "profit": -5.851650527908796,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T22:08:00",
+        "exit_time": "2025-11-14T22:40:00",
+        "hour": 22,
+        "profit": 15.889335183053591,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T22:21:00",
+        "exit_time": "2025-11-14T22:45:00",
+        "hour": 22,
+        "profit": -14.746714299300109,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T22:01:00",
+        "exit_time": "2025-11-14T22:26:00",
+        "hour": 22,
+        "profit": 9.838261463579007,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T22:21:00",
+        "exit_time": "2025-11-14T22:50:00",
+        "hour": 22,
+        "profit": -9.51173561649092,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T22:25:00",
+        "exit_time": "2025-11-14T22:36:00",
+        "hour": 22,
+        "profit": 6.213094499257965,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "0": [
+      {
+        "entry_time": "2025-11-14T00:04:00",
+        "exit_time": "2025-11-14T00:25:00",
+        "hour": 0,
+        "profit": 8.84102484141986,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T00:00:00",
+        "exit_time": "2025-11-14T00:56:00",
+        "hour": 0,
+        "profit": -3.00624452394379,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T00:27:00",
+        "exit_time": "2025-11-14T00:46:00",
+        "hour": 0,
+        "profit": -5.3429158535765335,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "18": [
+      {
+        "entry_time": "2025-11-14T18:31:00",
+        "exit_time": "2025-11-14T18:38:00",
+        "hour": 18,
+        "profit": -9.759306863716604,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T18:21:00",
+        "exit_time": "2025-11-14T18:27:00",
+        "hour": 18,
+        "profit": -12.697444554773003,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T18:53:00",
+        "exit_time": "2025-11-14T18:07:00",
+        "hour": 18,
+        "profit": -12.537735642499781,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T18:42:00",
+        "exit_time": "2025-11-14T18:36:00",
+        "hour": 18,
+        "profit": -12.845122125255216,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "3": [
+      {
+        "entry_time": "2025-11-14T03:29:00",
+        "exit_time": "2025-11-14T03:36:00",
+        "hour": 3,
+        "profit": 11.155743845534445,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T03:18:00",
+        "exit_time": "2025-11-14T03:25:00",
+        "hour": 3,
+        "profit": -5.7179493023752554,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T03:05:00",
+        "exit_time": "2025-11-14T03:44:00",
+        "hour": 3,
+        "profit": 11.170308575850179,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "12": [
+      {
+        "entry_time": "2025-11-14T12:40:00",
+        "exit_time": "2025-11-14T12:02:00",
+        "hour": 12,
+        "profit": 12.661209538663487,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T12:59:00",
+        "exit_time": "2025-11-14T12:57:00",
+        "hour": 12,
+        "profit": 14.41841622422954,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "5": [
+      {
+        "entry_time": "2025-11-14T05:23:00",
+        "exit_time": "2025-11-14T05:04:00",
+        "hour": 5,
+        "profit": -10.602356529130736,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T05:15:00",
+        "exit_time": "2025-11-14T05:28:00",
+        "hour": 5,
+        "profit": -6.911506862422617,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T05:34:00",
+        "exit_time": "2025-11-14T05:59:00",
+        "hour": 5,
+        "profit": 18.92477843881588,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T05:14:00",
+        "exit_time": "2025-11-14T05:53:00",
+        "hour": 5,
+        "profit": -6.91981490155249,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "9": [
+      {
+        "entry_time": "2025-11-14T09:54:00",
+        "exit_time": "2025-11-14T09:25:00",
+        "hour": 9,
+        "profit": -13.404867822961243,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T09:29:00",
+        "exit_time": "2025-11-14T09:18:00",
+        "hour": 9,
+        "profit": -6.249987015144891,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T09:53:00",
+        "exit_time": "2025-11-14T09:04:00",
+        "hour": 9,
+        "profit": -6.130723480100567,
+        "is_win": false,
+        "strategy": "unknown",
+        "metadata": {}
+      },
+      {
+        "entry_time": "2025-11-14T09:57:00",
+        "exit_time": "2025-11-14T09:18:00",
+        "hour": 9,
+        "profit": 17.847347617824834,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "11": [
+      {
+        "entry_time": "2025-11-14T11:50:00",
+        "exit_time": "2025-11-14T11:22:00",
+        "hour": 11,
+        "profit": 13.68297343261338,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ],
+    "21": [
+      {
+        "entry_time": "2025-11-14T21:57:00",
+        "exit_time": "2025-11-14T21:57:00",
+        "hour": 21,
+        "profit": 5.5602228312382165,
+        "is_win": true,
+        "strategy": "unknown",
+        "metadata": {}
+      }
+    ]
+  },
+  "hourly_stats": {
+    "6": {
+      "hour": 6,
+      "total_trades": 4,
+      "winning_trades": 2,
+      "losing_trades": 2,
+      "total_profit": 25.96797241975355,
+      "total_loss": 18.43810834731961,
+      "win_rate": 0.5,
+      "profit_factor": 1.4083859325801487,
+      "avg_profit": 12.983986209876775,
+      "avg_loss": 9.219054173659805,
+      "expected_value": 1.8824660181084854,
+      "is_profitable": false
+    },
+    "20": {
+      "hour": 20,
+      "total_trades": 4,
+      "winning_trades": 1,
+      "losing_trades": 3,
+      "total_profit": 5.871254182522992,
+      "total_loss": 13.871705697408354,
+      "win_rate": 0.25,
+      "profit_factor": 0.4232539466015283,
+      "avg_profit": 5.871254182522992,
+      "avg_loss": 4.623901899136118,
+      "expected_value": -2.00011287872134,
+      "is_profitable": false
+    },
+    "23": {
+      "hour": 23,
+      "total_trades": 3,
+      "winning_trades": 2,
+      "losing_trades": 1,
+      "total_profit": 27.903768341606522,
+      "total_loss": 4.542004238806922,
+      "win_rate": 0.6666666666666666,
+      "profit_factor": 6.143492360310123,
+      "avg_profit": 13.951884170803261,
+      "avg_loss": 4.542004238806922,
+      "expected_value": 7.787254700933199,
+      "is_profitable": true
+    },
+    "16": {
+      "hour": 16,
+      "total_trades": 5,
+      "winning_trades": 4,
+      "losing_trades": 1,
+      "total_profit": 45.1141008767878,
+      "total_loss": 7.932444159818775,
+      "win_rate": 0.8,
+      "profit_factor": 5.6872888063063884,
+      "avg_profit": 11.27852521919695,
+      "avg_loss": 7.932444159818775,
+      "expected_value": 7.436331343393806,
+      "is_profitable": true
+    },
+    "15": {
+      "hour": 15,
+      "total_trades": 5,
+      "winning_trades": 5,
+      "losing_trades": 0,
+      "total_profit": 66.23031914111375,
+      "total_loss": 0,
+      "win_rate": 1.0,
+      "profit_factor": Infinity,
+      "avg_profit": 13.24606382822275,
+      "avg_loss": 0,
+      "expected_value": 13.24606382822275,
+      "is_profitable": true
+    },
+    "19": {
+      "hour": 19,
+      "total_trades": 6,
+      "winning_trades": 3,
+      "losing_trades": 3,
+      "total_profit": 42.13398030710604,
+      "total_loss": 30.516266558161902,
+      "win_rate": 0.5,
+      "profit_factor": 1.3807056058709404,
+      "avg_profit": 14.044660102368681,
+      "avg_loss": 10.172088852720634,
+      "expected_value": 1.9362856248240234,
+      "is_profitable": false
+    },
+    "8": {
+      "hour": 8,
+      "total_trades": 8,
+      "winning_trades": 7,
+      "losing_trades": 1,
+      "total_profit": 69.061639853452,
+      "total_loss": 14.587584396894712,
+      "win_rate": 0.875,
+      "profit_factor": 4.734275255891803,
+      "avg_profit": 9.865948550493142,
+      "avg_loss": 14.587584396894712,
+      "expected_value": 6.80925693206966,
+      "is_profitable": true
+    },
+    "17": {
+      "hour": 17,
+      "total_trades": 6,
+      "winning_trades": 2,
+      "losing_trades": 4,
+      "total_profit": 20.189769529125947,
+      "total_loss": 43.008178728702596,
+      "win_rate": 0.3333333333333333,
+      "profit_factor": 0.46944023499539156,
+      "avg_profit": 10.094884764562973,
+      "avg_loss": 10.752044682175649,
+      "expected_value": -3.8030681999294425,
+      "is_profitable": false
+    },
+    "14": {
+      "hour": 14,
+      "total_trades": 3,
+      "winning_trades": 3,
+      "losing_trades": 0,
+      "total_profit": 46.58839254680352,
+      "total_loss": 0,
+      "win_rate": 1.0,
+      "profit_factor": Infinity,
+      "avg_profit": 15.529464182267839,
+      "avg_loss": 0,
+      "expected_value": 15.529464182267839,
+      "is_profitable": true
+    },
+    "2": {
+      "hour": 2,
+      "total_trades": 4,
+      "winning_trades": 3,
+      "losing_trades": 1,
+      "total_profit": 48.95305755506905,
+      "total_loss": 14.710224953550416,
+      "win_rate": 0.75,
+      "profit_factor": 3.3278252174691514,
+      "avg_profit": 16.317685851689685,
+      "avg_loss": 14.710224953550416,
+      "expected_value": 8.560708150379659,
+      "is_profitable": true
+    },
+    "1": {
+      "hour": 1,
+      "total_trades": 4,
+      "winning_trades": 1,
+      "losing_trades": 3,
+      "total_profit": 13.29339633606992,
+      "total_loss": 29.20053780669099,
+      "win_rate": 0.25,
+      "profit_factor": 0.455244914462633,
+      "avg_profit": 13.29339633606992,
+      "avg_loss": 9.733512602230329,
+      "expected_value": -3.976785367655267,
+      "is_profitable": false
+    },
+    "13": {
+      "hour": 13,
+      "total_trades": 2,
+      "winning_trades": 2,
+      "losing_trades": 0,
+      "total_profit": 23.604972839411886,
+      "total_loss": 0,
+      "win_rate": 1.0,
+      "profit_factor": Infinity,
+      "avg_profit": 11.802486419705943,
+      "avg_loss": 0,
+      "expected_value": 11.802486419705943,
+      "is_profitable": true
+    },
+    "7": {
+      "hour": 7,
+      "total_trades": 7,
+      "winning_trades": 3,
+      "losing_trades": 4,
+      "total_profit": 35.45092940277324,
+      "total_loss": 33.0780493259957,
+      "win_rate": 0.42857142857142855,
+      "profit_factor": 1.0717357923193107,
+      "avg_profit": 11.816976467591081,
+      "avg_loss": 8.269512331498925,
+      "expected_value": 0.3389828681110778,
+      "is_profitable": false
+    },
+    "10": {
+      "hour": 10,
+      "total_trades": 4,
+      "winning_trades": 0,
+      "losing_trades": 4,
+      "total_profit": 0,
+      "total_loss": 36.333894563560094,
+      "win_rate": 0.0,
+      "profit_factor": 0.0,
+      "avg_profit": 0,
+      "avg_loss": 9.083473640890023,
+      "expected_value": -9.083473640890023,
+      "is_profitable": false
+    },
+    "4": {
+      "hour": 4,
+      "total_trades": 5,
+      "winning_trades": 3,
+      "losing_trades": 2,
+      "total_profit": 40.782860898592475,
+      "total_loss": 28.306215361254456,
+      "win_rate": 0.6,
+      "profit_factor": 1.4407740624490566,
+      "avg_profit": 13.594286966197492,
+      "avg_loss": 14.153107680627228,
+      "expected_value": 2.4953291074676036,
+      "is_profitable": true
+    },
+    "22": {
+      "hour": 22,
+      "total_trades": 8,
+      "winning_trades": 3,
+      "losing_trades": 5,
+      "total_profit": 31.94069114589056,
+      "total_loss": 46.63553278796605,
+      "win_rate": 0.375,
+      "profit_factor": 0.6849003160554138,
+      "avg_profit": 10.646897048630187,
+      "avg_loss": 9.32710655759321,
+      "expected_value": -1.836855205259436,
+      "is_profitable": false
+    },
+    "0": {
+      "hour": 0,
+      "total_trades": 3,
+      "winning_trades": 1,
+      "losing_trades": 2,
+      "total_profit": 8.84102484141986,
+      "total_loss": 8.349160377520324,
+      "win_rate": 0.3333333333333333,
+      "profit_factor": 1.0589118476180976,
+      "avg_profit": 8.84102484141986,
+      "avg_loss": 4.174580188760162,
+      "expected_value": 0.1639548212998445,
+      "is_profitable": false
+    },
+    "18": {
+      "hour": 18,
+      "total_trades": 4,
+      "winning_trades": 0,
+      "losing_trades": 4,
+      "total_profit": 0,
+      "total_loss": 47.8396091862446,
+      "win_rate": 0.0,
+      "profit_factor": 0.0,
+      "avg_profit": 0,
+      "avg_loss": 11.95990229656115,
+      "expected_value": -11.95990229656115,
+      "is_profitable": false
+    },
+    "3": {
+      "hour": 3,
+      "total_trades": 3,
+      "winning_trades": 2,
+      "losing_trades": 1,
+      "total_profit": 22.326052421384624,
+      "total_loss": 5.7179493023752554,
+      "win_rate": 0.6666666666666666,
+      "profit_factor": 3.904555853986027,
+      "avg_profit": 11.163026210692312,
+      "avg_loss": 5.7179493023752554,
+      "expected_value": 5.5360343730031225,
+      "is_profitable": true
+    },
+    "12": {
+      "hour": 12,
+      "total_trades": 2,
+      "winning_trades": 2,
+      "losing_trades": 0,
+      "total_profit": 27.079625762893027,
+      "total_loss": 0,
+      "win_rate": 1.0,
+      "profit_factor": Infinity,
+      "avg_profit": 13.539812881446514,
+      "avg_loss": 0,
+      "expected_value": 13.539812881446514,
+      "is_profitable": true
+    },
+    "5": {
+      "hour": 5,
+      "total_trades": 4,
+      "winning_trades": 1,
+      "losing_trades": 3,
+      "total_profit": 18.92477843881588,
+      "total_loss": 24.433678293105842,
+      "win_rate": 0.25,
+      "profit_factor": 0.7745366134314562,
+      "avg_profit": 18.92477843881588,
+      "avg_loss": 8.144559431035281,
+      "expected_value": -1.3772249635724902,
+      "is_profitable": false
+    },
+    "9": {
+      "hour": 9,
+      "total_trades": 4,
+      "winning_trades": 1,
+      "losing_trades": 3,
+      "total_profit": 17.847347617824834,
+      "total_loss": 25.785578318206703,
+      "win_rate": 0.25,
+      "profit_factor": 0.6921445545094935,
+      "avg_profit": 17.847347617824834,
+      "avg_loss": 8.595192772735567,
+      "expected_value": -1.9845576750954672,
+      "is_profitable": false
+    },
+    "11": {
+      "hour": 11,
+      "total_trades": 1,
+      "winning_trades": 1,
+      "losing_trades": 0,
+      "total_profit": 13.68297343261338,
+      "total_loss": 0,
+      "win_rate": 1.0,
+      "profit_factor": Infinity,
+      "avg_profit": 13.68297343261338,
+      "avg_loss": 0,
+      "expected_value": 13.68297343261338,
+      "is_profitable": true
+    },
+    "21": {
+      "hour": 21,
+      "total_trades": 1,
+      "winning_trades": 1,
+      "losing_trades": 0,
+      "total_profit": 5.5602228312382165,
+      "total_loss": 0,
+      "win_rate": 1.0,
+      "profit_factor": Infinity,
+      "avg_profit": 5.5602228312382165,
+      "avg_loss": 0,
+      "expected_value": 5.5602228312382165,
+      "is_profitable": true
+    }
+  },
+  "last_updated": "2025-11-14T07:48:47.265794"
+}

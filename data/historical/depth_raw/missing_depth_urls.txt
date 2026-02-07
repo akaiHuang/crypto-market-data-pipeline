@@ -1,0 +1,1 @@
+https://data.binance.vision/data/futures/um/daily/bookDepth/BTCUSDT/BTCUSDT-bookDepth-2020-07-01.zip

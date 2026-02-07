@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "timestamp": "20251111_200311",
+    "initial_capital": 100.0,
+    "decision_interval": 15,
+    "total_decisions": 0,
+    "modes": [
+      "mode_0_no_risk",
+      "mode_1_vpin_only",
+      "mode_2_liquidity_only",
+      "mode_3_full_risk"
+    ],
+    "leverage_config": {
+      "mode_0_no_risk": 5,
+      "mode_1_vpin_only": 3,
+      "mode_2_liquidity_only": 3,
+      "mode_3_full_risk": 5
+    }
+  },
+  "orders": {
+    "mode_0_no_risk": [],
+    "mode_1_vpin_only": [],
+    "mode_2_liquidity_only": [],
+    "mode_3_full_risk": []
+  }
+}

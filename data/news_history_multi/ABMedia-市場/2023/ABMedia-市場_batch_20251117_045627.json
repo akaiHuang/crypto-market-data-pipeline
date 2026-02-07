@@ -1,0 +1,173 @@
+{
+  "site": "ABMedia-市場",
+  "year": 2023,
+  "batch_articles": 15,
+  "articles": [
+    {
+      "title": "RWA｜代幣化黃金市值超過 10 億美元，黃金穩定幣 PAXG 是什麼？",
+      "link": "https://abmedia.io/tokenzized-gold-market-value-exceed-1bio",
+      "summary": "",
+      "content": "繼花旗銀行報告指出，金融和現實世界資產 (RWA) 的代幣化可能是「殺手級應用」後，美國銀行也出具報告，將商品、貨幣和股票等現實世界資產的代幣化視為「數位資產採用的關鍵驅動力」。報告中並提及，隨著現實世界資產的代幣化步伐加快，上個月代幣化黃金市場的價值超過了 10 億美元。\n\n代幣化黃金原理和穩定幣相似，其價格與黃金掛鉤。它爲投資者提供了另一種投資黃金的方式，既不需要支付 ETF 管理費，也不用承擔金條的儲存成本和攜帶風險。目前最大的代幣化黃金發行者為穩定幣發行商 Paxos 和 Tether。\n\n以 Paxos 的 PAXG 為例，每個 PAXG 都是由一金衡盎司 (troy ounce，簡寫為 TOZ， 1 troy ounce 約為 31.1 公克) 的黃金所支持，儲存在倫敦 LBMA (London Bullion Market Association，為英國央行監督的場外交易市場，也是全球最大的黃金場外交易中心) 金庫中。最小交易單位為 0.01 TOZ，以目前黃金價格 2000 美元的價格換算，約 20 美元即可投資 PAXG。其贖回和創建都有美元和黃金兩種方法，這也表示，投資者可以進行純粹的價格投資 (買賣以美元結算，賺取價差) ，或是平時以數位資產的方式儲存，但在有需求時再換成實體黃金。\n\n根據 Paxos 二月最新報告，其共發行 251,816 枚 PAXG ，目前市價約為 5 億美元。\n\n根據世界黃金協會 2022 年的最新統計資料，全球黃金總庫存為 208,874 噸，目前市值為 13.4 兆美元。其中金條金幣和黃金 ETF 約為 46,517 噸，佔總量的 22%，市值約 3 兆美元，如此看來，代幣化黃金也只佔其中的 0.033%，未來發展可期。\n\n一月時即報導過，俄羅斯和伊朗已開始研究黃金儲備穩定幣，幫助外貿結算。而俄羅斯國有銀行 Sberbank 也於 Sber 區塊鏈上發行了代幣化黃金。\n\n(更多 RWA 應用：代幣化 RWA 成殺手級應用，OpenEden 推出代幣化國庫券金庫)\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/15",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:53:48.785661"
+    },
+    {
+      "title": "打不贏就加入，前以太坊殺手EOS推出EVM主網，迷樣機構DWF Labs也參投",
+      "link": "https://abmedia.io/eos-evm-mainnet-is-live",
+      "summary": "",
+      "content": "既然本身的公鏈架構無法吸引開發者、用戶，乾脆轉型與以太坊兼容，或許能吸引追求較低成本的專案、開發者加入，這是前以太殺手 EOS 的最新嘗試。\n\nEOS 在 2018 年的 ICO 籌集 41 億美元寫下史上最高紀錄，一度被視為能扳倒以太坊。\n\n不過 EOS 的發展歷程幾乎詮釋了上線即巔峰，2018 年後隨著熊市沒落，此後加密市場進入大公鏈時代，各大公鏈持續迭代，至今 EOS 市值已來到 43 名。\n\nEOS 開發商 Block.one 在過去幾年中對 EOS 的技術更新寥寥無幾，反倒是推出了社交平台「Voice」、籌集百億美金建立交易所 Bullish，但兩者都沒有很好的發展。\n\n在社群不斷抱怨 Block.one 不作為的情況下，開發改由基於社群的 EOS 網路基金會 (EOS Network Foundation, ENF) 主導，EVM 的發展就是由 ENF 所發起。\n\nENF 執行長 Yves La Rose 於推特宣佈，EOS EVM 已在 4 月 14 日推出。\n\n他強調這比 Avax 快上 25 倍、比 Solana 還快 3 倍，且有多項特點。\n\n將 Solana 的速度和低費用，與以太坊的安全性、可靠性結合，Yves La Rose 指出 EOS EVM 比 Solana 快上三倍，不相信可以在測試網試試看。\n\nENF 將直接撥款給開發者及專案，此外 EOS Network Ventures (ENV) 也承諾將為 EOS EVM、GameFi 專案提供 2,000 萬美元。\n\nYves La Rose 表示原先計劃 0.5 秒出塊，但經過數月研發，開發者確定 1 秒的出塊時間能提供最佳性能、兼容性。\n\nEOS EVM 能透過 Metamask 等 EVM 錢包使用，他認為沒有發展 EVM 兼容性無疑是 EOS 早期的嚴重錯誤，現在，EOS EVM 將為成千上萬的 Solidity 開發者敞開大門。\n\n交易與投資機構 DWF Labs 於 4 月 13 日宣佈與 ENF 達成戰略合作，簽署了 4,500 萬美元的 EOS 代幣購買協議及 1,500 萬美元的生態開發基金。\n\n此前，DWF Labs 因投資加密新創 CryptoGPT 1,000 萬美元引發社群諸多揣測，包括領導者曾涉及詐騙專案 OneCoin、利用投資消息代銷代幣等。\n\n了解 DWF Labs 及合夥人 Andrei Grachev 的解釋：半年多筆千萬美元等級投資，謎樣機構DWF Labs回應仍遭質疑\n\n截稿前，EOS 價格 1.286 美元，漲幅約 6%，幣價甚至比 2018 年大熊市期間的 1.5 美元還要更低。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/14",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:53:58.387269"
+    },
+    {
+      "title": "上海升級ETH沒跌！幣安趙長鵬這樣解讀 ETH 大漲",
+      "link": "https://abmedia.io/why-shanghai-upgrade-didnt-make-eth-drop",
+      "summary": "",
+      "content": "以太坊在 4/13 日迎來上海升級，驗證者質押的 \nETH\n▼\n 可以開始提取。在事前預想的 \nETH\n▼\n 下跌並沒有發生，反倒是大幅上漲，\nETH\n▼\n 逼近 2,000 美元水平。\n\n根據 Nansen 數據，截稿前等待提取的 \nETH\n▼\n 數量為 775,920 個，目前質押總量為 19,165,544 個，提取數量僅佔 4%。\n\n這個比例低於截稿前 \nETH\n▼\n 質押年化收益的 5%，顯示目前提取 \nETH\n▼\n 數量上，少於獎勵部分，多數節點沒有將本金撤離。\n\n幣安創辦人趙長鵬表示，這是心態差異的問題。沒有持有 \nETH\n▼\n 的人會說，這麼多的 \nETH\n▼\n 都可以被解鎖。那一定會如何…\n\n但真的持有者會覺得，我在數年前就自願將 \nETH\n▼\n 質押鎖定，當時都還沒有定義解鎖時間。\n\n幣安創辦人趙長鵬可能認為，\nETH\n▼\n 質押者多數是以太坊的信仰者，在沒有可提取時程公佈下，就自願參與。開放提取後，立即變賣，可能不會是他們急迫想做的事。\n\n不過，最大的質押服務提供商 Lido Finance 要到五月才開放提取，或許之後才是理解市場動態的關鍵。同時，也仍有許多人認為，情況並沒有這麼樂觀。(補充：了解 Lido Finance 的 stETH 如何提取)\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/13",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:54:02.773521"
+    },
+    {
+      "title": "鏈上偵探ZachXBT抨擊推特「Alpha Thread」亂象，多名KOL收錢辦事",
+      "link": "https://abmedia.io/the-emergence-of-defi-alpha-threadooor",
+      "summary": "",
+      "content": "鏈上偵探 ZachXBT 點名多位國外 KOL，近期在 Arbitrum 所帶動的空投致富趨勢下，多個加密 KOL 以推特常見的推文串形式 (Thread) 吹捧基於 zkSync 的上幣平台 Snark Launch。在被爆料所謂的「Alpha Thread」都只是拿錢辦事後，KOL 紛紛刪文。\n\n被 ZachXBT 截圖的 KOL 如下：\n\n@defi_mochi：4.5 萬追蹤者 (曾是 Delphi Digital 實習生)\n\n@bloomstarbms：6.4 萬追蹤者\n\nZachXBT 指出，專案方會以 3 個白名單，外加價值 100 美元的代幣作為報酬，推文串發布後還會在留言處演戲，感謝 KOL 的分享。\n\n問問你自己，這些很愛寫推文串的新 KOL，假設他們推文中所謂的 Alpha 這麼能賺錢，為什麼他們大多數都會把推文刪除？如果你繼續盲目地跟隨這些人，總有一天你的進場倉位會成為他們出場的流動性。\n\n另一位分析師 zkSync Research 也認為，Snark Launch 存在多種危險訊號，這些 KOL 理應是加密領域老手，怎麼可能沒發現？警訊包括：\n\n透過推特機器人增粉 (單週 27,000 人關注)\n\n不過 zkSync Research 特地幫被點名的 Defi_Mochi 說話，認為他對此負起了責任，不像其他 KOL 刪文後完全裝沒事。\n\nDefi_Mochi 也表示會把收到的贊助資金按比例返回給因此賠錢的用戶。\n\n據了解，Snark Launch 原先不願返還代幣發行超募的資金，但官方隨後在社群壓力下表示，將統計超募的 \nETH\n▼\n，預計在 4/16、4/17 返還給用戶。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/13",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:54:07.031367"
+    },
+    {
+      "title": "Twitter將整合eToro提供用戶買賣加密貨幣，$Cashtag是推特新財源？",
+      "link": "https://abmedia.io/etoro-partnered-with-twitter-using-cashtag-to-trade-crypto",
+      "summary": "",
+      "content": "線上券商平台 eToro 與 Twitter (中文：推特) 展開合作，將讓用戶可以透過 $Cashtag (中文：金錢標註符號)，讓用戶查看加密貨幣與股票的價格圖表，並可在 eToro 進行買賣。\n\n線上券商平台 eToro 將在美國時間周四與推特整合服務，讓 $Cashtag 可以涵蓋更多工具與資產類別，並進一步到 eToro 交易。\n\n目前，推特可以搜尋股票代碼或是加密貨幣，在前頭加上 $ 符號，就會出現 TradingView 的價格圖表。(另註：截稿前，這個功能並沒有如往常出現。)(回顧相關介紹：搜尋BTC、ETH，馬上秀出幣價圖)\n\n在特斯拉創辦人馬斯克接手推特之後，盈利問題一直是首要任務，執行裁員、付費制驗證帳號、廣告分潤等政策，並期待成為「超級 App」。(了解更多馬斯克的推特規劃請見：馬斯克：創作者將會有廣告分潤、X.com的復歸之路)\n\n據 CNBC 報導，$Cashtag 是在去年 12 月加入了價格數據，從 2023 年以來，$Cashtag 已被搜尋超過 4.2 億次，每日有 470 萬次。\n\n線上券商平台 eToro 執行長 Yoni Assia 表示，「Fintwit」(中文：財經推特貼文) 已經成為推特的流行趨勢，人們會用它來找突發新聞，或是股票與其他資產的最新狀態。\n\n此次 eToro 與 Twitter 的合作消息，在兩者間的商業協定，勢必有機會為 Twitter 帶來新的財源。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/13",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:54:11.562287"
+    },
+    {
+      "title": "以太坊上海升級已完成，美國 CPI 符合預期，FTX 可能重啟",
+      "link": "https://abmedia.io/eth-shanghai-upgrade-cpi-in-line-ftx-may-reopen",
+      "summary": "",
+      "content": "以太坊已於台灣時間 6 點27 分完成上海升級 (Epoch 為 194,048)。根據 TokenUnlocks 的數據，自以太坊完成上海升级後，淨解除質押數量為 22,950 枚 \nETH\n▼\n。目前仍有 32 萬枚 \nETH\n▼\n 處於待提領狀態，價值約 5.6 億美元。至截槁前，\nETH\n▼\n 價格為 1,905 美元，沒有大幅的變動。\n\n美國昨晚公布的 3 月消費者物價指數 (CPI) 年增 5%，創 2021 年 5 月以來新低；扣除食品與能源價格的核心 CPI 年增率從 2 月的 5.5% 升至 5.6%，兩項數據與市場預期大致相符。\n\n根據芝商所 CME 的 FedWatch 數據，目前市場預期聯準會在下個月升息一碼的機率為 70.4%。但從第三季開始降息的機率仍居高不下，顯示市場對經濟衰退還是存有疑慮。\n\n昨晚最振奮人心的應屬 FTX 有望重啟的消息了！FTX 律師在最新的德拉瓦州聽證會上表示，將於七月提交重組計劃，FTX 重啟營運一事可能在明年第二季度確認。\n\n關於更多重啟的內容，請見：FTX 重啟營運？七月提交計畫，明年Q2確認\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/13",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:54:16.115799"
+    },
+    {
+      "title": "半年多筆千萬美元等級投資，謎樣機構DWF Labs回應仍遭質疑",
+      "link": "https://abmedia.io/dwf-labs-investments",
+      "summary": "",
+      "content": "交易與投資機構 DWF Labs 近期對加密新創 CryptoGPT 的 1,000 萬美元投資，引起社群諸多懷疑，例如：宣稱投資額與鏈上數據不符、領導者曾涉及詐騙專案 OneCoin、利用投資消息代銷代幣等。面對質疑 DWF Labs 管理合夥人 Andrei Grachev 今出面解釋。\n\n(想了解更多 DWF Labs 與 CryptoGPT 疑點，請見：CryptoGPT拿ChatGPT募千萬鎂，投資者DWF Labs疑涉詐欺)\n\nDWF Labs 管理合夥人 Andrei Grachev 發文解釋 DWF Labs 的投資方式。他表示，DWF Labs 通常會用 SAFT (Simple Agreement for Future Tokens，中文：未來代幣簡單協議) 進行 pre-seed 與 seed 階段投資 ; 對於已經有流通的代幣，他們也會根據鎖倉時程進行分批投資。\n\nDWF Labs 持有的幣種幾乎都存放在中心化交易所，Andrei Grachev 表示這是基於安全，還有資金效率的理由，因為可以用這些幣作為擔保品來交易。有時候也會與代幣專案團隊共享風險，用自有資金做市。\n\n不過，Andrei Grachev 並沒有對他個人在過去的負面傳聞，以及為何投資 CryptoGPT 作出解釋。\n\nDWF Labs 的推特帳號創立於 2022 年六月，近半年頻發出數百萬至千萬美元的投資消息。以 CryptoGPT 為例，獲得一千萬美元投資，不過，其實只有拿到 42 萬美元，剩下的會分 285 天陸續投資。同時，DWF Labs 也將會是 CryptoGPT 的做市商。\n\n對 DWF Labs 提出質疑的 @nay_gmy 後續表示，知情人士提供資料顯示，他的猜想應該是正確的：DWF Labs 以「策略合作」與「投資」為名，為發行團隊在二級市場代銷代幣，並且賺取利潤。\n\n他認為，很多散戶在看到投資消息後，會認為有助於上漲，並買入代幣 ; 卻正好買入 DWF Labs 在二級市場拋售的代幣。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/12",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:54:20.221701"
+    },
+    {
+      "title": "幣安突下架QLC暴跌八成，CZ捍衛幣安立場：不會讓專案方有交易機會",
+      "link": "https://abmedia.io/binance-to-delist-qlc",
+      "summary": "",
+      "content": "Web3 社交媒體平台專案 Kepple 在 4 月 11 日被幣安下架，專案團隊指控幣安在未告知的情況下將代幣下架，但幣安創辦人趙長鵬 (CZ) 隨即在推特回覆，並捍衛幣安事件緣由及立場。\n\nKepple (QLC) 原名為 QLC Chain，在幣安公告宣佈下架後，一小時暴跌近八成 (76.33%)，從 0.076 跌至 0.018 美元。\n\nQLC 團隊對此推文指出，團隊曾與幣安溝通，希望幣安對於 QLC 代幣將更名為 KPL 予以支持，在等待數週後卻遭幣安無預警下架。\n\n其強調更名已獲得 90.5% 同意票，團隊也會致力遵循路線圖進行開發，並不符合幣安下架的任何標準：\n\n1/6 Unfortunately, @Binance has decided to delist $QLC. We at #Kepple remain committed to building & becoming a layer 2 crypto community-driven solution on the #BNBChain for social media\n\n✅$QLC is available on major exchanges & in talks with all top tier exchanges to list $KPL!\n\n— Kepple (Previously QLC Chain) (@Kepple_io) April 11, 2023\n\n我們不會「提前通知」專案方下架這件事，專案團隊沒有理由在用戶之前有機會行動、交易，而幣安會同步通知所有用戶。我們會定期下架低於特定標準的專案，沒有活躍開發者、沒有進展等等。\n\nCZ 還指出，該專案近幾年沒有太大進展，自己還被告知 QLC 已被賣給其它團隊，並不符合幣安的上架標準。\n\nI was told: the project didn't have much development for a few years, and recently \"sold\" to a different project, which currently do not meet our listing standards. 🤷‍♂️\n\n— CZ 🔶 \nBNB\n▼\n (@cz_binance) April 11, 2023\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/12",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:54:24.749282"
+    },
+    {
+      "title": "比特幣突破楔形區間，上海升級即將解鎖質押以太幣",
+      "link": "https://abmedia.io/btc-break-the-wedge-shanghai-upgrade-unlock-eth",
+      "summary": "",
+      "content": "昨日晚間，比特幣突破半個月的楔形區間上緣，往 30,000 整數關卡邁進，24 小時內漲幅 4.71%。\n\n以太坊的上海升級也即將在台灣時間 4 月 13 日展開，隨著可提取質押以太幣的新時代來臨，以太幣的走勢也備受瞩目。以太幣目前站上 1,900，24 小時內漲幅 2.83%。\n\n上週五美國公布的非農就業數據和失業率，顯示美國就業市場依然強勁。而明日晚間即將公布的 3 月消費者物價指數 (CPI) ，是聯準會 5 月利率決策前的最後一個通膨數據，備受市場的關注。隨著市場預期通膨率緩步回落，如今焦點已轉向美國經濟是否衰退。目前市場預估聯準會 5 月升息一碼的機率為 71.3%。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/11",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:54:34.377375"
+    },
+    {
+      "title": "推特KOL發起炒幣挑戰，公開地址紀錄 2ETH 到 20ETH 交易過程",
+      "link": "https://abmedia.io/louis-cooper-2-to-20-eth-challenge",
+      "summary": "",
+      "content": "DeFi 研究員 Louis Cooper 於推特發起一項炒幣挑戰，他公開了 4 月 1 日創建的錢包地址，要挑戰將初始資金 2 \nETH\n▼\n (約 3,600 美元) 炒到 20 \nETH\n▼\n。\n\n註：本文非投資建議，即便公開錢包地址，Louis Cooper 同樣能藉由跟單者 (推特粉絲) 後續的買進而獲益，也會早於跟單者賣出。\n\nLodestar Finance (LODE)：0.5 \nETH\n▼\n\n3xcalibur (XCAL)：0.55 \nETH\n▼\n\nTridentDAO (PSI)：0.83 \nETH\n▼\n\nTridentDAO (PSI)：1,785 (漲幅 19%)\n\nLodestar Finance (LODE)：1,338 美元 (漲幅 48%)\n\n3xcalibur (XCAL)：1,260 美元 (漲幅 26%)\n\nArbiGoat (AGT)：214 美元 (漲幅 42%)\n\n整體投資組合價值在次日來到 4,645 美元 (約 29% 浮盈或 1,045 美元收益)\n\n換算為 \nETH\n▼\n 價值：2.59 \nETH\n▼\n (約 0.59 \nETH\n▼\n 收益)\n\nLodestar Finance (LODE)：2,665 美元 (漲幅 67%)\n\nStader (SD)：1,306 美元 (漲幅 18%)\n\nPendle Finance (PENDLE)：1,108  美元 (漲幅 33%)\n\n3xcalibur (XCAL)：235 美元 (漲幅 10%)\n\nLouis Cooper 指出，建倉條件是代幣最少需要有 75 萬至 100 萬的跨鏈流動性，持倉的主要變化包括：\n\n賣出 4/5 的 XCAL，用於買進 SD、PENDLE\n\nStader (SD)：3,850 美元 (漲幅 31%)\n\nPendle Finance (PENDLE)：1,300 美元 (漲幅 31%)\n\n3xcalibur (XCAL)：235 美元 (漲幅 10%)\n\n第五日的投資組合價值來到 5,220美元 (約 45% 浮盈或 1,620 美元收益)\n\n換算為 \nETH\n▼\n 價值：2.79 \nETH\n▼\n (約 39% 浮盈或 0.59 \nETH\n▼\n 收益)\n\nLouis Cooper 將所有 LODE 兌換為 SD，他相信 Kucoin 的上架、上海升級都是潛在利好。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/07",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:54:42.404053"
+    },
+    {
+      "title": "OPNX上線首日交易量僅 1.26 美元，創辦人 Su Zhu：持續追蹤未來成長",
+      "link": "https://abmedia.io/opnx-first-day-volume-is-1-26-usd",
+      "summary": "",
+      "content": "三箭資本創辦人 Su Zhu 以及 Kyle Davies 在 3AC 破產後捲土重來，今年 1 月聯合交易所 CoinFlex 開設一間名為「OPNX」的交易所，專為用戶提供過去一系列破產平台的債權交易，但上線首日的交易量慘澹無比。\n\n據 CoinDesk 報導，OPNX 上線一天交易量 1.26 美元，僅有兩筆交易。\n\nOPNX 執行長解釋，沒有流動性是因為交易所沒有內部造市商，也沒有優先考慮外部造市商，他們預計會推出一個行銷計畫來吸引流動性。\n\n而經查後發現，OPNX 交易量已有所提升，截稿前來到 114.21 美元。\n\n據此前報導，OPNX 仍未上線債權交易，僅提供現貨及合約交易，且破產的交易所並未授予 OPNX 交易債權的權力，存有潛在風險。\n\nOPNX 發展歷程、營運情況：3AC創辦人債權交易所「OPNX」上線！預計可交易FTX、3AC及Mt. Gox等債權\n\nSu Zhu 並未對平台低迷的交易量提出說法，但他似乎對平台未來成長很有信心，轉發了報導並強調會記住從首日的 1.26 美元交易量之後會有多大的增幅。\n\n他另外推文指出，第一個推出的債權代幣正是與其合作的交易所 Coinflex，被 Bitcoin.com 創辦人、比特幣現金支持者 Roger Ver 所欠下的個人債務，代幣名稱 rvUSD。\n\nwill track gains here 💪\n\n— 朱溯 🐂 (@zhusu) April 5, 2023\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/06",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:54:46.692902"
+    },
+    {
+      "title": "謠傳國際刑警組織對幣安創辦人 CZ 發出紅色通緝令，大網紅跟著造謠？Cobie 這樣解釋：",
+      "link": "https://abmedia.io/binance-denies-changpeng-zhao-cz-faces-interpol-red-notice-spokesperson",
+      "summary": "",
+      "content": "本（4）日稍早，有謠言傳幣安創辦人趙長鵬 CZ 遭國際刑警組織發出紅色通緝令，由於不久前 CZ 才遭到美 CFTC 起訴，因此這則謠言就引起社群恐慌，這可能也間接導致 \nBNB\n▼\n 在一小時內下跌 3%（311 美元 → 300 美元）。\n\n市場從來不缺乏有關 CZ 的謠言，但這則謠言之所以被放大，是因為推特擁有 75.9 萬追蹤人數的加密網紅 Cobie 推波助瀾。\n\n他在推文寫出一串 hash 數字，在被暴力破解後，得知原文為「Interpol Red Notice for CZ」（國際刑警組織對 CZ 發出紅色通緝令）。紅色通緝令是國際刑警組織向全球執法部門要求逮捕特定人員並等待引渡。\n\n不過這則謠言隨即遭到幣安發言人否定，\nBNB\n▼\n 價格也迅速回升。\n\n上個月，「趙長鵬被 FBI 擊斃」的新聞就在推特瘋傳，最後 CZ 不得不出來闢謠是有人用 photoshop 偽造了紐約時報的推文。去年也有謠言表示，幣安創辦人趙長鵬被 FBI 突襲，豪宅地下室搜出好多 \nBNB\n▼\n 和 BUSD。\n\n但這則謠言顯然只是被當笑話而已，因為根本不可能在地下室搜出 \nBNB\n▼\n 和 BUSD。\n\n只是一串 hash 數字而已，有這麼嚴重嗎？\n\n至截稿為止，Cobie 這則貼文已有超過 6 萬點閱，也掀起許多人討論。Cobie 則表示，自己沒有要造謠之意，只是想證明知道這件事而已，所以才會用 SHA256 hash 將這串文字加密。因為 SHA256 hash 是單向函數，除非暴力破解，否則除了他自己解密以外，沒人會知道這串 hash 的含義。\n\n另一推特網紅 FatMan 分析指出，這麼做得好處有兩個：1) 在不驚動市場的情況下證明自己知道某件事，2) 增加影響力，如果事件為真，這時候就可以向社群宣布自己早就知道這件事。(了解更多 FatMan 的說法請見：如何解讀幣圈 KOL 的 SHA256 加密訊息)\n\n只是 Cobie 沒有評估到自己的影響力，再加上這串 hash 只有 5 個字，因此暴力破解相對簡單。\n\nCobie 認為，應該是少數跟他討論過這則謠言的人出賣了他，所以他以後會縮減信任名單。同時他也指出，用 SHA256 加密某些事用來記錄並非他第一次做，光是去年他就貼出了 20 則以上的 hash 字串貼文。\n\n「對這件事我深感抱歉，會再次縮減信任名單，因為推特只會帶來壞事而已，這樣的事我以後會少做。」\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/04",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:54:50.786530"
+    },
+    {
+      "title": "推特LOGO被馬斯克改成狗狗幣？狗狗幣Dogecoin (DOGE)漲超20%",
+      "link": "https://abmedia.io/twitter-replaces-its-blue-bird-logo-with-doge",
+      "summary": "",
+      "content": "目前進入推特首頁時讀取網站的一瞬間，中間的標誌性藍鳥已被替換為狗狗幣 LOGO，馬斯克也以梗圖推文表示，推特藍鳥標誌已經是舊照了。\n\n可以看到下圖中原先左上角的藍鳥標誌已被狗狗幣 LOGO 取代，無法確定這樣的情況是否僅是暫時性。\n\n加密社群 Sir \nDoge\n▼\n of the Coin 先是在 4 月 4 日凌晨 01:52 時，以此迷因圖標記馬斯克。\n\n馬斯克在 02:50 回覆「Nice」，並隨即同時在 02:50 以此照片發佈推文。\n\n狗狗幣 Dogecoin (DOGE) 從 0.076 美元一度上漲至 0.1 美元 (37%)，截稿前回到 0.094 美元，但這仍有 23% 漲幅，市值排名第八，高於公鏈 Polygon。\n\n先前報導，馬斯克去年才遭到狗狗幣投資者 Keith Johnson 以「金字塔騙局」為由提告，並求償 2,580 億美元，但他似乎完全沒在怕，依然不定期在推特上發佈狗狗幣的相關推文。\n\n觀看訴訟案最新進展：馬斯克被狗狗幣買家提告新進展！律師：指控像幻想小說，梗圖不犯法\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/03",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:54:54.854621"
+    },
+    {
+      "title": "加密市場數據｜USDC市值跌掉百億，比特幣超車Visa，以太幣通縮創紀錄",
+      "link": "https://abmedia.io/cryptocurrency-market-data-in-mar",
+      "summary": "",
+      "content": "比特幣三月初因一系列銀行危機一度跌破 20,000 美元，但在 FDIC 等政府機構介入後，這反而成為比特幣近期底部，單月上漲 23%，第一季上漲 72.4%，市值再次超越 Visa、台積電等國際企業，排名第 12 位於 Meta 之後。\n\n比特幣最高漲至 29,190 美元，回到 2022 年 6 月水平，約在 TerraUSD 崩盤後，Celsius、3AC 等平台破產之前。\n\n銀行危機直接波及了 \nUSDC\n▼\n 發行商 Circle，33 億美金一度滯留矽谷銀行 (SVB)，市場恐慌情緒蔓延更導致 USDC 脫鉤。\n\nCircle 如何遭波及：Circle宣布新夥伴Cross River Bank，33億美元危機已解除\n\nUSDC\n▼\n 脫鉤危機：USDC脫鉤、銷毀27億！USDT 上漲 1%，幣安暫停兌換\n\n而 Tether 所發行的 USDT 似乎成為了銀行危機中的最大受益者，三月市值增加 90 億美元；\nUSDC\n▼\n 則是單月驟降 110 億美元。\n\n一來一往之下，USDT 市值來到 797 億美元，已經是 \nUSDC\n▼\n 的兩倍之多。\n\n事實上去年 12 月已經是 USDT 的市值低點約 650 億美元，此後一路攀升，至今漲幅約 22.19%。\n\n據 ultrasound.money 所示，自以太坊合併以來已 198 日，相關數據如下：\n\nETH\n▼\n 合併前 (PoW)：3.411%\n\nETH\n▼\n 合併後年通膨率：-0.114%\n\nETH\n▼\n 合併後發行量：347,068 \nETH\n▼\n\nETH\n▼\n 合併後銷毀量：421,859 \nETH\n▼\n (約 40.5 億美元)\n\nETH\n▼\n 合併後供應變化：-74,792 \nETH\n▼\n\n自 9 月 15 日合併以來，銷毀的 421,859 \nETH\n▼\n 價值約 7.66 億美元，三月通膨率更達到 -0.324%。\n\n延續第一季趨勢，交易所月交易量皆逐月上升，儘管幣安以糟糕的 CFTC 訴訟案結束三月，交易量 5,563 億美元仍超越二月的 5,451 億美元。\n\n完整解讀 CFTC 起訴幣安：創辦人趙長鵬&前法務長違反監管，訴求永久禁止交易\n\n此外幣安創辦人趙長鵬也在推特表示，Binance.US 三月最後一週交易量已創下歷史新高，大約是 Coinbase 交易量的 41%。\n\nSharing some public data. @BinanceUS (NOT including https://t.co/ukvU1dlpOt) weekly trading volume reached 41% of Coinbase's (global) trading volume last week. An ATH. pic.twitter.com/DMY8f64Eab\n\n— CZ 🔶 \nBNB\n▼\n (@cz_binance) March 31, 2023\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/04/02",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:54:59.121332"
+    },
+    {
+      "title": "比特幣站穩28,000，礦工收入創 Terra 崩盤後新高",
+      "link": "https://abmedia.io/btc-stand-28000-miners-revenue-up-to-10-month-high",
+      "summary": "",
+      "content": "昨日早晨比特幣一度觸及 29,200 美元，重回 2022 年 6 月水平，引起社群熱議。不過此行情維持了不到一小時，又再度回落。根據研究員 Adam@Greeks.live 的說法，3/31 是比特幣選擇權的季度交割日，市場波動率持續上漲，目前看來持穩在 28,000 的水平。\n\n比特幣礦工有望創下自 2022 年 5 月以來收入最好的一個月，當時 Terra 崩盤，幣價下跌，能源價格飆升，讓礦工的收入大幅縮水。根據 The Block 的數據顯示，礦工在 3 月份至少賺了 7.18 億美元。\n\n比特幣區塊鏈的交易量也從 2 月份的 4993.4 億美元躍升至 3 月份的 6896.8 億美元。近期出現的比特幣 NFT 市場，也帶動了一波比特幣的鏈上使用。\n\n想了解更多比特幣 NFT，請見 Yuga Labs本週推出三百幅限量比特幣NFT\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2023/03/31",
+      "year": 2023,
+      "source": "ABMedia-市場",
+      "page_num": 83,
+      "scraped_at": "2025-11-17T04:55:02.726762"
+    }
+  ],
+  "saved_at": "2025-11-17T04:56:27.696353"
+}

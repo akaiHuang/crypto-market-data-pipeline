@@ -1,0 +1,126 @@
+{
+  "stats": {
+    "total_trades": 100,
+    "winning_trades": 50,
+    "losing_trades": 50,
+    "win_rate": 50.0,
+    "mfe_mean": 0.5405907196327693,
+    "mfe_median": 0.42627407550980406,
+    "mfe_std": 0.4981589290175081,
+    "mfe_percentiles": {
+      "25%": 0.2585614455013334,
+      "50%": 0.42627407550980406,
+      "75%": 0.6364032945751037,
+      "90%": 1.1334305386759735
+    },
+    "mae_mean": 0.31383398725043254,
+    "mae_median": 0.2572196748008935,
+    "mae_std": 0.24615142335952175,
+    "mae_percentiles": {
+      "25%": 0.14162250610973676,
+      "50%": 0.2572196748008935,
+      "75%": 0.38122047942755233,
+      "90%": 0.6108604661221164
+    },
+    "duration_mean": 27.45,
+    "duration_median": 30.0,
+    "tp_hit_rates": {
+      "0.2%": {
+        "hit_count": 88,
+        "hit_rate": 88.0
+      },
+      "0.3%": {
+        "hit_count": 65,
+        "hit_rate": 65.0
+      },
+      "0.4%": {
+        "hit_count": 53,
+        "hit_rate": 53.0
+      },
+      "0.5%": {
+        "hit_count": 40,
+        "hit_rate": 40.0
+      },
+      "0.6%": {
+        "hit_count": 30,
+        "hit_rate": 30.0
+      },
+      "0.7%": {
+        "hit_count": 22,
+        "hit_rate": 22.0
+      },
+      "0.8%": {
+        "hit_count": 16,
+        "hit_rate": 16.0
+      },
+      "0.9%": {
+        "hit_count": 13,
+        "hit_rate": 13.0
+      },
+      "1.0%": {
+        "hit_count": 12,
+        "hit_rate": 12.0
+      }
+    },
+    "sl_hit_rates": {
+      "0.1%": {
+        "hit_count": 90,
+        "hit_rate": 90.0
+      },
+      "0.15%": {
+        "hit_count": 74,
+        "hit_rate": 74.0
+      },
+      "0.2%": {
+        "hit_count": 64,
+        "hit_rate": 64.0
+      },
+      "0.25%": {
+        "hit_count": 51,
+        "hit_rate": 51.0
+      },
+      "0.3%": {
+        "hit_count": 41,
+        "hit_rate": 41.0
+      },
+      "0.35%": {
+        "hit_count": 32,
+        "hit_rate": 32.0
+      },
+      "0.4%": {
+        "hit_count": 24,
+        "hit_rate": 24.0
+      },
+      "0.45%": {
+        "hit_count": 22,
+        "hit_rate": 22.0
+      },
+      "0.5%": {
+        "hit_count": 15,
+        "hit_rate": 15.0
+      }
+    },
+    "winners": {
+      "count": 50,
+      "mfe_mean": 0.6194930480968321,
+      "mae_mean": 0.33714327062849114,
+      "duration_mean": 29.4
+    },
+    "losers": {
+      "count": 50,
+      "mfe_mean": 0.4616883911687063,
+      "mae_mean": 0.290524703872374,
+      "duration_mean": 25.5
+    }
+  },
+  "recommendation": {
+    "recommended_tp_pct": 0.546,
+    "recommended_sl_pct": 0.417,
+    "reward_risk_ratio": 1.31,
+    "tp_hit_rate": 36.0,
+    "sl_hit_rate": 23.0,
+    "atr_tp_multiplier": 1.82,
+    "atr_sl_multiplier": 1.39,
+    "confidence": "HIGH"
+  }
+}

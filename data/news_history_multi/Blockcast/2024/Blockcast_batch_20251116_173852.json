@@ -1,0 +1,19 @@
+{
+  "site": "Blockcast",
+  "year": 2024,
+  "batch_articles": 1,
+  "articles": [
+    {
+      "title": "2024 年第一駭？Orbit Chain 疑被駭損失達 8,150 萬美元",
+      "link": "https://blockcast.it/2024/01/01/orbit-chain-cross-chain-bridge-has-reportedly-been-hacked-for-more-than-81-mil/",
+      "summary": "消息指，Orbit Chain ...",
+      "content": "2024 年 1 月 1 日早上消息指，Orbit Chain 的跨鏈橋疑似被駭客攻擊，價值 8,150 萬美元的加密貨幣和穩定幣出現異常外流。 這則消息最早由 X 用戶在平台分享發現。\n\nhttps://x.com/KGJRTG/status/1741575860635783385\n\n在五筆單獨的交易中，每筆交易都發送到一個新錢包，Orbit Bridge 發送了 5000 萬美元的穩定幣（3000 萬枚 Tether 、 1000 萬枚 DAI 和 1000 萬枚 USDC）、 231 個 wBTC（約 1000 萬美元）和 9,500 個 ETH（約 2150 萬美元）。\n\n \n\n免責聲明：本文只為提供市場訊息，所有內容及觀點僅供參考，不構成投資建議，不代表區塊客觀點和立場。投資者應自行決策與交易，對投資者交易形成的直接或間接損失，作者及區塊客將不承擔任何責任。\n\nTags: Orbit Chain跨鏈橋駭客攻擊",
+      "date": "2024-01-01",
+      "year": 2024,
+      "source": "Blockcast",
+      "page_num": 394,
+      "scraped_at": "2025-11-16T17:38:52.035580"
+    }
+  ],
+  "saved_at": "2025-11-16T17:38:52.037329"
+}

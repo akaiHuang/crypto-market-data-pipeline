@@ -1,0 +1,42 @@
+{
+  "records_count": 1,
+  "last_100_records": [
+    {
+      "timestamp": "2025-11-30T12:33:26.970067",
+      "iteration": 0,
+      "price": 90817.55,
+      "price_change_1m": 0,
+      "price_change_5m": 0,
+      "obi": 0.1677959346353128,
+      "spread_bps": 0.011011087615314524,
+      "bid_depth": 0,
+      "ask_depth": 0,
+      "depth_imbalance": 0.1601578728707935,
+      "vpin": 0.3,
+      "trade_imbalance": 0,
+      "signed_volume": -0.003,
+      "big_trade_count": 0,
+      "big_buy_count": 0,
+      "big_sell_count": 0,
+      "big_buy_volume": 0,
+      "big_sell_volume": 0,
+      "large_trade_direction": null,
+      "large_trade_net_qty": 0.0,
+      "rsi_14": 50.0,
+      "stoch_k": 50.0,
+      "stoch_d": 50.0,
+      "signal_score": 0.3355918692706256,
+      "funding_zscore": 0.8389796731765641,
+      "market_regime": "UNKNOWN",
+      "is_consolidating": false,
+      "volatility_pct": 0.0,
+      "momentum_pct": 0.0,
+      "long_liq_score": 50,
+      "short_liq_score": 50,
+      "liq_pressure_bias": "NEUTRAL",
+      "has_decision": false,
+      "has_trade_result": false
+    }
+  ],
+  "last_updated": "2025-11-30T12:33:36.570028"
+}

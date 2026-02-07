@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "start_timestamp": "20251119_211245",
+    "end_timestamp": "20251119_212104",
+    "test_duration_hours": 8.0,
+    "initial_capital": 100.0,
+    "total_decisions": 0,
+    "final_balances": {
+      "M0_ULTRA_SAFE": 100.0,
+      "M1_SAFE_PRIME": 100.0,
+      "M2_NORMAL_PRIME": 100.0,
+      "M5_ULTRA_AGGRESSIVE_PRIME": 100.0,
+      "M6_SIGNAL_SANDBOX": 100.03860125688834,
+      "M7_BREAKOUT_SNIPER": 100.0,
+      "M8_VOLUME_SNIPER": 100.0,
+      "M9_VOLATILITY_SNIPER": 100.0,
+      "M_WHALE_WATCHER": 100.0
+    }
+  },
+  "orders": {
+    "M0_ULTRA_SAFE": [],
+    "M1_SAFE_PRIME": [],
+    "M2_NORMAL_PRIME": [],
+    "M5_ULTRA_AGGRESSIVE_PRIME": [],
+    "M6_SIGNAL_SANDBOX": [
+      {
+        "order_id": "M6_SIGNAL_SANDBOX_1763557965790",
+        "strategy": "M6_SIGNAL_SANDBOX",
+        "direction": "LONG",
+        "leverage": 8,
+        "size": 0.5,
+        "entry_price": 91614.05,
+        "actual_entry_price": 91632.37281,
+        "position_value": 50.0,
+        "take_profit_pct": 2.208,
+        "stop_loss_pct": 1.2,
+        "entry_reason": null,
+        "entry_time": "2025-11-19T21:12:45.777000",
+        "exit_price": 91732.95,
+        "exit_time": "2025-11-19T21:18:06.379000",
+        "exit_reason": "REVERSE_SIGNAL",
+        "holding_seconds": 320.602,
+        "entry_fee": 0.2,
+        "exit_fee": 0.2,
+        "funding_fee": 0.0004452805555555555,
+        "total_fees": 0.40044528055555556,
+        "pnl_usdt": 0.03860125688833854,
+        "roi": 0.07720251377667708,
+        "entry_obi": 0.5330526034355992,
+        "entry_vpin": 0.3,
+        "entry_spread": 0.010915356324256024,
+        "is_blocked": false,
+        "blocked_reasons": []
+      }
+    ],
+    "M7_BREAKOUT_SNIPER": [],
+    "M8_VOLUME_SNIPER": [],
+    "M9_VOLATILITY_SNIPER": [],
+    "M_WHALE_WATCHER": []
+  }
+}

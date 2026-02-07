@@ -1,0 +1,10 @@
+{
+  "loss_trades": {
+    "LOSS_0000": {
+      "trade_id": "LOSS_0000",
+      "entry_time": "2025-11-10T00:48:55.702495",
+      "exit_time": "2025-11-10T01:04:15.702495",
+      "entry_price": 50543.743160481295,
+      "exit_price": 48884.57023040167,
+      "position_size": 0.39842507897324353,
+      "leverage": 

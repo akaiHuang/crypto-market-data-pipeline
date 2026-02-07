@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "start_timestamp": "20251130_190907",
+    "end_timestamp": null,
+    "test_duration_hours": 8.0,
+    "initial_capital": 100.0,
+    "total_decisions": 0,
+    "final_balances": {}
+  },
+  "orders": {
+    "MUP_DIRECTIONAL_LONG": [],
+    "MDOWN_DIRECTIONAL_SHORT": [],
+    "M_AI_WHALE_HUNTER": [
+      {
+        "order_id": "M_AI_WHALE_HUNTER_1764503452588",
+        "strategy": "M_AI_WHALE_HUNTER",
+        "direction": "SHORT",
+        "leverage": 45,
+        "size": 0.5,
+        "entry_price": 91050.05,
+        "actual_entry_price": 91050.05,
+        "position_value": 47.739362969607036,
+        "take_profit_pct": 10.5,
+        "stop_loss_pct": 11.5,
+        "entry_reason": "M_AI_WHALE_HUNTER AI Signal: SHORT (AI Command Override)",
+        "entry_time": "2025-11-30T19:50:52.473000",
+        "exit_price": 90972.05,
+        "exit_time": "2025-11-30T19:53:59.835000",
+        "exit_reason": "REVERSE_SIGNAL",
+        "holding_seconds": 187.362,
+        "entry_fee": 1.0741356668161584,
+        "exit_fee": 1.0741356668161584,
+        "funding_fee": 0.0013975847694861743,
+        "total_fees": 2.1496689184018027,
+        "pnl_usdt": -0.3093056893500812,
+        "roi": -0.6479049365342363,
+        "entry_obi": -0.5652213148039524,
+        "entry_vpin": 0.8866700139874546,
+        "entry_spread": 0.01098297035595486,
+        "is_blocked": false,
+        "blocked_reasons": []
+      }
+    ],
+    "M_DRAGON": []
+  }
+}

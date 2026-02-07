@@ -1,0 +1,206 @@
+{
+  "site": "ABMedia-市場",
+  "year": 2020,
+  "batch_articles": 18,
+  "articles": [
+    {
+      "title": "吸血計畫開始、主席就位！SBF 解釋遷徙計畫，Uniswap暗示推出V3?",
+      "link": "https://abmedia.io/sushiswap-migration-away-from-uniswap-completed",
+      "summary": "",
+      "content": "在複製 Uniswap 協議代碼並啟動流動性挖礦而出道後，爭議不斷的 SushiSwap 從抄襲、吸取流動性、遷移提案、匿名創辦人拋售，到現在改由 FTX 創辦人 Sam Bankman-Fried（SBF）主導項目，目前除了新增「減少產量增加鎖定期」的新提案於 9 月 10 日晚間結束外，流動性遷移也在 9 月 9 日 22:10 完成。\n\nSushiSwap 爭議包括匿名創辦人 Chef Nomi 拋售所持有的 Sushi 代幣，將協議交接給 SBF 也是始料未及，而流動性遷移除了可能將 Uniswap 長久建立起來的交易深度化為泡沫，目前 SushiSwap 更推出與 Uniswap 介面幾乎完全相同的去中心化兌幣所，取代 Uniswap 的氣勢嶄露無遺，主要事件經過如下：\n\nSushiSwap 在今日（9/9）又有許多動態，包括「減少代幣產量增加鎖定期」提案，以及各個陸續即將遷移的資金池，根據新的主廚 FTX 創辦人 SBF 參與其中的提案，SUSHI 將會減少增發量，並且具有鎖倉機制。原先每區塊產出 100 枚 SUSHI，將變成：\n\n此外，三分之二的新產出 SUSHI 代幣，將被鎖倉一年，鎖倉中 SUSHI 可以賺取交易手續費，但無法變賣或用來參與投票，提案將於 9 月 10 日晚間結束。\n\n根據 SushiSwap 官方公告，遷移合約已由智能合約審計機構 Quantstamp 以及 Peckshield 審核。無關鍵問題，在 Ropsten 測試網也進行了遷移測試。首個遷移的資金池為 CRV/\nETH\n▼\n，若一切順利，將進入下一步操作。\n\nSBF 在推特提到，Based Money（BASED）資金池由於不支援 SushiSwap，因此不會進行遷移，該資金池遷移後也不再會有獎勵，而繼續參與 SUSHI 流動性挖礦的用戶，將平均瓜分由 SBF 提供的 100 萬美元 SUSHI 代幣獎勵，另一個進行中的提案將使遷移激勵獎金來到 200 萬美元 SUSHI 。\n\n10 日上午，在成功轉移用戶在 Uniswap 的部分流動性後，SushiSwap 目前的去中心化兌幣平台共有 12.7 億美元價值的流動性。（參考資料）而 Uniswap 則從 16 億美元價值的流動性，萎縮至 5.18 億美元，回到八月底的資金水平。據 DeFi Pulse 數據，Uniswap 在DEX類別鎖定資產（TVL）排名現跌落第三。\n\n在遷移計畫正式開始之前，Uniswap 鎖倉價值已由 12 億美元降至截稿前約 8.1 億美元。\n\n而本次事件最大受害者 – Uniswap 創辦人 Hayden Adams 並未多作回應，但他在遷移計畫開始 10 分鐘前，於推特上發出新版本的 Uniswap LOGO，社群普遍解讀為 V3 版本離推出不遠了。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/09",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:31:07.150471"
+    },
+    {
+      "title": "快訊｜Tether發布在Solana發行USDT，SOL急漲超五成",
+      "link": "https://abmedia.io/solana-usdt-launched",
+      "summary": "",
+      "content": "據媒體 The Block 揭露，Tether 推出新興公鏈 Solana 版本的 USDT，消息一出，讓 Solana（\nSOL\n▼\n）的幣價水漲船高，一度漲超五成，截稿前幣價約為 3.55 美元。據稱，Solana 可以提供五萬筆每秒交易速度（TPS），每筆費用僅需 0.00001 美元。\n\n在以太坊因 DeFi 熱潮，Gas Fee 高居不下的狀態下，其他與 Tether 整合的區塊鏈，在資金轉移的需求上，可望提升。目前包含 Solana 在內，已有共八條公鏈：Algorand, Ethereum, EOS, Liquid Network, Omni, OMG Network 以及 Tron。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/09",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:31:10.729114"
+    },
+    {
+      "title": "0.5 顆以太幣按一下就變 75 顆，一夕致富原來這麼簡單？",
+      "link": "https://abmedia.io/user-turns-200-into-250k-thanks-to-a-buggy-defi-protocol",
+      "summary": "",
+      "content": "一位以 200 美元的成本購買 SYFI 的匿名人士，在 Twitter 上證實，自己「幸運的」利用了 Soft Yearn Finance（SYFI）的漏洞，並在演算法執行 reBase 後拋售代幣，獲利約 25 萬美元。\n\n自從去中心化穩定幣 Ampleforth 將「彈性供給調節（reBase）」的概念發揚光大後，市場上便出現了許多以此代幣經濟模型為基礎的項目，例如曾風靡一時的 Yam Finance 、Based 以及台灣開發者推出的 Zombie Finance，這些項目每隔一段時間，就會自動增發/燒毀代幣，藉由算法讓代幣市場價格接近目標價格。\n\n其中，Soft Yearn Finance 發行的代幣 SYFI ，同樣也是基於彈性供給調節所設計的低波動加密貨幣，該代幣目標錨定 0.0003 YFI。該項目原先在市場上並沒有獲得太多關注，然而，最近卻突然成為市場關注的焦點。\n\n從上圖中我們可以看到，SYFI 在 9 月 4 日出現大規模下跌，代幣價格從 99 美元瞬間下跌至 0.00259 美元，跌幅超 99%，是大戶砸盤嗎？還是團隊跑路了？誰也想不到，之所以會發生這種情況原因竟然是來自一位持幣成本僅 200 美元的零售投資人。\n\n前天（7日），一位自稱 Amplify 的匿名人士在 Twitter 上透露了他是如何從 Soft Yearn Finance 中以 200 美元的成本獲利 25 萬美元。\n\nhttps://twitter.com/A_mplify/status/1302852245059330048\n\n如上所述，SYFI 是以彈性供給調節機制發行的低波動加密貨幣，可自動依照演算法增加或減少其供應量。\n\n但是，問題就出在，由於 Soft Yearn Finance 存在漏洞，導致 SYFI 進行 reBase 時，Uniswap 的價格並沒有跟著調整。舉個例子，原本我有 1 顆價值 100 美的代幣，在 reBase 之後應該要變成 100 顆且價值 1 美，但由於 Uniswap 的價格並沒有跟著調整，導致我在 reBase 之後變成擁有 100 顆價值 100 美的代幣。\n\n而這位匿名人士事實上並不確定 Soft Yearn Finance 是否存在漏洞，他只是在手中的 2 顆 SYFI 變成 15,551 顆的那一刻選擇賭一把，果斷在 Uniswap 上拋售手中所有的代幣，幸運的被他矇到了 Soft Yearn Finance 的漏洞。\n\n這筆交易幾乎榨乾了資金池的所有流動性，其事後表示，他以 0.5 \nETH\n▼\n 的成本獲得了 740 \nETH\n▼\n，換算成美元的話，成本大約是 200 美元，而最終獲利約為 25 萬美元。\n\n從 Uniswap 的平台數據來看，SYFI 的流動性和交易量已完全消失，Soft Yearn Finance 這個項目幾乎已經可以宣判死亡。儘管團隊聲稱目前正在開發 SYFI v2，並修復先前的漏洞，但該項目經過此事件後已失去聲譽，想要東山再起實屬困難。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/09",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:31:15.048468"
+    },
+    {
+      "title": "加密貨幣借貸平台 Cred 加入 Visa 加速器計劃，代幣價格一度漲超65%！",
+      "link": "https://abmedia.io/crypto-firm-cred-joins-visas-fast-track-program-to-develop-lending-services",
+      "summary": "",
+      "content": "加密貨幣借貸平台 Cred 已加入 Visa Fast Track 計劃。加入該計劃後，Cred 將能夠通過 Visa 的支付網路將利息直接發送到客戶的銀行帳戶，並發行實體信用卡 Crypto-Credit Line（C-LOC）卡。消息宣布後，Cred 發行的代幣 LBA 最高漲幅一度超過 65%。\n\n根據加密貨幣借貸平台 Cred 於昨日（8日）發佈的公告，該公司已正式加入 Visa 的 Fast Track 計劃，以加快與 Visa 的整合過程，Cred 聲稱，加入該計劃後，Cred 將能夠更輕鬆地利用 Visa 的服務覆蓋範圍、功能和安全性。\n\nVisa 的 Fast Track 計畫是該公司於 2019 年年中推出的加速器計畫，該計劃旨在為女性擁有的金融科技公司、數位貨幣錢包、B2B 和 B2C 新創公司提供發展支援，讓這些公司能夠利用Visa 網路的速度、安全性、可靠性和覆蓋率，將業務啟動的整個過程從數月縮短到幾週。\n\nVisa 金融科技全球負責人 Terry Angelos 表示：\n\n「我們的目標是將尖端金融科技引進 Visa 生態系統，協助他們在最短的時間內成長並擴大業務規模。Visa 致力於幫助金融科技公司（其中許多是小型公司）提高自身潛力，迅速進入市場，這樣他們才能準備好提供創新，並不斷推動世界前進。 」\n\nCred 是一家擁有超過 3 億美元信貸資本的全球借貸平台，致力於提供不受時間和地點限制的開放式貸款管道。去年五月，該公司與幣安交易所成為合作夥伴，作為協議的一部分，Cred 未來除將其服務引入幣安生態系統以外，還將把部分 ERC20 的 LBA 代幣遷移到幣安鏈主網，並成為幣安去中心化金融生態系統的官方借貸平台。\n\n加入 Visa Fast Track 計劃後，Cred 將能夠通過 Visa 的支付網路將利息直接發送到客戶的銀行帳戶，並發行實體信用卡 Crypto-Credit Line（C-LOC）卡，讓用戶在不清算其加密資產的情況下使用信用額度。Cred 執行長兼創辦人 Dan Schatt 表示，Cred 進入 Visa 的 Fast Track 計劃將使該公司進一步實現「提供公平的金融服務並以最有效的方式擴展其借貸服務」的使命。\n\nVisa 加密貨幣負責人 Cuy Sheffield 則在聲明中說道：\n\n「作為數位貨幣錢包的首選網路，我們很高興能幫助像 Cred 這樣的創新金融科技公司利用Visa 網路的價值。透過 Fast Track 計劃，我們可以將提供 Visa 的專家、技術和資源來支持Cred 的擴展。」\n\n自該消息宣佈至今，Cred 發行的代幣 LBA 最高漲幅一度超過 65%。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/09",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:31:19.358006"
+    },
+    {
+      "title": "踏進DeFi領域！eToro推「GoodDollar」打造全民基本收入，可行嗎？",
+      "link": "https://abmedia.io/etoro-announces-gooddollar-experiment-to-develop-ubi",
+      "summary": "",
+      "content": "全球知名券商平台 eToro 今天宣布與致力全民基本收入（UBI）的實驗項目 GoodDollar 合作，GoodDollar 推出了非投機性質的穩定幣「GoodDollar Coins (G$) 」，並透過智能合約來部署 UBI 的全球分發機制。\n\neToro 算是間接成為參與 DeFi 領域的金融巨頭，根據 GoodDollar 的官方白皮書，G$ 最初以一比ㄧ的比例由美元穩定幣 DAI 支持，但隨著時間以及利率、儲備金的增長，最終會藉由一籃子加密貨幣支持，且鑄造的 G$ 會存在一定的槓桿率，這類似於 Facebook 的 Libra 代幣。\n\nGoodDollar 的機制主要圍繞在申領者以及支持者，申領者就是 UBI 分發的對象，而支持者即是投入資金的用戶，GoodDollar 將資金透過 Compound 等 DeFi 協議獲取收益，並將大部分收益返還給支持者，剩餘的資金才發放給申領者。\n\n實際上申領的流程相當快速，能以 Google 或 Facebook 帳號快速登入，需要驗證的只有手機、以及定期經由手機或攝像頭錄製的短影片，按下 CLAIM 後即可領到自己的 G$。\n\n申領後，必須等待約九小時的時間才能再次申領。\n\neToro 創辦人 Yoni Assia 在 2018 年就萌生類似想法，致力構建改變全球財富不均的解決方案，在 2018 年網路科技峰會（2018 Web Summit）提出了 GoodDollar，該項目由 eToro 投資，在開發兩年後，終於在今年實現。Yoni Assia 表示\n\n我們相信，我們可以打造一種旨在減少財富不均現象，並提供全民基本收入的加密貨幣，這只是漫長的第一步，且將會是個野心勃勃的旅程。\n\n全民基本收入（universal basic income，UBI）的概念早在 16 世紀，由《烏托邦》的作者，英國人文主義者、社會哲學家 Thomas More 提出，而荷蘭也早在 2018 年就進行了兩年的 UBI 社會實驗。\n\n此外，在今年受到武漢肺炎衝擊的影響下，UBI 概念開始受到更多關注，並成為推動契機。西班牙今年即宣佈研擬推動全民基本收入。而此前包括前總統候選人 Andrew Yang、臉書創辦人 Mark Zuckerberg、特斯拉執行長 Elon Musk 都曾公開贊同全民基本收入。\n\n截至截稿前，今日已有 451 位用戶申領了 8,200 美元的 G$，包括來自南美洲、美國、烏克蘭、意大利和阿根廷的用戶。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/09",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:31:23.493108"
+    },
+    {
+      "title": "【Dapp Pocket】DeFi‌每‌週‌報‌告–九月第二週：SushiSwap將會殞落，或在另一個鏈上重生？",
+      "link": "https://abmedia.io/defi-weekly-report-sep-week-2",
+      "summary": "",
+      "content": "這禮拜幣市大漲又大跌，來自於 Uniswap 的分叉項目 SushiSwap 開啟流動性挖礦，從大家蜂擁而入到幣價大跌，本週就與大家來聊聊我們的想法。本週頭條還有 Curve 分叉項目 Swerve 正式上線；Aave 即將支持 RealT 的代幣資產用作穩定幣的抵押資產；Hakka Finance 於開啟流動性挖礦等。大佬觀點則有 Compound 的 Leshner 對 APR 指標的不滿；Yearn 創世神 AC 對開放金融的讚嘆；還有 Uniswap 的 Haydem Adams 表示社群 vs 風投這個說法的反駁。\n\nDeFi（Decentralized Finance）是指去中心化的金融服務。簡單來說，同樣是金融服務，但以分散管理權、資訊透明、基於區塊鏈的方式經營，解決傳統金融產業交易速度慢、成本高、易遭駭客攻擊、且會被國家或組織濫用等問題。目前的 DeFi 服務已經有借貸、合成資產、衍生性產品甚至獨有的閃電貸服務。\n\nRaizel / 政大經濟系，被比特幣套牢於是轉而關注 DeFi\n\nThomas / 在波士頓從事晶片設計的 DeFi 愛好者\n\nAnderson / Dapp Pocket 創辦人，DeFi 存款 > 銀行存款\n\n許多行內專家早已預期，今年的流動性挖礦熱潮引發的 FOMO，即有可能帶來如 2017 年 ICO 泡破帶來的風波。前陣子的 YAM 事件告訴我們合約安全性的重要，而 SushiSwap (Sushi) 則告訴我們一個匿名團隊可能對項目造成的破壞。SushiSwap 巧妙的利用了社群對 VC 的反感、Yearn 成功的例子以及市場上缺乏 Uniswap 強而有力競爭者這 3 個要素，使大家對 SushiSwap 充滿憧憬並將大量的錢投入賺取治理代幣 SUSHI。但很快的，其創辦者 – 匿名者 Chef Nomi 大量到貨的行為將大家打醒，這可能是一個精心策劃的 Exit Scam。\n\n在 Chef Nomi 跳車後，Serum 創辦人 SBF 主動向社群提出轉移 Sushi 到他正積極推動的 Solana 公鏈上的提案。對 Sushi 社群，以及受到波及的幣圈而言，這似乎是好事一件：畢竟 SBF 是知名交易所 FTX 的 CEO，並在社群內相當有知名度，應該是個可靠的管理者。該提案獲得 84.91% 投票者的支持。\n\n目前正在第一階段，經過提名投票選出多簽錢包的管理人。根據 SBF 提案書內容，比起說把 SushiSwap 轉過去，不如說是將這個 AMM 在 Solana 上複製一份新的，會有獨立的 TVL。而 FTX 預計將會在下週釋出一個 ERC20 和 SPL (Solana token) 的 SUSHI 互通的橋樑 sollet.io。\n\n根據提案，SushiSwap 的移轉會在一個月內釋出一部分，並在 2020 年底完成。如果成功的話，Sushi 將受益於 Solana 的效能，成為比 Uniswap 速度更快、費用更低的 AMM，且根據提案 Sushi 可能與去中心化交易所 Serum 的 order book 共享流動性，並還有借貸功能。總結來說我們認為值得期待和關注。且這勢必大幅加強了 Solana 上 DeFi 生態系，使得 Ethereum 受到更強大的挑戰。\n\nProposal for the Sushiswap community by @SBF_Alameda, CEO of @FTX_Official and Alameda Research.\n\n前陣子最紅的 SushiSwap（SUSHI），不僅大跌 53%，更很可能是來自匿名創辦人 Chef Nomi 大倒貨，但他仍堅稱稱自己是為了讓項目繼續下去。另一方面，Serum 創辦人 SBF 表示 Chef Nomi 爛透了：「匿名的團隊真的很可怕。擁有權力的匿名團隊更可怕。」在SBF 的逼宮下，Chef Nomi 最終選擇退讓，將 Shshi 控制權主讓給 SBF。也就是說，Uniswap 流動性遷移，將在 SBF 的主導下完成。而 SBF 所盼望的 Solana/Serum 版 SushiSwap，也很可能在社群的同意下發生。\n\n區塊鏈安全公司 Quantstamp 發布了一篇 SushiSwap 的安全性報導，指出了平台存在 10大風險。其中包含「無法避免用戶重複提供同一筆流動性」、「管理者私鑰遺失導致用戶資金被竊」等等。所幸其中僅包含兩個為中度風險、三個低度風險、以及五個程式碼訊息問題，「並非 YAM 那般的致命危機」。\n\nCurve 分叉項目 Swerve 宣布已正式上線，用戶可以投入穩定幣 DAI、\nUSDC\n、USDT 和 TUSD 獲得流動性代幣 swUSD，然後通過質押 swUSD 以獲得平台治理代幣 SWRV。 Swerve 採用了公平代幣分配，沒有預挖和私募，完全由社區擁有。\n\n去中心化借貸協議 Aave 宣布將支持添加「房產代幣化」平台 RealT 至其協議的提議。 RealT 代幣資產將可以在「Aave RealT」市場中用作借用穩定幣的抵押資產。 Aave 認為房地產與加密資產的相關性較低，RealT 資產是較好的投資多元化工具。\n\n台灣 DeFi 項目 Hakka Finance 於 9 月3 日開啟流動性挖礦，此次流動性挖礦開啟兩個獎勵池，Black Hole Swap 池每週分配 100 萬枚 HAKKA，Balancer 池每週分配 600 萬枚 HAKKA。\n\nYearn 首次公開團隊，包括 Cronje 共 10 名成員\n\nCream 增加 3 位多簽錢包管理人，並上線 Cream Swap\n\nBounce.finance 公佈 9 名治理管理人，包括 Aave、Synthetix 創始人及 ParaFi Capital\n\nCircle 推出允許企業以當地貨幣向賣家付款的新功能\n\n巴西央行：巴西或在 2022 年前推出央行數字貨幣 CBDC\n\n基於本體的 DeFi 項目 Wing 將於下週開啟創世借貸挖礦\n\n幣安挖礦新產品「新幣挖礦」將使用 BNB、BUSD、ARPA 挖礦，首期支持 Bella Protocol\n\nChainlink 節點商被攻擊損失至少 700 ETH，或因以太坊網絡高 Gas 價格引發\n\nDeFi 風險管理工具開發公司 Cozy Finance 啟動，獲 Dragonfly Capital 等參投的 200 萬美元融資\n\n本週數據採計自 2020/9/1 ~ 9/7。TVL（Total Value Locked）指有多少價值儲存在該平台中；IPY（Interest Per Year）為當下借出資金 * 借出年利息，即平台一年利息收益。數據來源：DeFi Pulse，CoinGecko。（單位：百萬美元）\n\nCompound 創辦人 Robert Leshner 在推特上分享他對 APY 的看法。他指出 APY 計算的是當下利率「如果能撐一年」所收益的利息，然而有多少平台只稱了短暫的幾天？我們應該以日、小時、甚至區塊來計算以增加精確度。\n\nyearn 創辦人 AC 大神日前在推特分享他對開放金融的感想。他說道自從 yinsure.finance 推出後，除了 @gabusch、@rariblecom、現在連 @insider0x 也加入共同創作的行列，而且與三者之間的合作關係連一場會議都不需要。\n\n針對網路上人們討論 SushiSwap 是社群力量對抗風投 (VC)，Uniswap 創辦人 Hayden Adams 日前在推特上發表他的意見。SushiSwap 頂多就是一位有能力的工程師一天之內就能做出的成品，其背後意義就是大鯨魚在玩弄市場而已。「總之，好好享受你的河豚壽司吧，我要回去打造 v3 了。」\n\n[dumps at 1000 gwei] @NomiChef $SUSHI\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/09",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:31:27.076975"
+    },
+    {
+      "title": "幣安、火幣強推「挖礦上幣」OKEx宣佈對接Compound，平台幣將再次起飛？",
+      "link": "https://abmedia.io/binance-okex-huobi-launch-defi-products",
+      "summary": "",
+      "content": "在幣安、火幣相繼宣佈推出「新幣挖礦（Launchpool）」後，OKEx 執行長 Jay Hao 也在微博表示，旗下代幣發行平台「OK Jumpstart」很快將支援新幣挖礦。而在三大交易所都以平台幣為入場門票的情況下，平台幣會再次崛起嗎？\n\n根據鏈新聞報導，幣安將在 9 月 9 日啟動為期 30 天的挖礦專案，用戶能質押 \nBNB\n▼\n、BUSD、ARPA 等代幣，以獲得 Bella Protocol（BEL）挖礦獎勵，其中將以 \nBNB\n▼\n 為主，佔比如下：\n\n此外，幣安也將在 9 月 16 日上線 Bella Protocol（BEL）交易市場，Bella 是一個致力於減少 DeFi 入門用戶的門檻的一站式資管平台，其產品包括借貸、一鍵投資、智能投顧等功能。\n\n火幣是在昨日（9/7）一次推出兩項 DeFi 挖礦活動，台灣時間 16：00 時啟動「鎖倉 HT/HPT 參與 DeFi 流動性挖礦」的活動，HT 為其平台幣 Huobi Token，HPT 則是礦池幣（Huobi Pool Token），並將以 CRV 代幣作為獎勵。\n\n而同日 20：00 則是啟動 ACH（Alchemy Pay）的「鎖倉 HT 參與新幣挖礦」，並同步開放交易市場。據了解，Alchemy Pay 是加密支付基礎設施，代幣總量 100 億枚，將用於激勵生態、系統消耗及治理。\n\n此外，OKEx 執行長 Jay Hao 也於 7 日在微博表示，旗下代幣發行平台「OK Jumpstart」很快將支援新幣挖礦，當日晚間 OKEx 就隨即宣佈，「賺幣產品」將對接 Compound 協議，支持包括 BAT、DAI、\nETH\n▼\n、\nUSDC\n、USDT、ZRX 等代幣。\n\nOKEx 的「賺幣產品」對接了 Compound 協議，這與其執行長所說的「新幣挖礦」有所不同，新幣挖礦必須持有平台幣 \nOKB\n▼\n，而「賺幣產品」則不需要，因此 OKEx 很可能會再推出類似於幣安、火幣的挖礦上幣專案。\n\n\b\b而這三大主流交易所在年初時，皆靠著代幣燒毀、推出 OKChain 等產品而大幅拉升，雖然下半年被 DeFi 搶盡鋒頭，但三家平台幣的回報率都優於區塊獎勵減半的比特幣， \nOKB\n▼\n 年初至今的回報率更達到 103%。\n\n為了不讓 DeFi 專美於前，交易所現在也開始以 DeFi 的形式進行項目發幣，雖然本質仍類似於 IEO，但在以太坊手續費過高、DeFi 當前的操作門檻等條件下，或許能藉此突破僵局，且在基本面上也可能進一步推動平台幣購買需求，從而拉升平台幣價格。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/08",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:31:31.188040"
+    },
+    {
+      "title": "三個願望一次滿足！UMA 最新流動性挖礦讓你用比特幣農出三種代幣",
+      "link": "https://abmedia.io/uma-protocols-new-yield-dollar-backed-renbtc",
+      "summary": "",
+      "content": "去中心化金融合約平台 UMA 於 9 月 7 日宣佈與資產跨鏈協議 REN Protocol 合作推出第二款收益美元「uUSDrBTC – OCT，uUSD」，並同時啟動流動性挖礦。參與流動性挖礦的農民將可同時獲得 UMA、REN 與 BAL 三種代幣作為挖礦獎勵。\n\n去中心化金融合約平台 UMA 於 2020 年 ７ 月 23 日宣佈推出新型代幣 – 收益美元（Yield Dollar，yUSD），該代幣類似於債券，能夠讓用戶抵押加密貨幣資產，生成到期時恆定一美元的「收益美元」。關於收益美元的詳細運作原理可參考鏈新聞先前的文章。\n\n為了近一步擴大產品的採用率，UMA 宣佈與跨鏈資產協議 REN 合作推出流動性挖礦，允許用戶將透過 REN 生成的跨鏈資產 renBTC（ERC20 版本的比特幣）作為抵押品，生成第二種收益美元 -「uUSDrBTC – OCT（10月1日到期），uUSD」。此外，UMA 還在自動化做市商協議 Balancer 開設 uUSD / \nUSDC\n （50/50）流動資金池，且該池已獲 Balancer 白名單批准。簡單來說，只要在 Balancer 的 uUSD / \nUSDC\n （50/50）流動資金池提供流動性，即可參與 UMA 宣佈與跨鏈資產協議 REN 合作推出的流動性挖礦，並同時獲得 UMA、REN 與 BAL 三種代幣。\n\n根據官方說法，流動性挖礦每週將分配 10,000 個 UMA 代幣、25,000 個 REN 代幣以及 BAL代幣（以 Balancer 平台總流動性按比例分配），於台灣時間每週二早上 7 點快照，獎勵會在約 24 小時後空投發放。獎勵是按區塊計算的，因此即使僅提供短短幾分鐘的流動性，也能夠獲得獎勵。實際年利率取決於資金池的流動資金量，無法預測，只能估算。有興趣的朋友可以在這個網頁進行試算，根據當前流動性來看，流動性挖礦的年化報酬率約 230%（不包含 REN 與 BAL）。\n\n事實上，你可以透過直接購買 renBTC、uUSD 省略第一與第二步驟，但不推薦資金量體大的用戶這麼做，因為這會導致入場成本大幅提升。\n\n一直以來 ERC20 版本的比特幣中，只有 WBTC 能夠在 Maker 這樣的借貸協議上得到支持，因此，以 renBTC 為抵押品的收益美元對 REN 這個跨鏈資產協議而言格外重要，因為這是 renBTC 自發行以來首次成為創新金融商品的抵押品。不過，不久前 REN 才被發現抵押的 9000 多顆 \nBTC\n▼\n 被存放在由團隊中的 5 人控制的地址中，說明該協議的分散程度並沒有外界想像的那麼高，仍然存在信任風險。\n\nhttps://twitter.com/ChrisBlec/status/1302998918020714497\n\n根據 Coingecko 的數據顯示，自該流動性挖礦啟動後，renBTC 的流動量增加了超過 600 顆（當前價值超過 610 萬美元）。\n\n另一方面，UMA 的第二種收益美元產品進一步增強了去中心化金融領域中的衍生性金融產品的多樣性，且對於那些擁有大量比特幣的農夫而言，UMA 這次推出的流動性挖礦方案無疑是未來幾週最值得關注的活動。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/08",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:31:34.583244"
+    },
+    {
+      "title": "一萬美元支撐強勁！三箭資本執行長：漲至十萬的可能性大於跌回五千",
+      "link": "https://abmedia.io/100000-bitcoin-prediction-from-three-arrows-capital-ceo-goes-viral-as-btc-holds-above-10000",
+      "summary": "",
+      "content": "風險投資公司 Three Arrows Capital 執行長 Su Zhu 在上週五預測了整體市場的回調。以太幣如期下跌至 320 美元的水平，但比特幣卻出乎意料的維持在 10,000 美元的支撐位上方。Su Zhu 表示，在這樣的情況下，比特幣上漲至 100,000 美元比下跌至 5,000 美元的可能性還要來的高。\n\n三箭資本（Three Arrows Capital）執行長 Su Zhu 在上週五（4日）的推文中指出，整體加密貨幣市場在牛市期間，通常會經歷三分之一的回撤後，才會繼續往更高的方向前進，Su Zhu 更直接表明，比特幣（\nBTC\n▼\n）回到 8,800 美元，以太幣（\nETH\n▼\n）回到 320 美元從中長期來看是較為健康的回調目標。\n\n「一般來說，市場在一片欣欣向榮之時，經常會回撤牛市的三分之一或更多。\nBTC\n▼\n 8,800 美元和 \nETH\n▼\n 320 美元是完全健康的目標，您的交易策略需要納入這種非零概率。」\n\nhttps://twitter.com/zhusu/status/1301894309570990080\n\n經過這幾天的回撤後，比特幣並沒有回到 Su Zhu 預設的 8,800 水平，持續穩定在 10,000 美元的支撐位上方。對此，Su Zhu 在昨日再度發佈推文表示，他對比特幣在 10,000 美元的支撐強度感到驚艷，並表示比特幣價格大概率將達到驚人的高度。\n\n「以太幣 320 美元的最低價是有道理的，而且已經達標了；我對比特幣在 10,000 美元區間的實力感到驚訝，以現階段來看，這意味著上漲至 100,000 美元比下跌至 5,000 美元的可能性還要高。」\n\nhttps://twitter.com/zhusu/status/1302577701828456448\n\n除了比特幣以外，Su Zhu 也同樣在密切關注去中心化金融（DeFi）領域的發展動向。事實上，三箭資本的投資標的大多也都是去中心化金融項目。其表示，人們應該從最近的熱潮所引發的亂象當中學習與成長。\n\n「讓我們從這種瘋狂中學習：1.匿名創辦人需要接受更高，而不是更低的審查；2.分叉項目的建造者並沒有創造真正的價值；3.進行對抗性思考，並且不要假設人們會違背自己的直接利益而採取對宏觀生態有利的行動。」\n\nhttps://twitter.com/zhusu/status/1302265339221221377\n\n朱堅認為，儘管DeFi有很多可以改進的地方，但新興行業確實有潛力崛起，並與更成熟的中心化金融（CeFi）市場競爭。\n\n「如果用戶遷移到 DeF​​i 的趨勢繼續存在，則可以想像，很快 DeFi 的現貨市場將與 CeFi 現貨市場處於相同水平甚至擁有更高的流動性。緊接著，交易保證金產品的投資人可能會將 DeFi 保證金交易視為一種越來越可行的替代方法，這反過來又可能迫使 CeFi 交易所將 DeFi 的流動性增加到他們自己的金融市場中。」\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/07",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:31:38.108584"
+    },
+    {
+      "title": "一人力挽狂瀾救壽司！富比士專訪FTX創辦人「SushiSwap」後續計畫",
+      "link": "https://abmedia.io/exclusive-sbf-speaks-out-on-sushiswap",
+      "summary": "",
+      "content": "靠著複製 Uniswap 協議代碼並啟動流動性挖礦而出道的 SushiSwap，近期紛爭從抄襲、吸取流動性、遷移提案、匿名創辦人拋售，到現在改由 FTX 創辦人 Sam Bankman-Fried（SBF）主導項目，這不禁讓人好奇 SBF 在打什麼如意算盤？\n\n截至目前，SushiSwap 最具爭議的莫過於匿名創辦人拋售所持有的 Sushi 代幣，並套現為約 18,000 枚以太幣，\b不僅導致幣價進一步崩跌，也讓加密社群輿論爆發，其主要事件時間軸如下：\n\n鏈新聞針對 SushiSwap 有一系列完整報導，而 FTX 創辦人 SBF 上週末也在力挽狂瀾下，成功掌控 SushiSwap 管理權限，並隨即發起提案將權限轉為多重簽章，以回歸社群主導。隨著事件鬧得滿城風雨，富比士也對 SBF 就此事進行了專訪，詢問之後的具體計畫。\n\nSBF 對於 Nomi 讓出管理權限感到震驚，同時也備感榮幸，他認為，考慮到所有面向，將治理回歸社群管理是幫助 SushiSwap 渡過難關的最好方式，他指出：\n\n一，我會確保之後的流動性遷移計畫確實執行，二，在多重簽名提案通過後，我不再擁有私鑰，我的任務就是這兩件事而已。\n\n我對 SushiSwap 當然有很多想法，像是導入保證金交易、整合借貸機制等等，以及打造 Serum 版本的 SushiSwap，但這不是我一個人能決定的，而是社群。\n\n被問及 SushiSwap 對未來 DeFi 項目的啟示，以及對投資者帶來的教訓時，SBF 指出：\n\n擁有權力的匿名開發團隊是一件非常恐怖的事，用戶必須付出更高的信任成本，我認為如果你想以匿名身份推出項目，那就去吧，但你擁有的權限必須與社群達成共識才行。\n\n而 SBF 最後也談到 DeFi 的未來，他表示區塊鏈技術當然有可能停滯不前，毫無創新；但另一個場景可能是：有大量基礎設施整合加密與非加密資產的交易，從文件傳輸、通訊軟體到社群平台都在鏈上進行。\n\n那麼要如何才能做到如此大規模的普及？SBF 似乎暗指以太坊擴展性過低的痛點，認為需要一個強大、高擴容生態系統才有可能達到這般成就。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/07",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:31:42.385994"
+    },
+    {
+      "title": "新官上任三把火！SBF 延遲 Sushiswap 流動性遷移並引入多重簽名機制",
+      "link": "https://abmedia.io/sbf-delays-sushiswap-liquidity-migration-and-introduces-multi-signature",
+      "summary": "",
+      "content": "FTX 、Serum 創辦人 SBF 逼宮 Chef Nomi 正式接管 Sushiswap 後發布治理提案，除了取消原先 Chef Nomi 簽署的流動性遷移，還將把 Sushiswap 的單一管理員私鑰更改為多重簽名，以保障治理的分散。\n\n自從 Sushiswap 創辦人出清手中的 SUSHI 後，作為 SUSHI 大頭的 FTX 、Serum 創辦人 SBF 便在 6 日上午發表評論。他表示，Chef Nomi 爛透了，他傷害了自己的項目、社群，與前途。但這不代表社群中的其他人與領導者。\n\nSBF 再次強調他不是 Sushi 的開發者，也沒給過投資建議。自己也不認識 Chef Nomi，只是有在農 SUSHI，現在還持有一點。（註：所以 SBF 早就賣掉很多了的意思。）不過，SBF 還是很期待遷移的發生，也再次廣告了一下自己在 SushiSwap 的提案。\n\n他更表示，匿名的團隊真的很可怕。擁有權力的匿名團隊更可怕。\n\n不僅如此，SBF 還在稍晚逼宮 Chef Nomi。\n\nSBF 表示，Nomi 必須要放棄對 SushiSwap 的掌控。因為這原本是個相當有前途的項目，卻被 Nomi 的自私所搞砸了。他表示自己手上還有很多的 Sushi，也佔了 SUSHI/\nETH\n▼\n 池中很多的佔比，因為他相信 SushiSwap 的承諾。\n\nSBF 更表示自己曾在最近聯繫過 SushiSwap 團隊，但他並不知道 Nomi 是擁有所有密鑰的人。\n\n總之 SBF 是逼宮了。他要 Nomi 下台，並強調 Serum 給了 SushiSwap 一個很屌的提案。並承諾，若讓 Serum 成功整合 SushiSwap，會把 Nomi 賣掉的量，再空投給農夫們。\n\n過不久後，Nomi 也選擇退讓，將所有控制權交給了 SBF，也驚奇地完成了 SBF 的逼退。也就是說，Uniswap 流動性遷移，將在 SBF 的主導下完成。而 SBF 所盼望的 Solana/Serum 版 SushiSwap，也很可能在社群的同意下發生。\n\nSBF 已經發起新的 Sushi 社群投票，由於先前在時間鎖中的遷移提案與 Nomi 的管理員密鑰相連，因此，SBF 讓人們同意取消時間鎖中 Nomi 簽署的遷移提案，一旦確信遷移代碼可以正常工作（可能需要修改代碼），將會重新以 SBF 的管理員密鑰簽署並在 48 小時的時間鎖後生效。此外，為了讓平台更加去中心化，Sushiswap 的治理將從單一管理員私鑰更改為多重簽名機制，目前社群正在提名候選人，之後會在 SUSHIPOWAH 上進行投票決議。目前該提案同意票數已超過 98%。\n\n另一方面， Uniswap 則是在兩天內蒸發 21 億美元價值的鎖定資產。Uniswap 在 5 日到 6 日間，失去近 40％的鎖定價值。\n\n幣安創辦人趙長鵬擺明了表示，上幣是市場競爭需求。他也表示，去中心化交易所的優勢就是，沒有人會抱怨他們上了什麼幣，但中心化交易所就會被罵。趙長鵬表示自己早就在幾週前說過，這些幣很危險了，並出示自己的貼文。\n\n他也表示，我們支持創新，他們都有高報酬、高風險的可能。有些會 too the moon，有些會暴跌。總之隨時注意風險管理。\n\nhttps://twitter.com/cz_binance/status/1302467934879531010\n\n此外，大家也開始獵巫，表示預言機項目 Band protocal 的泰籍技術長 Sorawit Suriyakarn 就是 Chef Nomi，但 Band 官方予以否認。9 月 7 日，Band Protocol 發出公告，表示在網路盛傳的 IP 位址證據，並不屬實，它們只是與 SushiSwap 在 Render.com 的代理伺服器服務中共享同樣的 IP 而已，還有其他很多企業都是用這個。為了避免誤會，他們也決定改到別的代理伺服器。而 Sorawit Suriyakarn 只是對於 SushiSwap 的合約審計跟產品合作感到興趣而已。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/07",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:31:46.947920"
+    },
+    {
+      "title": "舉起人民的法槌！與 Curve 如出一徹的 Swerve 已吸引四億美元資金",
+      "link": "https://abmedia.io/swerve-fork-from-unfair-defi-exchange-curve",
+      "summary": "",
+      "content": "穩定幣交易平台 Curve 的分叉版 Swerve Finance 以公平公正之名，於 9 月 5 日正式上線，不論是前端介面還是運作方式，都與原版的 Curve 如出一徹，流動性挖礦也在平台一上線時啟動，至今已吸引超過四億美元資金進駐。\n\n鏈新聞在先前的文章中曾指出，SushiSwap 仗著 Uniswap 沒有發行代幣的痛點，企圖利用流動性挖礦抽離 Uniswap 大部分的流動性，進而取代 Uniswap，這種吸取他人流動性並成就自身平台的手段，被稱為「吸血鬼挖礦攻擊」。事實上，這種手法除了對 Uniswap 這種自動化做市商協議（AMM）平台有效外，所有仰賴流動性的協議都無法倖免。\n\n9 月 5 日穩定幣交易平台 Curve 的分叉版 Swerve Finance 正式上線，不論是前端介面還是運作方式，都於原版的 Curve 如出一徹，流動性挖礦也在平台一上線時啟動，且同樣繼承了 Curve 的 2.5 倍的挖礦加速機制，該平台尚未經過正式審計，但上線至今已吸引了超過 4 億美元的資金進駐。根據官方數據顯示，參與流動性挖礦的年化報酬率大約落在 319%~799% 之間。\n\n匿名創辦人在接受採訪時表示，之所以會想要分叉 Curve，原因在於 Curve 那不公平且充滿爭議的發幣過程，以及 Curve 創辦人鎖定了控制了 70％ 以上治理投票權的中心化疑慮，創辦人 John Deere（假名）在接受採訪時表示：\n\n「DeFi 應該致力於構建比當今更好的系統。DAO 應該完全由其用戶社群來控制，而不是由其開發團隊、創始人或股東來控制….我們認為，流動性提供者在引導此類系統時應所承擔的風險應得到適當的回報。因此，在平台未來的發展和治理中應擁有公平而真實的發聲管道。」\n\n在代幣發行方面，總供給量將固定在 33,000,000 顆 SWRV，並且流動性挖礦將持續 6 年。此外，為了鼓勵流動性向 Swerve 轉移，最初的兩週總計將分配出 9 千萬顆代幣，後續發行量如下圖：\n\n有趣的是，創辦人在談論到「分叉」一詞時表示，Swerve Finance 事實上並不是 Curve 的分叉版，更精確來說是構建在 Curve 上的應用。\n\n正如 Yearn Finance 創辦人 Andre Cronje 所說，由於 Curve 的代碼是有版權的，因此直接複製代碼可能會導致 Swerve Finance 觸犯法規，引發許多不必要的問題。\n\nhttps://twitter.com/AndreCronjeTech/status/1302161801094848513\n\n因此，Swerve Finance 將「合約執行」與「代幣存儲」分開執行，「合約執行」方面 Swerve Finance 沒有部署新的合約，而是直接調用 Curve 的現有合約，而「代幣存儲」方面則使用 Swerve Finance 自己的合約。 Andre Cronje 表示，這種做法不僅遵守了版權的規範，還能使用合約的完整功能，從法律和技術角度來看，都是非常明智的作法。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/07",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:31:52.503689"
+    },
+    {
+      "title": "「CeFi」不落人後！幣安推新產品：新幣挖礦「Launchpool」",
+      "link": "https://abmedia.io/binance-release-launchpool-bella-protocol-is-the-first-project",
+      "summary": "",
+      "content": "由於 DeFi 的強勢崛起，各個主流中心化交易所在今年略顯黯淡，也因此積極涉及 DeFi 領域。幣安先前八月時推出了「DeFi 挖礦」，用戶能透過去中心化借貸平台 Kava 質押 \nBNB\n▼\n 賺取收益；本月四日也推出自動化做市商（AMM）平台 – 幣安兌換池；六日再上線新幣挖礦項目：Bella Protocol（BEL）。\n\n根據幣安在 9 月 6 日的公告，在 9 月 9 日台灣時間上午八點起，將啟動為期 30 天的挖礦專案，用戶能質押 \nBNB\n▼\n、BUSD、ARPA 等代幣以獲得 Bella Protocol（BEL）挖礦獎勵，其中將以 \nBNB\n▼\n 為主，佔比如下：\n\n此專案的挖礦總量為 BEL 總發行量的 5%，初始私募價格為 0.75 美金，代幣詳情如下圖：\n\nBEL 代幣會依照 30 天平均分配到挖礦池中，幣安將根據用戶每小時的持倉快照分配 BEL 獎勵，\nBNB\n▼\n 礦池每日挖礦數量為：5,000,000 x 90% / 30天 = 150,000 BEL\n\n而具體回報率則要看參與資金的多寡而定，假設礦池內所有用戶投入 100,000 枚 \nBNB\n▼\n，A 用戶投入了 5,000 \nBNB\n▼\n 並持有 12 小時，則當日獎勵應為：\n\n（（5,000 x 12 / 24） / 100,000）x 150,000 = 3,750 BEL\n\n（（持有數量 x 持有小時 / 24 小時）/ \nBNB\n▼\n 礦池投入總量 ）x BEL 每日發行量\n\nBEL 獎勵將於隔日 8：00 至 9：00 間發放至用戶帳戶。\n\n根據官方敘述，Bella 致力於減少 DeFi 入門用戶的門檻，其產品包括：\n\n其中「Bella 1-Click」是今年第四季將上線的產品，著重在面向新手用戶，以一鍵式完成複雜、多工的 DeFi 操作程序。\n\nBella Protocol 將發行 1 億枚 BEL 作爲治理代幣，功能包括對參與治理、投票、質押用戶進行分紅，以及費用折扣等。\n\n而幣安將於台灣時間 9 月 16 日 14：00 上線 Bella Protocol（BEL）交易市場，並開通 BEL/\nBNB\n▼\n、BEL/\nBTC\n▼\n、BEL/BUSD、BEL/USDT 等交易對。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/07",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:31:56.654738"
+    },
+    {
+      "title": "各種DeFi看得心累?「Zapper」一站式管理平台帶你飛！",
+      "link": "https://abmedia.io/how-to-use-vaults-from-yearn-finance-with-zapper",
+      "summary": "",
+      "content": "眼看 DeFi 總鎖定價值\b一路從年初 6.7 億到一度逼近 100 億美金，各種流動性挖礦項目前仆後繼推出，幾乎霸佔下半年新聞版面，而這對習慣交易所的用戶，或是\b初入幣圈的投資者來說似乎不得其門而入。但實際上有個功能強大的 DeFi 資產管理平台「Zapper」，不僅能做到一站式投資、還能實時監控所有資產，不過首先，你必須有個區塊鏈錢包。\n\nMetaMask 是基於以太坊的老牌區塊鏈錢包，近期我們也報導了 MetaMask 的最新進展。用戶能透過 MetaMask 儲存、交易、發送 ERC-20 代幣，並與以太坊的應用程式、平台互動，它支援 iOS、Android，電腦版則是以 Chrome 瀏覽器插件的形式。\n\n下載 MetaMask 插件後，點擊「開始使用」來到下圖畫面，點擊創建錢包。不過 MetaMask 的 iOS 版本功能比較陽春，所以如果你有慣用的其它手機區塊鏈錢包如 imToken ，也能導入 imToken 的助記詞，這樣電腦、手機能同步，也不用再多備份一組助記詞。\n\n接著同意「用戶條款」、設定「登入密碼」，以「紙本方式備份助記詞」並妥善保管，需注意用截圖等數位方式來儲存會有風險，一定要備份，因為下個步驟就會問你助記詞了。\n\n下一步正確填寫助記詞後，等於正式擁有了屬於自己的非交易所錢包，參與 DeFi 的前置作業已經完成，接著就需要了解 DeFi 資產管理平台「Zapper」的基本操作，以及範例中的 DeFi 項目 Yearn.Finance。\n\nZapper 目的是讓技術水平較淺的用戶都能參與 DeFi，它前身為 DeFiZap，誕生於 2019 年 Kyber 的黑客松，今年五月宣佈與同樣致力於用戶友好的 DefiSnap 合併，目前支援 Uniswap V2、Curve 與 Balancer 等平台的流動性池，之後也會持續增加。其核心功能包括：\n\n點擊白框的「Connect Wallet」並選擇左上角第一個的 MetaMask，並輸入創建帳戶時的密碼就能進入 Zapper 的主界面。\n\n點擊「Invest」後就能進入到 Zapper 支援所有資金池的畫面，可以點擊「Available Pools（支援的資金池）」、「Liquidity（流動性，這個池子有多少錢）」、「Net ROI（淨收益）」、「ROI（收益率）」等分類，支援的資金池會依照不同類別進行排序。\n\n「Net ROI（淨收益）」與「ROI（收益率）」有所差異，是因為它計入了暫時性損失（impermanent loss），請參考：DeFi 防騙｜什麼是暫時性損失(impermanent loss)？\n\n這裡以自動做市協議 Balancer 的 LEND/SNX 資金池為例。假設用戶持有以太幣，想將手中以太幣以 50% / 50% 的比例兌換為 LEND 與 SNX，並投入到 Balancer 資金池中作為流動性提供者（Liquidity Provider），進行所謂的流動性挖礦。\n\n在沒有使用 Zapper 的情況下，用戶需要把以太幣分別兌換為 LEND 與 SNX，接著才能為資金池提供流動性，因此用戶需要花三筆 Gas Fee。而 Zapper 簡化並實現了用戶需要手動 3 到 4 次的操作。\n\n現在換 Zapper 上場，點擊上圖紅框最右邊的「Add liquidity」進到添加流動性頁面，由於 Zapper 整合了 Uniswap、Balancer 和 Curve 等三個 DeFi 領域中的主流做市商平台，它會自動兌換資金池所需代幣，大幅減少了兌換代幣以及切換平台的繁瑣操作。流動性頁面敘述如下：\n\n簡單來說，用戶只需要選擇投入資金大小、協議、資金池、手續費，按下「Confirm」，就能開始參與 DeFi 流動性挖礦，Zapper 則替用戶處理了繁複的技術細節。\n\n此外，Zapper 的資產管理平台對於用戶參與各個協議的資訊呈現非常清晰、直觀。\n\nZapper 的資產管理平台「Dashboard」能追蹤用戶錢包地址活動，讓用戶對於正在參與哪些協議一目了然，主要資訊如下：\n\n上圖紅框中的「Transaction」則是提供用戶觀看與各個協議互動的鏈上交易紀錄，較可惜的是，Zapper 並沒有持倉、或是參與流動性挖礦的總盈虧圖表，你可以將 MetaMask 錢包導入 DeFi 追蹤投資組合平台 Zerion，或是 BitUniverse、Coin Stats 等資產管理 APP 來查看浮動盈虧。\n\n現在，我們用 Zapper \b來投看看最火紅的 DeFi 協議 Yearn Finance。\n\nYearn.finance 無疑是 DeFi 領域中最成功的協議之一，自今年推出以來，鎖定資金已達 9.3 億美金，在 Defipulse 上排名第五。而它的治理代幣 YFI 從 7 月發行以來，價值已經從 0 到截稿前的 28,340 美金，甚至在 9 月 1 日創下 38,474 美金一枚的天價。\n\nYearn 類似一個收益聚合器，它會識別各個不同的 DeFi 借貸協議或流動性資金池，透過智能合約管理、最大化用戶資產回報率，它的產品包括：Earn、Zap、 APR、Cover，以及我們要示範的 Vault （簡稱 yVault ）。\n\n關於 yVault 的運作機制，以 yVault 中的 Chainlink（\nLINK\n▼\n）流動性池為例，原理如下：\n\n即便你沒有 \nLINK\n▼\n，只有 DAI 或以太幣也能參與，Zapper 會幫你在 Uniswap 上換成 \nLINK\n▼\n 代幣，按下「Confirm」，MetaMask 會問你是否允許這筆交易，再次點擊「Confirm」。\n\n按下「Confirm」後，右下角會出現交易進行中的提示。\n\n按下該提示， 能連接到區塊瀏覽器 Etherscan 查看交易細節。\n\n到這邊，Zapper 首頁的「Current Investment」會顯示當前投入的資金池，「yaLINK Vault」以及投入金額，當前年化利率為 45.15%。\n\n這波 DeFi 熱潮主要是藉由「流動性挖礦」來「發行代幣」而崛起，各種項目相繼遵循此模式發行代幣，也因此出現許多抄襲其它協議而推出的項目，近期更逐漸發生有項目代碼存有能無限籌幣的漏洞。\n\n以太坊創辦人 Vitalik Buterin 也多次呼籲 DeFi 可能存在的系統性風險，強調用戶不需要刻意參與最新的 DeFi 項目，並認為其利率不應該遠高於傳統金融所能給予的。\n\n因此，真的要玩 DeFi，就投入你所能承擔的金額就好了。\n\n介紹 Zapper 主要是讓大家能參與操作門檻較高的流動性挖礦，但其實就算 Zapper 能做到一鍵到位\b，還是會有許多人寧願雙手奉上新台幣給別人代操、或無腦投資金盤，而透過別人代為投資不但冒著極大風險，就算最後僥倖賺到了錢也是頭腦空空，遲早會再賠回去的。投資的路上就是一段自我學習的過程，或許自己操作 DeFi 但賠錢了，但學到的知識、風險管理，無價。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/07",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:32:01.034817"
+    },
+    {
+      "title": "「我在乎遷徙，不在乎幣價！」SushiSwap創辦人大量拋售，米其林一星變爭鮮",
+      "link": "https://abmedia.io/sushi-crashed-after-chef-nomi-dump",
+      "summary": "",
+      "content": "大盤一跌，流動性挖礦幣種劇烈調降，被譽為 DeFi 比特幣的 YFI 在 24 小時下跌 24%，複製項目DFI.money（YFII）下跌 20％，蕃薯幣 YAMv2 (YAMV2) 大跌 47%，連台灣希望客家幣（HAKKA）也大跌 34%。Curve 的 CRV 下跌 23%，而它的複製版 Swerve (SWRV) 儘管受到關注，也是大跌 53%。\n\n最戲劇性的莫過於壽司幣 SushiSwap（SUSHI），不僅大跌 53%，更很可能是來自匿名創辦人 Chef Nomi 大倒貨，但他堅稱稱自己是為了讓項目繼續下去。\n\n5 日下午五點，SushiSwap 創辦人 Chef Nomi 發布貼文表示：\n\n「致 SushiSwap 社群。由於從 Uniswap 遷移流動性一事造成許多恐慌，因此我採許了一些措施以確保我的承諾，以及讓遷移可以順利完成。這是身為創辦人我的主要工作。\n\n我已將開發者池子中的所有 SUSHI 代幣轉換成Uniswap SUSHI-\nETH\n▼\n 池中的 LP 代幣（流動性證明代幣）。這些 LP 代幣會跟所有質押在 MasterChef 合約中的 LP 代幣一樣，跟所有人一起進行遷移。\n\n我還把我在開發者池子中的受益部分，轉為多重簽章合約，讓它受治理議會管轄。我也會盡快會他們設立投票機制。有了這項措施，不會有更多來自開發者池子的 SUSHI 會到我的戶頭，它將屬於社群。\n\n遷移完成後，SUSHI 持有者將獲得透過 SushiSwap 協議交易所收取的部分費用。 每個希望看到項目成功的人都應該堅持進行遷移，並長期成為項目的一部分。」\n\n晚間近八點時，Chef Nomi 再次發布貼文表示，自己做的都是為了社群，但自己只受到責難與恐慌的情緒。\n\n他表示：「我告訴你發生什麼事。我把自己在開發者持幣的部分全部轉成 \nETH\n▼\n 了。我不會再在乎幣價，而將專注在遷移的技術部分。」\n\n拋售 SUSHI 的行為讓人多很感到憤恨不解。Chef Nomi 表示：「人們問我說我是不是要跑路。我並沒有跑走。我會繼續跟大家討論，繼續協助技術的部分。我會確保我們會完成遷徙。」\n\nChef Nomi 對於賣幣這件事情問心無愧。他表示：「也許你認為我不應該得到那筆 \nETH\n▼\n？ 我認為我的貢獻夠資格。 我寫了遷移代碼。 我進行了所有審計。 我整合了有史以來最大的流動性提供者池。 我創建了一個大型社群。 我促使了超過一百個流動性池騙局項目湧現。 全部只花了 1 週。」\n\nChef Nomi 最後表示，他創造了這一切，他不想要在承受價格壓力下做事。如果人們相信這一切，就留下來，不喜歡也可以自由的離開。在這之後，所有的開發者分潤也不會受他所控制。\n\n最後他表示，如果這個實驗最終成功，你們會知道好處。如果它失敗了，那我們就是把全部的東西還給 Uniswap。無論兩種結局都好。\n\n在晚間九點多，他也再次公告自己在以太坊上的開發進度：SushiBar 跟 SushiMaker。\n\n作為 SUSHI 大頭的 FTX 、Serum 創辦人 SBF，則在 6 日上午發表評論。他表示，Chef Nomi 爛透了，他傷害了自己的項目、社群，與前途。但這不代表社群中的其他人與領導者。\n\nSBF 再次強調他不是 Sushi 的開發者，也沒給過投資建議。自己也不認識 Chef Nomi，只是有在農 SUSHI，現在還持有一點。（註：所以 SBF 早就賣掉很多了的意思。）不過，SBF 還是很期待遷移的發生，也再次廣告了一下自己在 SushiSwap 的提案。\n\n他更表示，匿名的團隊真的很可怕。擁有權力的匿名團隊更可怕。\n\n不僅如此，SBF 還在稍晚逼宮 Chef Nomi。\n\nSBF 表示，Nomi 必須要放棄對 SushiSwap 的掌控。因為這原本是個相當有前途的項目，卻被 Nomi 的自私所搞砸了。他表示自己手上還有很多的 Sushi，也佔了 SUSHI/\nETH\n▼\n 池中很多的佔比，因為他相信 SushiSwap 的承諾。\n\nSBF 更表示自己曾在最近聯繫過 SushiSwap 團隊，但他並不知道 Nomi 是擁有所有密鑰的人。\n\n總之 SBF 是逼宮了。他要 Nomi 下台，並強調 Serum 給了 SushiSwap 一個很屌的提案。並承諾，若讓 Serum 成功整合 SushiSwap，會把 Nomi 賣掉的量，再空投給農夫們。\n\n過不久後，Nomi 也選擇退讓，將所有控制權交給了 SBF，也驚奇地完成了 SBF 的逼退。也就是說，Uniswap 流動性遷移，將在 SBF 的主導下完成。而 SBF 所盼望的 Solana/Serum 版 SushiSwap，也很可能在社群的同意下發生。\n\nSBF 已經發起新的 Sushi 社群投票，讓人們同意先取消 Nomi 設定的遷移時間，因為那與 Nomi 的私鑰相連，現在必須以 SBF 所控制的為主，並將控制權專為多重簽章。投票預計在 7 日晚間結束，目前絕大多數都是同意票。\n\n【上述部分，了解更多可看此篇：吸血計畫開始、主席就位！SBF 解釋遷徙計畫，Uniswap暗示推出V3?】\n\n10 日更新，10 日上午，在成功轉移用戶在 Uniswap 的部分流動性後，SushiSwap 目前的去中心化兌幣平台共有 12.7 億美元價值的流動性。（參考資料）而 Uniswap 則從 16 億美元價值的流動性，萎縮至 5.18 億美元，回到八月底的資金水平。據 DeFi Pulse 數據，Uniswap 在 DEX 類別鎖定資產（TVL）排名現跌落第三。\n\n幣安創辦人趙長鵬擺明了表示，上幣是市場競爭需求。他也表示，去中心化交易所的優勢就是，沒有人會抱怨他們上了什麼幣，但中心化交易所就會被罵。趙長鵬表示自己早就在幾週前說過，這些幣很危險了，並出示自己的貼文。\n\n他也表示，我們支持創新，他們都有高報酬、高風險的可能。有些會 too the moon，有些會暴跌。總之隨時注意風險管理。\n\nhttps://twitter.com/cz_binance/status/1302467934879531010\n\n此外，大家也開始獵巫，表示預言機項目 Band protocal 的泰籍技術長 Sorawit Suriyakarn 就是 Chef Nomi，但 Band 官方予以否認。9 月 7 日，Band Protocol 發出公告，表示在網路盛傳的 IP 位址證據，並不屬實，它們只是與 SushiSwap 在 Render.com 的代理伺服器服務中共享同樣的 IP 而已，還有其他很多企業都是用這個。為了避免誤會，他們也決定改到別的代理伺服器。而 Sorawit Suriyakarn 只是對於 SushiSwap 的合約審計跟產品合作感到興趣而已。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/05",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:32:05.495970"
+    },
+    {
+      "title": "DeFi 概念平台至今已募集超過 10 億美元資金，這幾家 VC 投最多！",
+      "link": "https://abmedia.io/deep-dive-into-defi-venture-funding",
+      "summary": "",
+      "content": "去中心化金融（DeFi）平台的總鎖定資產價值不斷創下新高，但是，大部分人都不知道，DeFi 在不知不覺中，還達成了另一個鮮為人知的里程碑。\n\n根據區塊鏈媒體 The Defiant 的報導，市場上的 DeFi 項目已從風險投資基金手中，募集了超過 10 億美元。其中，光是在 DeFi Pulse 上的 34 家 DeFi 公司就從 100 多個風險投資基金中籌集了超過 5 億美元的資金。\n\nThe Defiant 指出，在 ICO 盛行的 2017 年散戶投資人大量參與一級市場，依靠代幣銷售籌集的資金佔迄今為止總籌集資金的 50％ 以上，其中募資金額最高的為 Bancor、Kyber 和 Loopring 的ICO。\n\n但是，從 2018 年開始，風險投資人的參與度越來越高，這意味著越來越多的投資額度被保留給機構投資人。\n\n在 The Defiant 分析的公司中，只有四家公司在 2017 年之後進行了代幣銷售：Ren、Metronome、PieDAO 和 bZx，除了這些特殊的案例之外，2018 年至今的大部分融資都是透過出售股權或代幣給風投基金完成的。\n\n從DeFi公司的資金總體來看，募集資金最多的公司是：Bancor – 1.53 ​​億美元（代幣銷售，2017年6月）、Maker – 6150 萬美元（機構投資）、Kyber – 5200 萬美元（代幣銷售，2017年 9 月）、Loopring 4500 萬美元（代幣銷售，2017 年 8 月）、Compound – 3,320 萬美元（風投融資）。其中，Maker 和 Compound 是從 VC 籌集最多資金的兩個平台。\n\n另一方面，根據 The Defiant 的分析，在 DeFi 領域中交易數量最高的風險投資基金是 Polychain Capital、A16z、Paradigm Capital、1Confirmation、Bain Capital Ventures、Coinbase Ventures 和 KR1，這些機構通常在種子輪中擔任主要領投者。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/05",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:32:08.826388"
+    },
+    {
+      "title": "Galaxy Digital 執行長：DeFi 與特斯拉狂熱將進入重大修正期",
+      "link": "https://abmedia.io/defi-and-tesla-mania-heading-for-big-correction-says-hedge-fund-guru-mike-novogratz",
+      "summary": "",
+      "content": "Galaxy Digital 執行長兼創辦人 Mike Novogratz 在接受彭博社（Bloomberg）採訪時表示，特斯拉（Tesla）和去中心化金融（DeFi）都是短暫的狂熱，且目前可能正處於重大修正的初期階段。\n\nGalaxy Digital 創辦人，同時也是高盛（Goldman Sachs）前合夥人的 Mike Novogratz 本週接受彭博社採訪時表示，傳通金融市場與加密貨幣市場現在都充斥著狂熱的投機潮，而這些資產將在不久後進入重大修正期。\n\n其中，特斯拉就是傳統金融市場中的代表，Mike Novogratz 表示，他擁有兩個特斯拉，同時他也認為Elon Musk 是個天才而特斯拉也是世界上最好的汽車公司之一，但是，這並不代表這家公司市值 5000 億美元，交易市盈率能高達 1300 倍。\n\n回到加密貨幣市場，DeFi 無疑是近期最狂熱的概念板塊，Mike Novogratz 在採訪中說道：\n\n「我們看到了以太坊價格近期驚人的變化。這是與去中心化金融（DeFi）這個新興領域有很大的關係。近期 DeFi 領域中發生的這些事，不禁讓人聯想到我們在特斯拉上見證到的投機狂潮。」\n\nMike Novogratz 以近期火熱的新項目 SushiSwap 為例，其指出該項目在短短五天內就吸引了超過十億美元的流動性，這種情況是他過去前所未見的， Mike Novogratz 警告，許多高風險資產可能將面臨重大修正，這股『非理性的繁榮』不會持續很長時間，不久後恐將經歷一系列泡沫，現在感覺已經接近泡沫高峰了。\n\n此外，Mike Novogratz 補充表示，當前 DeFi 交易的狂熱讓他想起了 2017 年的加密貨幣泡沫：\n\n「當時的火熱的是 ICO，每天都有新的 ICO，然後一群人聚集到那個 ICO 代幣並抬高價格，流動性和價格變得瘋狂，最終崩潰崩潰，這與接下來將發生的事情感覺有點像。」\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/05",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:32:12.212745"
+    },
+    {
+      "title": "SushiSwap流動性遷移提前，Uniswap恐一夕減少 80% 的流動性",
+      "link": "https://abmedia.io/sushiswap-uniswap-launch-80-liquidity-loss",
+      "summary": "",
+      "content": "以吸血鬼挖礦攻擊打出一片天的 SushiSwap 通過最新提案，流動性遷移的日期將從原定的 9 月 11 日提前，最快將於本週日啟動，若 Uniswap LP 代幣的抵押數量不變的話，Uniswap 將會在啟動後立即被抽離 80% 的流動性。\n\n根據 DeFi Pulse 的數據，自 8 月 28 日 SushiSwap 合約於區塊高度10750000 部署至今，鎖定在 Uniswap 上的總鎖定資產價值增長了近 15 億美元（初期只要在 SushiSwap 質押 Uniswap LP 代幣即可獲得 SUSHI 代幣），這使得 Uniswap 一舉擊敗 Aave，成為以太坊鏈上鎖定資產最多的 DeFi 平台。\n\nSushiSwap 是從 Uniswap 分叉來的自動化做市商協議，差別在於 SushiSwap 具備流動性挖礦的治理代幣發行機制，流動性提供者能夠同時獲得交易費與代幣獎勵，SushiSwap 便憑藉著這項差異，計畫透過「吸血鬼挖礦攻擊」吸引流動性提供者（LP）進駐，從 Uniswap 抽走流動性。\n\n根據 SushiSwap 創建者 NomiChef 所發佈的提案，其表示 SushiSwap 協議已準備好進行流動性遷移，該提案將徵求社群同意，投票決定是否將流動性遷移的日期提前，該提案已於昨日結束投票，共有 86.7% 的人贊成提前，由於啟動必須經過時間鎖鎖定 48 個小時，因此，流動性遷移應該會在星期日的某個時間點發生。\n\n根據 SushiSwap 的挖礦機制，在 10750000 區塊後的兩週內，以太坊用戶只要在 SushiSwap 平台抵押指定的 Uniswap V2 LP 代幣（可理解為在 Uniswap 資金池提供流動性的證明），即可獲得 SUSHI 代幣。SushiSwap 鼓勵用戶將大量資金存入 Uniswap，然後將收到的 LP 代幣轉抵押在 SushiSwap 平台，然後，SushiSwap 會在指定的時間，用所有用戶的 LP 代幣，將Uniswap 的大量流動資金遷移到 SushiSwap，而用戶的 Uniswap V2 LP 代幣則會變成數量相同的 SushiSwap LP 代幣，因為用戶的資產已經不在 Uniswap 上，而是在 SushiSwap 上。\n\n根據 SushiSwap 數據分析工具的數據顯示，抵押在 SushiSwap 平台的 Uniswap LP 代幣，約佔 Uniswap 總平台的 80 ％，換句話說，如果遷移啟動時該數據不變的話，Uniswap 將會被抽離 80% 的流動性。\n\n加密貨幣投資具有高度風險，其價格可能波動劇烈，您可能損失全部本金。請謹慎評估風險。",
+      "date": "2020/09/05",
+      "year": 2020,
+      "source": "ABMedia-市場",
+      "page_num": 146,
+      "scraped_at": "2025-11-17T01:32:15.700092"
+    }
+  ],
+  "saved_at": "2025-11-17T01:33:08.301130"
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "start_timestamp": "20251116_233524",
+    "end_timestamp": "20251116_233715",
+    "test_duration_hours": 0.03,
+    "initial_capital": 100.0,
+    "total_decisions": 0,
+    "final_balances": {
+      "M0_ULTRA_SAFE": 100.0,
+      "M1_SAFE": 100.0,
+      "M2_NORMAL": 100.0,
+      "M3_AGGRESSIVE": 100.0,
+      "M4_VERY_AGGRESSIVE": 100.0,
+      "M5_ULTRA_AGGRESSIVE": 100.0
+    }
+  },
+  "orders": {
+    "M0_ULTRA_SAFE": [],
+    "M1_SAFE": [],
+    "M2_NORMAL": [],
+    "M3_AGGRESSIVE": [],
+    "M4_VERY_AGGRESSIVE": [],
+    "M5_ULTRA_AGGRESSIVE": []
+  }
+}

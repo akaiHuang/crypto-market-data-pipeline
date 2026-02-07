@@ -1,0 +1,118 @@
+{
+  "site": "BlockTempo-BTCtech",
+  "year": 2024,
+  "batch_articles": 10,
+  "articles": [
+    {
+      "title": "銘文FOMO熱潮之外，一文盤點比特幣的「長線生意」",
+      "link": "https://www.blocktempo.com/an-article-taking-stock-of-the-long-term-business-of-bitcoins-ecological-infrastructure/",
+      "summary": "在比特幣銘文生態的持續 FOMO 下，手...",
+      "content": "在比特幣銘文生態的持續 FOMO 下，手動參與新銘文項目的人迅速捲入了紅海當中，從過去經驗來看能夠留下來的只有比特幣等級少數公鏈生態的頭部項目。本文將盤點那些在比特幣生態中的「長線生意」。\n（前情提要：BendDAO轉戰比特幣生態，昔日NFT借貸龍頭能否翻盤重生？）\n（背景補充：深入探討 Layer2、L2 Rollup 差異，比特幣生態的前進之路）\n\n本文目錄\n錢包\nUnisat\nOKX Web3 錢包\nXverse\nOdinals Wallet\nHiro Wallet\nLaunchpad\nTurtSat\nLuminex\nBounce Brand\n跨鏈\nMultiBit\nAnalysoor\nTeleportDAO\n交易市場\nOKX Ordinals 市場\nUnisat Marketplace\nOrdinals Market\nOrdswap\nMagic Eden Bitcoin\nOrders Exchange\n鑄造工具\nLooksordinal\niDclub\nCoinTool\nMCT\nBIIS\n資料 & 查詢\nmempool\nordiscan\nBRC-20.io\nOrdSpace\nOrdinals Directory\nBest in Slot\nGeniiData\nWhatscription\nOrdinalHub\n小結\n\n \n\n除\n了眼花撩亂的新銘文項目外，在整個生態中賣產子的基礎設施也自然成為了長線生意，並伴隨著比特幣生態成為剛需中的剛需。\n\n比特幣生態及銘文基礎設施相關的專案涵蓋了錢包、跨鏈、交易市場、鑄造工具、資料 & 查詢等賽道。\n\n錢包\nUnisat\n\nUnisat 是一款非託管的開源比特幣銘文外掛錢包，也是第一個整合 Ordinals 的銘文外掛錢包，支援 Ordinals 和 BRC20，可幫助使用者儲存、鑄造和傳輸 BRC20 代幣，包括買賣 BTC、NFT、域名等。\n\nOKX Web3 錢包\n\n今年以來， OKX Web3 錢包作為今年交易平臺彎道超車的典範，率先支援 BRC20 銘文和 BTC NFT 的交易和質押，為其錢包帶來了大量流量。\n其中它相繼支援 BRC20 銘文和 BTC NFT 交易、質押，並推出比特幣生態標準 BRC20-S、銘文工具等元件，為比特幣銘文賽道的開源發展做出了不少貢獻，讓更多使用者得以順利進入 Ordinals 市場。\n\nXverse\n\nXverse 由 Secret Key Labs 開發，是一種非 KYC 比特幣錢包，支援 Ordinals 和 BRC-20 代幣以及比特幣智慧合約平臺 Stacks 等，未來也將支援比特幣閃電網路。\n\nOdinals Wallet\n\nOrdinals Wallet 於今年 2 月推出，是一種非託管 BTC 錢包，允許使用者檢視和儲存 BTC 和 Ordinals NFT，同時支援各種與 Ordinals 相關的操作，例如轉帳、傳送、登記、買賣等。\nOrdinals Wallet 助記詞將在本地生成並儲存在電腦上，且在瀏覽器中加密，使用者可以直接從錢包中建立轉移 Ordinals NFT，並可以在 Ordinals Wallet 市場上列出 BRC-20 代幣。\n\nHiro Wallet\n\nHiro Wallet 作為基於 Stacks 開發的錢包，已支援儲存、檢視比特幣和 Ordinals，並允許使用者跨帳戶管理他們的 STX 和其他資產（例如 BNS 域名和 NFT），同時支援所有能傳送到比特幣地址的資產型別。\n\nLaunchpad\nTurtSat\n\nTurtsat 是一個由社群驅動的開放平臺，旨在成為 Ordinal 的 Gitcoin，通過 Turtsat 提供一個構建、捐贈和影響比特幣 Ordinal & BRC-20 的空間。\n\nLuminex\n\nLuminex 作為比特幣 Ordinals Launchpad 平臺，致力於將比特幣序數和 BRC20 專案引入比特幣生態系統，使用者可以進行規模化、非託管鑄造，還可提供影象優化、各種白名單層級建立、行銷支援等服務。\n\nBounce Brand\n\nBounce Brand（原為 Bounce Finance）是一個去中心化的拍賣協議，旨在為使用者提供在多個區塊鏈網路上建立和參與各種型別的拍賣的能力。近期因為陸續拍賣比特幣相關概念專案 MultiBit（MUBI）和 Bitstable（BSSB）等專案，並且取得驚人收益，進而導致自身也受到大量關注。\n另一方面，12 月初，Bounce Brand 推出 BounceBit，為比特幣生態系統設計的 DeFi 解決方案，推出比特幣錨定幣 BTCB 增加比特幣流動性，使其成為比特幣生態專案。因為比特幣相關概念的火熱，加上其是少數上了 BN 的比特幣生態專案，導致其熱度較高。近期由於其打新專案 bDID 被曝一直出貨， 價格雪崩，甚至帶動 auction、mubi 等一起下跌。\n\n跨鏈\nMultiBit\n\nMultiBit 是 BRC20 與 ERC20 跨鏈協議，它基於 BRC20 雙向跨鏈橋設計，旨在實現 BRC20 與 ERC20 代幣之間的跨鏈傳輸。\n\nAnalysoor\n\nAnalysoor 是 Solana 上銘文跨鏈協議，旨在解決 meme 和 NFT 的公平釋出和流動性引導問題，其中首個專案 ZERO 採取獨特的抽獎中籤玩法（9.5% 的中籤率），使用 SOL 作為抽獎代幣，吸引大量的關注，而 Analysoor 第二個專案 ONE 也已通過抽獎機制完成鑄造。\n截至昨日，Analysoor 的 95% NFT 已分發完畢，2.5 萬人參與鑄造，Discord 計劃於今日對 ZERO 與 ONE 持有者開放，後續 Analysoor 將不再發放代幣，但會向其他專案提供 Launchpad 服務，計劃轉向一個 LaunchPad 平臺。\n\nTeleportDAO\n\nTeleportDAO 是一個跨鏈 Ordinals 市場，目前主要包括兩款產品：多鏈 BTC 跨鏈交易協議 TeleSwap，支援在 BTC 和 Polygon 之間跨鏈轉移和交易資產；以及 Ordinals 交易市場 TeleOrdinal。\n\n交易市場\nOKX Ordinals 市場\n\nOKX Web3 錢包上的 Ordinals 市場作為第一大 BRC20 銘文和 BTC NFT 交易市場，完全去中心化，互動免平臺服務費，並支援一站式轉移、交易、銘刻 BRC-20 和 BTC NFT 等多個功能。\n截至上週，OKX Web3 錢包 Ordinals 市場總交易額也已突破 5 億美元，其中 Ordinals 協議總交易額接近 8.65 億美元，OKX Web3 錢包占比約 58%。\n目前 OKX Web3 市場在掛單以及成交速度等方面的體驗，要好於 Unisat 市場。\n\nUnisat Marketplace\n\nUnisat Marketplace 是 Unisat 旗下比特幣鏈上基於 PSBT、支援 BRC-20 資產的 Inscriptions 市場，11 月以 4100 萬美元的交易額位列 NFT 市場第四名。\n\nOrdinals Market\n\nOrdinals Market 是一個比特幣銘文交易市場，支援使用者使用 Xverse 等錢包在比特幣上進行交易，同時也支援使用者使用 Emblem Vault 開發的「儲存」技術（包含擁有銘文的比特幣地址的加密私鑰）在以太坊區塊鏈上進行比特幣銘文交易。\n\nOrdswap\n\nOrdswap 是一個基於比特幣構建的無需信任的 Ordinals 市場，允許使用者登記、購買、出售和拍賣比特幣 NFT。\n\nMagic Eden Bitcoin\n\nMagic Eden Bitcoin 是今年 3 月推出的比特幣生態 NFT 市場，允許使用者上架、購買和出售 Ordinals。此外 Magic Eden 也上線比特幣 Launchpad，旨在幫助創作者直接在 Magic Eden Launchpad 上啟動 Ordinals 協議並製作比特幣 NFT。\n目前一些新出的比特幣 NFT 一般會選擇上線 Magic Eden。\n\nOrders Exchange\n\nOrders Exchange 是一個基於比特幣 PSBT 技術構建的 BRC20 代幣去中心化交易所。\n\n鑄造工具\nLooksordinal\n\nLooksordinal 是自託管的 BRC20 代幣鑄造輔助工具，支援使用者在瀏覽器建立所有必要的地址，用於建立由使用者自己控制的銘文。\n\niDclub\n\niDclub 作為 BRC20 代幣的鑄造平臺，支援使用者在比特幣鏈上銘刻 Ordinals NFT 和銘文，目前也已擴展套件推出交易市場，支援使用者購買和出售 Ordinals 銘文。\n\nCoinTool\n\nCoinTool 作為一個鏈上工具集，也推出了針對多鏈銘文鑄造和監控的系列工具，其中包括 EVM 多錢包批量銘刻、SOL 批量銘刻銘文、Tron 多錢包批量銘刻、IOST 批量銘刻銘文等服務。\n\nMCT\n\nMCT 是一個多鏈銘文銘刻協議，涵蓋比特幣、以太坊、Solana、Sui 等 20 多條公鏈上的銘文專案即時監控，並支援使用者進行批量銘刻，涵蓋所有 EVM 鏈及 Tron 等區塊鏈網路。\n\nBIIS\n\nBIIS 旨在為 BRC20 代幣打造終極一體化便捷技術棧，定位於面向開發者和使用者的「BRC 生態工具箱」，旨在為專案開發者和使用者提供了一套綜合性的整合工具，包括批量分發和歸集 BRC20 等代幣，批量分發和歸集 BRC-721 等 NFT 資產等等整合工具，後續還會推出全自動資產釋出平臺，支援 Free Mint/AirDrop/IDO 等多模式資產釋出模式，並會為專案方提供銘文 Dao 投票系統，完成專案的自動化釋出和社群去中心化治理等功能。\n目前 BIIS 已獲得日本加密貨幣投資機構 CGV 和 KuCoin Labs 戰略投資。\n\n資料 & 查詢\nmempool\n\nmempool 專注於比特幣社群的記憶體池和區塊鏈瀏覽器功能。它提供了即時的交易狀態和資料，允許使用者檢視當前待確認交易的情況，主要用於查詢鏈上交易確認狀態以及當前即時 Gas 費。\n比特幣一般 10 分鐘出一個塊，可以以此來判斷目前的出塊狀態 —— 是否卡塊，Gas 過高是卡塊的原因還是鏈上活躍所導致的，以此來判斷給多少 Gas。\n\nordiscan\n\nordiscan 是一個 Ordinals 瀏覽器，允許使用者查詢比特幣上的序號和銘文，同時還可以搜尋對應的銘文和地址。\n\nBRC-20.io\n\nBRC-20.io 是一個針對比特幣銘文的代幣資料平臺，可為使用者提供各種 BRC-20 代幣的即時價格追蹤，使使用者能夠及時瞭解最新的市場趨勢，目前也已上線新產品 BRC20 DEX 與 DeFi 中心。\n\nOrdSpace\n\nOrdSpace 是一個面向 Ordinals 的資料洞察和分析平臺，它使用多維資料重新計算所有 BRC-20 代幣的排名。\n目前新產品 20scan 已經正式向公眾提供 API 服務（測試版），使開發人員能夠在 ORC-20 系統中快速構建各自的專案。\n\nOrdinals Directory\n\nOrdinals Directory 是一個針對 Ordinals 的 NFT 系列彙總平臺，可供收藏家發現熱門收藏品、新收藏品並分析底價資料。\n\nBest in Slot\n\nBest in Slot 作為 Ordinals 聚合 & 瀏覽器，支援使用者一鍵檢視所有的比特幣銘文及其詳細資訊，包括熱門銘文、最新銘文等資訊，並可直接進行即時互動。\n\nGeniiData\n\nGeniiData 是一個 Ordinals 生態資料分析平臺，可提供 BRC20 代幣的熱度指數和排名資料，支援使用者捕捉熱點銘文和 NFT 的即時鑄造情況。\n同時它已推出 ORC-20 索引服務，主要功能為展現 ORC-20 代幣部署的資訊，包括最大供應量、當前鑄幣情況以及是否可升級等、ORC-20 代幣持有人資訊、記錄交易流水、具備驗證交易狀態的能力。\n\nWhatscription\n\nWhatscription 是一個多鏈銘文監測協議，支援使用者即時追蹤查詢比特幣、以太坊、EOS、Polygon、Linea 等鏈上的銘文鑄造情況。\n\nOrdinalHub\n\nOrdinalHub 是一個集發現、追蹤和分析比特幣 NFT 於一身的一站式資料平臺，致力於幫助使用者在銘文交易中獲得優勢，並快速尋找新的趨勢。\n\n小結\n\nOrdinals 浪潮已將天量的資金、使用者、開發者通過銘文這條管道引入比特幣生態 —— 如果說以前的比特幣只有佔有「道統認知」和總市值優勢，銘文潮則直接大幅度提高了比特幣生態的新資產豐富度，同時也間接提高了開發者數量和使用者基數。\n因此無論銘文熱潮何時迴歸平靜，整個比特幣生態已經湧入足夠多的資金和注意力，會誕生一大批沉澱、建設、分享紅利的機會，所以從這個角度來說，比特幣生態 & 銘文基礎設施相對來說卻擁有長期價值，大量比特幣基礎設施相關的專案井噴也將成為必然，值得長線關注。\n\n相關報導\n\n評論》為何比特幣生態「必將」超越以太坊？\n\n一覽比特幣生態新趨勢：Ordinal、Atomical、bitVM、閃電網路\n\n比特幣生態崛起，把老二以太坊又踩了一遍？\n\nTags: OKX MarketplaceOKX WalletTurtSatUniSatUnisat Wallet",
+      "date": "2024/01/03",
+      "year": 2024,
+      "source": "BlockTempo-BTCtech",
+      "page_num": 43,
+      "scraped_at": "2025-11-18T04:25:22.964009"
+    },
+    {
+      "title": "Michael Saylor拋售2.16億鎂微策略股票：未來三個月要不斷加倉比特幣",
+      "link": "https://www.blocktempo.com/michael-saylor-sells-stocks-to-buy-bitcoin/",
+      "summary": "微策略創辦人 Michael Saylo...",
+      "content": "微策略創辦人 Michael Saylor 將開始實行每日賣微策略股票計劃，價值約 2.16 億美元，Michael Saylor 他將用這筆資金個人加倉比特幣。\n（前情提要：2024就是大牛市！Michael Saylor：BTC現貨ETF是華爾街30年來最重要發展）\n（背景補充：美國會計準則更新加密貨幣「可採公允價值記帳」；Michael Slayer讚：利好企業Hold比特幣）\n\n \n\n微\n策略（MicroStrategy）創辦人 Michael Saylor 是比特幣最大的忠實信仰者之一，根據 SEC 的文件顯示，Michael Saylor 將開始實行每日賣股計劃，將出售 31.5 萬股微策略股票（代碼MTSR），價值約2.16 億美元。\n\nMichael Saylor 選擇權到期\n資金用於個人名義購買比特幣\n\n據了解，計畫將於今年 1 月 2 日開始，持續到 4 月 25 日，每天賣出 5,000 股。在去年第三季度電話會議上，Michael Saylor 即表示，這些股票是基於 2014 年獲得的選擇權，當時他選擇僅領取 1 美元薪水。這些選擇權若不行使將到期失效，Saylor 計劃將賣出股票所得資金用於個人財務規劃，當然包括購買比特幣，他表示：\n\n行使這個選擇權將使我能夠應對個人義務，同時還可以為我的個人帳戶購買更多的比特幣，我對微策略的前景仍然保持樂觀，而且應該指出，股票銷售後我在公司的股權比例仍然非常顯著。\n\n不僅僅是 Michael Saylor 近期公開表示選擇加倉比特幣，早在 10 月開始至今，MicroStrategy 已經迎來 3 次的連續加倉，還在 12 月 27 日宣布，以約 6.157 億美元的價格額外購買了 14,620 枚 BTC，平均價格為 42,110 美元。截至 23 年 12 月 26 日，微策略現在持有 189,150 枚 BTC，以約 59 億美元的價格收購，平均價格為每顆比特幣 31,168 美元。\n\n延伸閱讀：快訊》微策略MicroStrategy再買14,620枚比特幣！HODL策略大賺22億美元\n\n微策略股票價格持續上揚\n\n自 2014 年 Michael Saylor 獲得股票選擇權以來，微策略的股價多數時間在 100 至 200 美元之間波動。然而，值得注意的是，在 2021 年的加密貨幣牛市期間，微策略的股價曾一度超過 1,000 美元。\n\n微策略股價｜Source：Google 財經\n\n今（3）日，美股開盤時三大指數均出現下跌。道瓊斯工業平均指數下跌0.50%，納斯達克綜合指數下跌0.92%，而標準普爾 500 指數下跌 0.63%。與此同時，區塊鏈相關概念股卻不跌反漲，礦企 Marathon Digital 的股價上漲超過 13%，Riot Platforms 的股價上漲超過 10%，而 MicroStrategy 的股價均上漲逾9%，再創近期新高。\n\n相關報導\n\n微策略新金主！選擇權公司Group One購入13.5%股份，坐上第二大股東\n\n微策略Michael Saylor：比特幣已觸底！有望重返69,000美元\n\nMichael Saylor：微策略正涉略比特幣閃電網路，研發企業應用解決方案\n\nTags: BTCMichael SaylorMicroStrategy微策略",
+      "date": "2024/01/03",
+      "year": 2024,
+      "source": "BlockTempo-BTCtech",
+      "page_num": 43,
+      "scraped_at": "2025-11-18T04:25:25.269606"
+    },
+    {
+      "title": "餘生只用比特幣！Strike CEO秀「0美元」銀行帳戶：與BTC共存亡",
+      "link": "https://www.blocktempo.com/jack-mallers-no-longer-holds-u-s-dollars/",
+      "summary": "比特幣閃電網路支付平台 Strike 執...",
+      "content": "比特幣閃電網路支付平台 Strike 執行長兼共同創辦人 Jack Mallers 今日做出重大宣示，稱自己不再持有美元，將與比特幣共存亡，他痛批美元讓千禧世代負債累累，而力挺比特幣是進行一場和平的抗議。\n（前情提要：比特幣支付Strike：全球36國家(含台灣)現可用「金融卡」購買BTC、手續費多少？）\n（背景補充：Strike完成8千萬鎂融資！野心劍指VISA；Tether CTO：閃電網路可助BTC回初衷）\n\n \n\n比\n特幣閃電網路支付平台 Strike 持續在全球推動比特幣支付的採用，於 2023 年完成 8,000 萬美元 B 輪融資、還在上月宣布支援全球用戶用「簽帳金融卡」在該公司 APP 內購買比特幣的功能，目前已在美國以外的 36 個國家/地區正式上線，其中也包含台灣。\n\nStrike CEO 身體力行支持比特幣\n\n為了宣告支持比特幣的決心，Strike 執行長兼共同創辦人 Jack Mallers 今（3）日清晨更宣布：他不再持有任何美元，連一分錢都沒有，身為美國千禧世代，他熱愛他的國家，但反對美國的貨幣，他全力支持比特幣，要麼共同繁榮，要麼一同沉沒。\n\nJack Mallers 補充痛批，美元有諸多缺點，自 1971 年美國放棄金本位制、成為世界儲備貨幣發行國後，印鈔導致超級金融化、資產超級通膨，使民眾不滿，印鈔讓那些擁有資產的人更富有，而買不起資產的人則變得更窮。\n\n截至 2021 年，前 10% 人口擁有美國總淨資產的 70%。Jack Mallers 批評，美元正在分裂人民，美國還面對槍枝暴力、藥物濫用和心理健康等問題，而身為千禧世代，他對美國最早的記憶是 911 事件和伊拉克戰爭，他目睹了持續不斷的戰爭、債務、壓力和內亂：\n\n我這一代什麼也買不起，為教育、汽車、房子，甚至食品而負債。\n\n讚比特幣體現美國價值觀\n\nJack Mallers 讚揚，比特幣是法幣貶值的最佳體現。比特幣有固定供應量，使用開源軟體和分布式網路，不會通貨膨脹；同時比特幣是能源貨幣，要獲得它需要消耗能源，進而建立其獨特的保存能力。\n\n此外，Jack 認為比特幣也象徵著美國價值觀，象徵個人自由、平等機會、自由市場經濟、創新和進步，是自由、機會、民主、權利和平等之地的貨幣：\n\n在過去 5 年內，如果您存美元：\n\n– 房價上漲 60%\n– 油價上漲 59%\n– 食品價格上漲 29%\n\n在過去 5 年內，如果您存比特幣：\n\n– 房價便宜 81%\n– 油價便宜 79%\n– 食品價格便宜 83%\n\n最後 Jack 表示，力挺比特幣，是一場和平的抗議，沒有武器，沒有憤怒的暴民，也沒有暴力：\n\n我瘋了嗎？我想只能拭目以待，至少，我希望成為一個教育媒介，激起您提出以下問題：我為什麼要持有美元？\n\n相關報導\n\n與 Strike 達成合作，電商巨頭 Shopify 允許商家接受「比特幣閃電網路支付」\n\nStrike發布「薪資 : BTC 直接轉換」功能，稱美元通膨吞噬血汗荷包\n\n華爾街反指標 Jim Cramer：比特幣是技術奇蹟無法被毀滅，BTC要崩了？\n\nTags: Jack MallersStrike比特幣美元",
+      "date": "2024/01/03",
+      "year": 2024,
+      "source": "BlockTempo-BTCtech",
+      "page_num": 43,
+      "scraped_at": "2025-11-18T04:25:28.438194"
+    },
+    {
+      "title": "華爾街反指標 Jim Cramer：比特幣是技術奇蹟無法被毀滅，BTC要崩了？",
+      "link": "https://www.blocktempo.com/jim-cramer-thinks-bitcoin-is-here-to-stay/",
+      "summary": "美國財經節目《瘋狂錢潮》主持人，被幣圈諷...",
+      "content": "美國財經節目《瘋狂錢潮》主持人，被幣圈諷為反指標的 Jim Cramer 近日受訪表示，比特幣是一個技術奇蹟，並且將繼續存在，讓社群擔憂 BTC 高點是否已到？\n（前情提要：華爾街狂人 | Jim Cramer 警告狗狗幣是「證券」將受 SEC 監管，發言遭砲轟）\n（背景補充：華爾街狂人 | Jim Cramer 因「博傻理論」投資以太坊：我相信那數百萬個傻瓜！）\n\n \n\n在\n美國證券交易委員會（SEC）本月對比特幣現貨 ETF 潛在批准的利好預期之下，BTC 在 2024 初始就持續展開攻勢，在昨（2）日下午 17:00 左右最高來到 45,879.63 美元，創下近 20 個月新高。\n\n在市場積極看好的背景下，CNBC 知名財經節目《瘋狂錢潮》的主持人 Jim Cramer 稍早在接受 CNBC 採訪時表示，數位資產已是人們不得不面對的現實，比特幣也將一直存在，無法被消滅。\n\nJim Cramer：比特幣將繼續存在\n\nJim 表示即使加密貨幣長期以來都在面對 SEC 的審查壓力，就連股神巴菲特及其戰友查理蒙格都對它們視而不見，但比特幣在剛過去的 2023 年仍然表現出了活力和韌性，BTC 是一個技術奇蹟，且將繼續存在：\n\n你無法殺死它（BTC），人們必須開始認識到它將繼續存在，且在未來還將出人意料地回歸（幣價上漲）。\n\n \n\n比特幣頂點到了？\n\n不過 Jim 也指出，比特幣的成功並不意味著所有加密貨幣都將繼續存在，相反，只有比特幣是這個例外。\n\n另外值得注意的是，由於 Jim 在 2022 年 12 月 5 日，當比特幣的交易價格約為 17,150 美元時，曾大聲呼籲投資者應該不計成本地拋售所有加密貨幣，並表示「賣掉糟糕的部位永遠都不嫌晚」；但是在他唱衰比特幣一個月後，BTC 卻反而開啟了絕地反彈，Jim 也因此獲得了市場「反指標」的稱號。\n\n這次他再次公開看好比特幣，在現貨 ETF、減半、美國聯準會放鬆貨幣政策..等眾多利好預期下，BTC 能否繼續上漲，還是受 Jim 的反指標影響下跌，還有待時間持續觀察。\n\n相關報導\n\n華爾街瘋子大轉舵！名嘴 Jim Cramer 幾乎把比特幣賣光光，曾說過要「留著當遺產」\n\n美國名嘴「華爾街瘋子Jim Cramer」宣告入手比特幣，稱等跌回 17,000 還會買更多\n\n信仰者+1｜比特幣兩個月漲超100%，華爾街瘋子Jim Cramer：就像會賺錢的保險\n\nTags: BTCJim Cramer反指標比特幣",
+      "date": "2024/01/03",
+      "year": 2024,
+      "source": "BlockTempo-BTCtech",
+      "page_num": 43,
+      "scraped_at": "2025-11-18T04:25:32.009844"
+    },
+    {
+      "title": "灰度再向SEC更新GBTC招股說明書，彭博分析師潑冷水：缺乏關鍵資料、轉型現貨ETF可能延遲",
+      "link": "https://www.blocktempo.com/grayscale-updated-s-3-document/",
+      "summary": "彭博 ETF 分析師 James Sey...",
+      "content": "彭博 ETF 分析師 James Seyffart 在分析灰度（Grayscale）最新修訂的 S-3 文件時指出，該資料並沒有太多細節，僅僅在有關現金創建的事情上有明確描述，但仍然沒有指定授權參與人（AP）。\n（前情提要：GBTC轉現貨來了？SEC指灰度改「現金贖回」，負溢價收至5.5%）\n（背景補充：灰度再與SEC協商比特幣現貨ETF！全力爭取「實物贖回」模式過關）\n\n \n\n美\n國證券交易委員會（SEC）對比特幣現貨 ETF 的批准進入關鍵時期。就在昨（2）晚，力圖將比特幣信託（GBTC）轉換為現貨 ETF 的灰度，也第三度向 SEC 提交招股說明書。\n\n招股說明書向潛在投資者提供包括投資目標、費用、風險以及管理團隊等詳細資訊，在獲得監管批准後，ETF 才可以公開發行和交易。\n彭博分析師：新文件仍缺乏關鍵資料\n\n不過雖然灰度已是第三度更新，彭博 ETF 分析師 James Seyffart 卻指出這份最新文件中並沒有太多細節，僅僅在有關現金創建的事情上有明確描述，但仍然沒有指定授權參與人（Authorized Participant，AP）：\n\n不知道為什麼，SEC 很明確希望看到它（AP，授權參與人），但灰度沒有說明。\n\n另外，沒有任何關於費用的描述，這也是一個大問題。\n\n \n\nSEC 批准不會在一月批准？\n\n值得一提的是，James Seyffart 在回復社群成員的疑問時還表示，法院並未規定灰度的比特幣現貨 ETF 轉換申請的截止日期，因此從理論上講，灰度的申請有可能不會在一月中的截止日前獲得通過：\n\n我想理論上是可能的，灰度是一種完全獨特的情況。我不知道他們的截止日期，法院從未對此有過規定。\n\n相關報導\n\nSEC再延後灰度、Hashdex..4家以太坊現貨ETF申請，彭博分析師：關鍵點是明年5月\n\n與SEC唱反調》灰度要求GBTC以「實物贖回」，應同時批准所有比特幣現貨ETF\n\n比特幣現貨ETF「有變數」？貝萊德尚未獲SEC通知、FOX分析關鍵批准時間\n\nTags: BTCbtc etfGBTCGrayScaleSEC比特幣現貨 ETF灰度",
+      "date": "2024/01/03",
+      "year": 2024,
+      "source": "BlockTempo-BTCtech",
+      "page_num": 43,
+      "scraped_at": "2025-11-18T04:25:35.183534"
+    },
+    {
+      "title": "監管緊縮！全球比特幣ATM數量大減11.1%，美國下降15.4%最激烈",
+      "link": "https://www.blocktempo.com/the-number-of-bitcoin-atms-worldwide-decreased-by-11-1/",
+      "summary": "全球比特幣和加密貨幣自動提款機（ATM）...",
+      "content": "全球比特幣和加密貨幣自動提款機（ATM）數量在近十年間穩步增長後，於 2022 年 8 月達到歷史高點的 39,376 台，隨後開始逆轉。最新數據顯示，比特幣 ATM 數量已減少至 33,628 台，與 2023 年初相比下降了 11.1%。\n（前情提要：比特幣ATM「Coin Cloud」驚傳大規模數據外洩！駭客稱已竊取30萬用戶隱私資料）\n（背景補充：最大比特幣ATM製造商遭駭！General Bytes 被盜150萬鎂BTC，緊急關閉雲端服務）\n\n本文目錄\n美國安裝數量大幅減少\nATM 製造商中 BitAccess 減少最多\n加密貨幣 ATM 主要支援幣種\n加密貨幣 ATM 減少原因\n\n \n\n近\n十年來，全球安裝的比特幣和加密貨幣自動提款機 (ATM) 數量一直在穩步增長，並在 2022 年 8 月達到歷史新高 39,376 台，但隨後就出現了逆轉。根據 Coin ATM Radar 的數據，比特幣 ATM 終於在去年 8 月開始小幅穩步增長，截至昨（1）日，全球 ATM 的總數成長至 33,628 台。然而，與 2023 年初的 37,827 台相比，仍減少了大約 11.1%。\n\nSource : Coin ATM Radar\n美國安裝數量大幅減少\n\n在這次減少中，美國的減少最為顯著，其數量從 32,672 台下降到 27,631 台，下降了 15.4%。然而，該國仍擁有全球 82% 的比特幣 ATM。\n\n與美國相對的，澳洲、加拿大、西班牙和波蘭等國的加密貨幣 ATM 數量則穩定上升。\n\nATM 製造商中 BitAccess 減少最多\n\nATM 製造商 BitAccess 也被視為加密貨幣 ATM 數量整體下降的一個原因。BitAccess 的累積安裝量從 2022 年 8 月的 9,160 台降至昨日的 6,774 台，下降了 26%。儘管如此，BitAccess 仍佔有市場的 20.1% 份額。\n\n相較之下，市場份額超過 BitAccess 的兩家製造商 — General Bytes（佔 32.2%）和 Genesis Coin（佔 22.8%） — 則持續增加其比特幣 ATM 的數量。這表明市場在製造商之間存在不均衡的競爭格局，部分製造商在市場變化中仍保持增長。\n\nSource : Coin ATM Radar\n加密貨幣 ATM 主要支援幣種\n\n加密貨幣 ATM 支援的主要加密貨幣迄今為止仍以比特幣為主，而其他前五名支援從 ATM 購買的加密貨幣分別是：萊特幣 (LTC)、以太幣 (ETH)、狗狗幣 (Doge)、比特幣現金 (BCH) 和穩定幣 USDT。\n\nSource : Coin ATM Radar\n加密貨幣 ATM 減少原因\n\n全球加密貨幣 ATM 的數量持續下降，主要是受到地緣政治緊張局勢、收入損失以及持續的熊市所影響。加密貨幣 ATM 的普及與民眾使用加密貨幣的程度密切相關。隨著市場環境的逐步回暖，預計加密貨幣 ATM 的數量將再次呈現增長趨勢。\n\n相關報導\n\n金管會緊盯全台比特幣 ATM！未落實「洗錢防制法」限期改善、最高可罰千萬\n\n比特幣ATM負責人被抓！台北頂好 西門町的 BTM 被詐騙集團當洗錢水房\n\n薩爾瓦多千人遊行，「燒毀比特幣ATM」激烈抗議；Chivo錢包已超50萬用戶\n\n\nTags: ATMBitAccessGeneral BytesGenesis Coin加密貨幣ATM比特幣ATM",
+      "date": "2024/01/02",
+      "year": 2024,
+      "source": "BlockTempo-BTCtech",
+      "page_num": 43,
+      "scraped_at": "2025-11-18T04:25:37.732220"
+    },
+    {
+      "title": "比特幣開發者再轟：Ordinals是山寨騙局！利用BTC名氣拉高出貨",
+      "link": "https://www.blocktempo.com/jimmy-song-likens-ordinals-to-altcoin-scams/",
+      "summary": "比特幣銘文協議 Ordinals 爆紅，...",
+      "content": "比特幣銘文協議 Ordinals 爆紅，在近期引爆比特幣銘文鑄造及 BRC-20 交易熱潮，不過比特幣開發者 Jimmy Song 在 1 日痛批，Ordinals 協議本質上就是一種山寨幣騙局，利用比特幣的知名度來「拉高出貨」行騙。\n（前情提要：比特幣教父：不用扼殺銘文！Ordinals為礦工帶來巨大收益、網路堵塞能靠Layer2解決）\n（背景補充：小白也能看懂的Ordinals銘文NFT入門介紹）\n\n \n\n比\n特幣開發者 Jimmy Song 在 1 日發推抨擊，Ordinals 協議本質上就是山寨幣騙局，通過建立在比特幣網路上，並採用通常與比特幣相關的健全貨幣、自主權敘述，Ordinals 成功利用比特幣的知名度，來顯得合法、可信。\n\nJimmy Song 表示：\n\n這就是 Ordinals 和 BRC-20 越來越流行的原因，現在在以太坊或 Solana 上發行代幣，幾乎不可能擺脫「屎幣」 （shitcoin）的標籤，比特幣和山寨幣之間的鴻溝太大，跨越鴻溝來欺騙新手變得更加困難了。\n\n但透過在比特幣上發行代幣，現在有更多的混淆空間，發行者可聲稱透過費用來支持比特幣，同時，進行同樣的騙局。\n\nJimmy Song 認為，揭開 Ordinals 運動的面紗，就能看出其與山寨幣有類似的拉高出貨（Pump and dump） 性質，主要目的是兜售代幣和投機，而非推進比特幣的經濟自由使命。\n\nJimmy Song 最後呼籲，應把比特幣持有者和這些詐騙幣持有者區分開來：\n\n它們都是騙局，失敗的速度越快，對比特幣就越好，正如過去看到的山寨幣一樣，忽視它們不會讓它們消失，我們需要大聲斥責它們，毫不留情地揭露其詐欺行為。\n\n此前，比特幣核心開發者 Luke Dashjr 也公開抨擊 Ordinals ，認為銘文實際上就是對比特幣網路發送垃圾訊息攻擊，並希望能夠在明年的最新版本中修復它，他還稱銘文一詞根本不存在，從頭開始就是場騙局。\n\n延伸閱讀：比特幣銘文判死刑？核心開發者嗆：明年修復漏洞，BRC-20會消失！\n\n比特幣教父促勿扼殺 Ordinals\n\n不過相較於 Jimmy Song 、Luke Dashjr 的批評，比特幣社群中的一些人士則認為 Ordinals 能帶來好處。\n\n比特幣教父、基礎設施公司 Blockstream 執行長 Adam Back 上月就提出不同觀點，呼籲不要試圖去扼殺 Ordinals ，指在比特幣鏈上發行資產給比特幣礦工帶來巨大的收益，對於比特幣的長期穩定發展是有價值的。\n\n至於 Ordinals 給比特幣網路帶來的擁堵問題， Adam Back 主張可通過發展比特幣 L2 來解決。\n\n美國上市軟體公司、比特幣持幣量霸主微策略（MicroStrategy）共同創辦人 Michael Saylor 日前也發聲力挺 Ordinals ，透露該公司正在研究 Ordinals，並評估 Ordinals 在應用開發方面的潛力。\n\nMichael Saylor 認為，圍繞著 Ordinals 所展開的討論很重要，原因是比特幣礦工必須在長期內取得成功，開發基於比特幣功能的應用程式，能夠促進比特幣在個人、公司、政府方面的整體採用。\n\n相關報導\n\n牛市燈亮》比特幣NFT超車Polygon！Ordinals單日交易量飆破8000萬鎂\n\n比特幣NFT Summer！Ordinals項目BitcoinShrooms以45萬美元成交、估價翻5倍\n\nOrdinals銘文誕生1週年！回顧比特幣NFT的傳奇歷程\n\nTags: Jimmy SongOrdinals山寨幣比特幣銘文",
+      "date": "2024/01/02",
+      "year": 2024,
+      "source": "BlockTempo-BTCtech",
+      "page_num": 43,
+      "scraped_at": "2025-11-18T04:25:40.871331"
+    },
+    {
+      "title": "比特幣1月就瘋漲！Matrixport：機構開始FOMO將大肆買進",
+      "link": "https://www.blocktempo.com/matrixport-predicts-bitcoin-will-surge-to-50000-in-january/",
+      "summary": "隨著比特幣現貨 ETF 的審批關鍵時刻逼...",
+      "content": "隨著比特幣現貨 ETF 的審批關鍵時刻逼近，比特幣價格在今晨站上 4.5 萬美元，而加密貨幣金融服務平台 Matrixport 更是預測，比特幣價格將在 1 月明顯上漲至 50,000 美元。\n（前情提要：比特幣現貨ETF「有變數」？貝萊德尚未獲SEC通知、FOX分析關鍵批准時間）\n（背景補充：貝萊德、富達..9家發行商公布「承銷商AP」，SEC批准比特幣現貨ETF最後一步）\n\n \n\n隨\n著比特幣現貨 ETF 審批的關鍵時刻日益逼近，市場的關注度不斷升高。12 月 30 日，路透引述消息人士透露，美國證券交易委員會（SEC）可能會在本週二或週三批准首批比特幣現貨 ETF。然而，Fox Business 的記者 Eleanor Terrett 於今日清晨表示，本週獲批的可能性並不大，但接下來的兩週仍有機會。這一消息似乎對比特幣價格產生了積極影響，使其在今晨站上 4.5 萬美元。\n\n加密貨幣金融服務平台 Matrixport 更於今日稍早預測，比特幣價格將在 1 月顯著上漲，達到 50,000 美元。\n\n這預測基於市場狀況與投資者行為的觀察，Matrixport 在報告中指出，比特幣在 12 月中下旬盤整之後，預計將有強勁的新年購買動能。過去持有看跌觀點的機構投資者，為了不錯過潛在的上漲機會，預計將在 2024 年市場開盤時立即進行購買。\n\nMatrixport：比特幣現貨 ETF 獲批不會是「賣出新聞」事件\n\nMatrixport 預測，比特幣現貨 ETF 的潛在批准可能早於交易者預期的下週即將宣布，這種出乎意料的「提前」批准或將進一步推動價格上漲。此外，Matrixport 認為，批准後不會是「賣出新聞」事件，因爲比特幣現貨 ETF 將使比特幣成為機構投資組合的合法資產。\n\n同時，比特幣持有者日益將資產從交易所轉移到自託管錢包，使得交易所的比特幣可用交易量降低，再加上挖礦公司在減半週期（預計 2024 年 4 月）前後可能進一步限制供應，導致短缺。此前，Matrixport 估計比特幣現貨 ETF 可能會帶來 240-500 億美元的資金流入，這在供應受限的市場背景下，可能導致比特幣價格顯著上漲。\n\n最後，報告指出，從歷史趨勢來看，比特幣在減半週期和美國選舉年期間表現良好，而市場的看漲指標，如比特幣在今晨創下新高的資金費率 （年化 +66%），進一步支持價格上漲的預測。綜合這些因素，Matrixport 認為可能將比特幣推升至 1 月 50,000 美元的目標水平之上。\n\n比特幣資金費率。Source : Matrixport 報告\n\n相關報導\n\nMatrixport：2024年上半年加密行業展望，5個微觀事件圍繞大事件\n\n幣市17個月來資金首度轉為「淨流入」， Matrixport：比特幣年底上看4.5萬鎂\n\n貝萊德、富達..9家發行商公布「承銷商AP」，SEC批准比特幣現貨ETF最後一步\n\nTags: ETFMatrixport價格預測比特幣比特幣現貨 ETF",
+      "date": "2024/01/02",
+      "year": 2024,
+      "source": "BlockTempo-BTCtech",
+      "page_num": 43,
+      "scraped_at": "2025-11-18T04:25:44.037664"
+    },
+    {
+      "title": "Tether成為比特幣第10大巨鯨！持倉超6.6萬枚、USDT市值站上917億鎂",
+      "link": "https://www.blocktempo.com/tether-becomes-bitcoins-10th-largest-holder/",
+      "summary": "USDT 發行商 Tether 於去年 ...",
+      "content": "USDT 發行商 Tether 於去年 5 月宣布將定期將 15% 的淨利潤用於購買比特幣後，其持倉量不斷增長，更成為了比特幣第 10 大持有者，持有高達 66,465 枚比特幣，市值約 29.96 億美元，相比去年第一季的 15 億美元，翻漲近 1 倍。\n（前情提要：Tether遭爆是比特幣「第11大巨鯨」持倉破5.5萬枚BTC，Q2再加倉4500萬鎂）\n（背景補充：重倉比特幣》Tether 承諾將 USDT「15%淨利定投BTC」）\n\n本文目錄\nTether 成為比特幣第 10 大持有者\nTether 比特幣儲備價值翻漲近 1 倍\nUSDT 市值屢創新高\n\n \n\n穩\n定幣最大發行商 Tether  於去 (2023) 年 5 月時宣布將定期分配高達 15% 的淨利潤購買比特幣，並將自行託管，以多元化其資產儲備。\n\n在 Tether 去年第二季財報公佈時，21co 鏈上分析師 Tom Wan 發現 Tether 用於購買比特幣的地址，當時該地址持有價值約 16.7 億美元的比特幣，相比去年第一季的 15 億美元，加倉約 1,529 枚比特幣。當時，分析師 Tom 指出，Tether 可能是比特幣第 11 大持有者。\n\nTether 成為比特幣第 10 大持有者\n\n而昨 (1) 日，鏈上數據分析師余燼表示，Tether 已升至比特幣第 10 大持有者的地位。他指出，Tether 最近從 Bitfinex 交易所提取了價值約 3.79 億美元的 8,888.88 枚比特幣，這是去年第四季的加倉量。有趣的是，8888.88 這個數字似乎帶有慶祝 2024 年到來的意味，非常吉利。\n\nTether 比特幣儲備價值翻漲近 1 倍\n\n目前，Tether 持有的比特幣數量達 66,465 枚。隨著比特幣價格在過去 24 小時內上漲超過 5%，達到約 45,000 美元，這些比特幣的市值高達約 29.96 億美元。相比之下，去年第一季時，其比特幣資產價值僅為 15 億美元，因此目前的價值已經近乎翻倍。據余燼指出，Tether 購入這些比特幣的平均成本約為 25,176 美元。基於目前的市場價格，這意味著 Tether 的未實現利益已達到約 13.23 億美元，相當於高達 78% 的投資報酬率。\n\nUSDT 市值屢創新高\n\nTether 發行的美元穩定幣 USDT 是市占率最高的穩定幣，根據 CoinGecko 數據，其市值在 12 月中旬首次突破 900 億美元，目前約 917.3 億美元，不斷創下新高，並占穩定幣市場高達 72.05% 份額。\n\nTether 在去年第三季財報揭露，其現金及現金等價物，在總儲備所佔比例創下歷史新高，達 85.7%。這部分資產主要包括美國國庫券，總額達 726 億美元，以確保流動性和穩定幣生態系的穩定性​​。\n\n此外，截至 9 月 30 日，Tether 累積了 32 億美元的超額準備金，僅剩 20 億美元的擔保貸款，且截至 10 月 31 日，Tether 預估將擁有 42 億美元的超額準備金，其中擔保貸款規模將僅剩 9 億美元。\n\n相關報導\n\nTether在以太坊增發10億USDT！屬於 Defi 的牛市回來了嗎？\n\nArthur Hayes：Tether等穩定幣公司將被「銀行取代」一旦美國監管放行\n\nTags: Tether巨鯨比特幣穩定幣",
+      "date": "2024/01/02",
+      "year": 2024,
+      "source": "BlockTempo-BTCtech",
+      "page_num": 43,
+      "scraped_at": "2025-11-18T04:25:47.236123"
+    },
+    {
+      "title": "鑄造教學》ARC-20 夸克（QUARK）已成比特幣生態新寵兒",
+      "link": "https://www.blocktempo.com/inscription-mint-teaching-rookie-could-mint-arc-20-token-quark-quick/",
+      "summary": "比特幣生態中 Atomicals 的 A...",
+      "content": "比特幣生態中 Atomicals 的 ARC-20 銘文代幣 QUARK，由於其迷因屬性，因此在持幣地址及市值上表現表現出成長潛力，而 QUARK 至撰稿前仍可鑄造，讀者可快速了解如何進行。本文不為任何投資建議、請自行研究後小心謹慎。\n（前情提要：解析BTC兩大原生資產協議：BRC20與ARC20）\n（背景補充：比特幣生態全面爆發：快速了解ARC20千倍賽道、閃電網路百倍賽道）\n\n本文目錄\n工具準備：\n1. 註冊錢包\n2. 進入 Satsx\n3. 點選 Preview\n3. 選擇 gas\n4. 點選 Inscribe\n5. 開始鑄造\n6. 錢包簽名\n7. 等待過塊\n\n \n\n比\n特幣生態幾乎全網在挖的 ARC20 代幣夸克，其英文含義 quark 是構成物質的基本單位，與組成 bitcoin 的最小單位 sats 類似，夸克在一定程度上具有 meme 屬性。又因其初始市值高、持幣地址多、基礎共識強，不少社群成員認為夸克有望成為 Atomicals 生態中能出圈的 meme 幣。\n\n從參與度角度看，一方面夸克總量 50 萬，需長時間才能挖完，可以讓很多人都參與進來，凝聚一定的共識。另一方面，夸克挖礦難度為 6，相較於 Electron 和 Neutron 來說簡單一些，再配合上最近的多執行緒優化，讓大多數人都有機會體驗到挖礦的快感。\n\n目前，夸克總供應量為 50 萬張，每張 2 萬枚幣。據 Atomical Market 資料，截至撰稿時，一張夸克價格為 25 美元，市值超 42 萬美元，24 小時交易量超 5 萬美元。\n\n有程式設計背景和能力的讀者，更建議搭建環境去打，效率更高，成本更低。在本文中為小白們整理了一篇最簡單的挖取鑄造方式。\n\n工具準備：\n\n1. Wizz Wallet（前 ATOM Wallet）錢包 ；\n\n2. 鑄造代打平臺 ；\n\n3. Atomical Market 交易市場 ；\n\n4. QUARK 專案詳情 ；\n\n5. mempool 比特幣鏈上出塊查詢\n\n1. 註冊錢包\n\n可選擇 Unisat 錢包或 Wizz 錢包（原 atom 錢包）地址接收，目前建議使用 Wizz 錢包，能更好識別 Atomicals 生態資產。\n\n開啟 Wizz 錢包 官網 ，點選「Install」（安裝），新增至 chrome 瀏覽器擴展套件程式。\n\n在 chrome 瀏覽器擴展套件程式中，開啟 Wizz Wallet（Formerly Atom）外掛。新使用者在此介面選擇「Create new wallet」（建立新錢包）。輸入密碼註冊後會彈出 12 位助記詞，備份助記詞，選擇後面為 m/86/0/0/0/0 的地址，點選「Continue」即可建立成功。\n\n往 Wizz 錢包地址中轉比特幣作為手續費，目前一張的成本在 20U 左右，建議多準備一些比特幣作為 GAS 費用，以防止手續費不夠用。\n\n2. 進入 Satsx\n\n進入代打 網站 satsx，連結錢包後。在 Inscribe 頁面中，左側選擇 Atomicals，FT 選項卡下選擇 Mint，並在「Ticker」處填入「quark」。若需要由其他地址接收，則勾選「Receive by Other Address」（以其他地址接收），並填入新的地址。\n\n3. 點選 Preview\n\n基本資訊填好後，點選「Preview」（預覽）。在「Content」（內容）程式碼填寫框中，核對第三行程式碼處中的 mint_ticker 後為「quark」。\n\n3. 選擇 gas\n\n在「Transaction Fees」（交易費）中，根據當前比特幣的 gas 費用，選擇合適的費用，不同費用鑄造速度不同，分別為 1 小時、30 分鐘和 10 分鐘。\n\n目前使用代打網站的總費用約為 25U 左右，其中 1000 sats 的費用是給代打平臺，鑄銘文字身需要花費為 2 萬 sats，其餘為交易費用。\n\n4. 點選 Inscribe\n\n若程式碼資訊出錯可點選「Rrevious Step」（返回上一步）修改基本資訊。資訊確認無誤，並選擇完 gas 後點擊「Inscribe」（銘刻），系統將會檢查你的 UTXOs 以檢視你是否有足夠的資金。經過檢查，UTXOs 充足後，將開始構建交易。\n\n5. 開始鑄造\n\n這個過程會很久，需要耐心等待，消耗的時間取決於 Bitwork 的難度，QUARK 挖礦難度 6。 據 DUNE 資料顯示 ，目前 QUARK 的鑄造進度為 2.92%，據社群回饋，目前挖一張 QUARK 所需時間大約在 1.5-2 小時左右。不過據筆者測試，時間遠超 2 小時，因此建議力所能及的使用者搭建環境挖 QUARK。\n\n6. 錢包簽名\n\n成功挖到 QUARK 後，Wizz 錢包會彈出簽名框，完成簽名後，等待交易在交易池中過塊。\n\n7. 等待過塊\n\n點選 Wizz 錢包中的「View History」（檢視歷史），進入最近一筆交易，當 mempool 顯示過塊為藍紫色和交易被確認時，就成功鑄造了一張 QUARK。\n\n相關報導\n\n比特幣銘文是垃圾？該重新思考區塊鏈的本質了\n\n七年磨一劍「比特幣閃電網路」，萬字解析面臨的挑戰與未來\n\n比特幣Layer2生態盤點：Stacks、閃電網路有哪些重要項目\n\nTags: ARC-20bitcoinQUARK",
+      "date": "2024/01/01",
+      "year": 2024,
+      "source": "BlockTempo-BTCtech",
+      "page_num": 43,
+      "scraped_at": "2025-11-18T04:25:49.640013"
+    }
+  ],
+  "saved_at": "2025-11-18T04:26:18.034088"
+}
