@@ -4,6 +4,10 @@
 
 Crypto Market Data Pipeline 是一套面向量化研究的市場數據管線，負責擷取、清洗與儲存交易所 K 線等時間序列資料。適合用於建立可重現的研究資料底座，支援回測、因子研究與資料品質監控。
 
+## About (EN)
+
+Crypto Market Data Pipeline is a production-oriented data pipeline for collecting, cleaning, and storing multi-exchange market time series. It provides a reproducible data foundation for backtesting, quantitative research, and data quality operations.
+
 ## 📋 Quick Summary
 
 > 📊 **Crypto Market Data Pipeline** 是一套生產級加密貨幣市場數據管線，專為量化交易研究打造。💹 已成功擷取並處理超過 **310 萬筆 K 線數據**，涵蓋 Binance Futures 與 dYdX v4 兩大交易所，時間跨度近 6 年（2019-2025）。🔬 核心模組包含市場結構分析（EMA/RSI 趨勢週期）、進階微觀結構指標（ATR 波動率、資金費率、未平倉量）、以及利潤預測引擎。🤖 整合 XGBoost、LightGBM、scikit-learn 等機器學習框架與 Optuna 超參數優化，支援策略回測與部署。📈 數據資產涵蓋 28+ 結構化數據集，包括鯨魚追蹤、清算壓力、技術信號品質評估等。⚙️ 技術棧涵蓋 Python、pandas、FastAPI、Celery 任務佇列及 Prometheus 監控。🎯 適合量化交易員、數據科學家、以及需要大規模歷史數據進行演算法交易策略研究的團隊！
